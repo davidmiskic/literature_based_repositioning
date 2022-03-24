@@ -1,0 +1,6188 @@
+DRUG_0	PMID25991433-Compound-L2
+DRUG_1	CGS-26529
+DRUG_2	trans-2-methylcrotonic acid
+DRUG_3	Petrosaspongiolide P
+DRUG_4	methamphetamine intravenous
+DRUG_5	RG7314
+DRUG_6	reglitazar
+DRUG_7	Ad-OC-hsvTK/valacyclovir
+DRUG_8	9-But-3-enyl-9H-adenine
+DRUG_9	Levcromakalim
+DRUG_10	(5-Phenyl-oxazol-2-yl)-m-tolyl-amine
+DRUG_11	BrP-LPA
+DRUG_12	NSC-172033
+DRUG_13	2-amino-6-phenyl-4-p-tolylnicotinonitrile
+DRUG_14	PMID27537201-Compound-Figure15a
+DRUG_15	butaprost (free acid form)
+DRUG_16	4-((naphthalen-2-yloxy)methyl)piperidine
+DRUG_17	Pyrido[3,2-e][1,2,4]triazolo[4,3-a]pyrazine derivative 2
+DRUG_18	AC3056
+DRUG_19	(4-methoxyphenyl)(4-phenylazepan-1-yl)methanone
+DRUG_20	AVA-101
+DRUG_21	Adamantan-1-yl-piperazin-1-yl-methanone
+DRUG_22	4-Dimethylamino-2,6-diisopropyl-phenol
+DRUG_23	5-bromo-1H-indazole
+DRUG_24	TRIPHENYLMETHANAMINE
+DRUG_25	L-689065
+DRUG_26	JMV180
+DRUG_27	6-bromo-5-methyl-1H-indole-2,3-dione
+DRUG_28	Losmapimod
+DRUG_29	AllerB
+DRUG_30	RG-7185
+DRUG_31	Lactoquinomycin
+DRUG_32	PHA-666859
+DRUG_33	GW-501516
+DRUG_34	(S)-2-Amino-6-[(E)-ethylimino]-hexanoic acid
+DRUG_35	BMS pyrazole inhibitor 7f
+DRUG_36	NSC-89508
+DRUG_37	GSK2647544
+DRUG_38	TH-0318
+DRUG_39	4,5,6,7-tetrafluoro-3-perfluorophenyl-1H-indazole
+DRUG_40	SDZ-ISQ-844
+DRUG_41	SLx-4090
+DRUG_42	Terutroban sodium
+DRUG_43	3-aminobenzo[c][1,5]naphthyridin-6(5H)-one
+DRUG_44	CLX-0921
+DRUG_45	ISIS 1827
+DRUG_46	NOStentin
+DRUG_47	4,5,6,7-tetrafluoro-3-methyl-1H-indazole
+DRUG_48	Lorlatinib
+DRUG_49	3-epicorosolic acid methyl ester
+DRUG_50	Melanoma vaccine (ALVAC)
+DRUG_51	PMID25991433-Compound-P3
+DRUG_52	Carbamide derivative 19
+DRUG_53	TGF-beta receptor 1 kinase inhibitor
+DRUG_54	WY-50295-tromethamine
+DRUG_55	L-Tryptophan-L-aspartic acid
+DRUG_56	PS-178990
+DRUG_57	GSK2269557
+DRUG_58	Phenylpyridine derivative 3
+DRUG_59	Glycodiazine
+DRUG_60	PMID26004420-Compound-US20140031349B
+DRUG_61	8-Methoxy-2-(4-nitro-phenyl)-3H-quinazolin-4-one
+DRUG_62	Domitroban
+DRUG_63	(S)-DHPA
+DRUG_64	Pravastatin derivative 1
+DRUG_65	Testogen TDS
+DRUG_66	2-(4-Butoxy-phenoxy)-N-hydroxy-N-methyl-acetamide
+DRUG_67	LY97241
+DRUG_68	ICI-181037
+DRUG_69	Bevacizumab + Rituximab
+DRUG_70	BZ6
+DRUG_71	1,2-bis(3,4,5-trifluorophenyl)ethane-1,2-dione
+DRUG_72	Ethyl 6-iodo-9H-pyrido[3,4-b]indole-3-carboxylate
+DRUG_73	GSK269962A
+DRUG_74	1,2-bis(3-fluorophenyl)-2-hydroxyethanon
+DRUG_75	Bindarit
+DRUG_76	PMID25772215-Compound-US02014179750TG7-76
+DRUG_77	1-allyl-2-[3-(isopropylamino)propoxy]-9H-carbazole
+DRUG_78	SD-6010
+DRUG_79	6-o-tolylquinazolin-2-amine
+DRUG_80	BMS-754807
+DRUG_81	2-[(4-fluorophenyl)ethynyl]-N6-methoxyadenosine
+DRUG_82	MK2 inhibitors
+DRUG_83	TGF-beta Shield
+DRUG_84	Romiplostim
+DRUG_85	PMID29130358-Compound-Figure17(11)
+DRUG_86	Tamibarotene
+DRUG_87	(9Z,11E,13S)-13-hydroxyoctadeca-9,11-dienoic acid
+DRUG_88	2-oleoyl-LPA
+DRUG_89	2-[(4-acetylphenyl)ethynyl]-N6-methoxyadenosine
+DRUG_90	3-(butylthio)-1,1,1-trifluoropropan-2-one
+DRUG_91	(11E)-OCTADEC-11-ENOIC ACID
+DRUG_92	4-(ethylthio)-6-phenyl-1,3,5-triazin-2-amine
+DRUG_93	Pyrrolo[3,4-c]carbazole-1,3(2H,6H)-dione
+DRUG_94	Research programme: peroxisome proliferator-activated receptor gamma agonist, Omeros
+DRUG_95	GNF-PF-2893
+DRUG_96	1-(2-bromoethyl)-1H-indole-2,3-dione
+DRUG_97	ISIS 6431
+DRUG_98	Affinitak + Gemcitabine
+DRUG_99	N-Hydroxy-3-phenyl-acrylamide
+DRUG_100	ISIS 4764
+DRUG_101	3,3-Dimethyl-dihydro-furan-2-one
+DRUG_102	PHA-739358
+DRUG_103	fMet-Leu-Phe
+DRUG_104	PMID26004420-Compound-WO2013028474B
+DRUG_105	ZARAGOZIC ACID B
+DRUG_106	SSR-125180
+DRUG_107	15-deoxy-Delta(12, 14)-prostaglandin J(2)
+DRUG_108	4-[2-(4-Phenyl-butoxy)-ethyl]-phenol
+DRUG_109	A-71623
+DRUG_110	GSK-677954
+DRUG_111	3-oxo-2,3-dihydro-1H-indazole-4-carboxamide derivative 1
+DRUG_112	KD3010
+DRUG_113	2-Naphthalen-1-ylmethyl-1,2-dihydro-indazol-3-one
+DRUG_114	2-ethyl-4-(furan-3-yl)thieno[3,2-d]pyrimidine
+DRUG_115	ISIS 109352
+DRUG_116	GW-788388
+DRUG_117	SC-45662
+DRUG_118	6-(2-Fluoropropyl)-4-methylpyridin-2-amine
+DRUG_119	GM-CSF cancer vaccine
+DRUG_120	PGH2
+DRUG_121	Quinoline and quinazoline derivative 6
+DRUG_122	6-Chloro-2-(3-nitro-phenyl)-chromen-4-one
+DRUG_123	AZD8075
+DRUG_124	R-1487
+DRUG_125	13-acetate
+DRUG_126	6-Benzylsulfanyl-9H-purine
+DRUG_127	Plantainoside D
+DRUG_128	PMID24432909C8e
+DRUG_129	O-Phosphoethanolamine
+DRUG_130	L-657925
+DRUG_131	MK-8109
+DRUG_132	IM-094882
+DRUG_133	Aleglitazar
+DRUG_134	Sirna-027
+DRUG_135	PMID9003518C3
+DRUG_136	PMID25416646-Compound-Figure5-H
+DRUG_137	PMID27537201-Compound-Figure17
+DRUG_138	3,4,5-trimethoxy-N-(thiazol-2-yl)benzamide
+DRUG_139	4-(1H-indol-6-ylamino)-5-styrylnicotinonitrile
+DRUG_140	PMID8246233C28
+DRUG_141	6-Hydroxypropylthymine
+DRUG_142	Tazarotene
+DRUG_143	4-(o-tolylthio)-2-(trifluoromethyl)benzonitrile
+DRUG_144	Quinazolinedione derivative 2
+DRUG_145	L-Tryptophan-L-asparagine
+DRUG_146	LXA4
+DRUG_147	[HO1][Orn8(5/6C-Flu)]VT
+DRUG_148	3-Ethoxy-9H-beta-carboline
+DRUG_149	PMID26004420-Compound-WO2014085210C
+DRUG_150	ORBOFIBAN
+DRUG_151	XL652/XL014
+DRUG_152	A-78773
+DRUG_153	SR12813
+DRUG_154	PMID8246237C18t
+DRUG_155	RXP470.1
+DRUG_156	Delucemine
+DRUG_157	ARN34
+DRUG_158	SY-1425
+DRUG_159	2-(2-(biphenyl-4-yl)ethylthio)acetic acid
+DRUG_160	Tolafentrine
+DRUG_161	2-(2-cyclohexyl-4-methoxyphenoxy)acetic acid
+DRUG_162	[HO1][Thr4,Orn8(5/6C-Flu)]VT
+DRUG_163	1-(2,3-DICHLOROPHENYL)-2,2,2-TRIFLUORO-1-(1-(4-FLUOROPHENYL)-1H-INDAZOL-5-YL)ETHANOL (ENANTIOMERIC MIX)
+DRUG_164	N-Hydroxy-N-methyl-benzamide
+DRUG_165	Phenethyl-(3-phenyl-propyl)-amine
+DRUG_166	2-Phenyl-3H-imidazo[4,5-c]quinoline
+DRUG_167	ONO-3080573
+DRUG_168	2-(3-Amino-phenyl)-6-methyl-chromen-4-one
+DRUG_169	NS-004
+DRUG_170	BMN-673
+DRUG_171	VLI-27
+DRUG_172	15-hydroxyeicosatetraenoic acid
+DRUG_173	AGELADINE A
+DRUG_174	Clocortolone
+DRUG_175	ginsenoside Rg3
+DRUG_176	CHLORANIL
+DRUG_177	Nicotinamide
+DRUG_178	Chebulagic acid
+DRUG_179	Dextroamphetamine
+DRUG_180	1,2-Bis-(4-chloro-phenyl)-ethane-1,2-dione
+DRUG_181	Quinazolinedione derivative 1
+DRUG_182	3 9-DIHYDRO-N-DESMETHYL-N-ISOPROPYLERYTHROMYCIN A
+DRUG_183	1,2-bis(2,3,5-trifluorophenyl)ethane-1,2-dione
+DRUG_184	5-Methyl-2-p-tolyl-thiazol-4-ol
+DRUG_185	US9073931, E2
+DRUG_186	AMENTOFLAVONE
+DRUG_187	TCN-201
+DRUG_188	BMS-204352
+DRUG_189	1-(4-Methoxy-phenyl)-2-phenyl-ethane-1,2-dione
+DRUG_190	TG4-155
+DRUG_191	GW-275919
+DRUG_192	2-(4-tosylpiperazin-1-yl)nicotinonitrile
+DRUG_193	(E,E)-8-[4-(3-Fluorophenyl)butadien-1-yl]caffeine
+DRUG_194	Prasterone
+DRUG_195	EC0489
+DRUG_196	AT001/r84
+DRUG_197	PMID17480064C16
+DRUG_198	4-(3-thienyl)benzene-1,2-diamine)
+DRUG_199	MB-11055
+DRUG_200	PMID27336223-Compound-8
+DRUG_201	3-hydroxyoctanoic acid
+DRUG_202	Formic Acid
+DRUG_203	CSL-112
+DRUG_204	5-methyl-5-(5-methylthiophen-3-yl)-4-oxo-4,5-dihydrofuran-2-carboxylic acid
+DRUG_205	GSK3050002
+DRUG_206	GI-270384X
+DRUG_207	Calphostin C
+DRUG_208	BU-4601A
+DRUG_209	PXS-25
+DRUG_210	4-(3,4-Dihydro-1H-isoquinolin-2-yl)-quinoline
+DRUG_211	ACEA-1031
+DRUG_212	(6-Benzylamino-9H-beta-carbolin-3-yl)-methanol
+DRUG_213	RG-4929
+DRUG_214	CRD-5
+DRUG_215	(E)-10-Nitrohexadec-9-enoic Acid
+DRUG_216	ABT-761
+DRUG_217	3-(5-Phenyl-oxazol-2-ylamino)-benzonitrile
+DRUG_218	ICA-27243
+DRUG_219	Liraglutide
+DRUG_220	GW-3965
+DRUG_221	Flobufen
+DRUG_222	ISIS 6553
+DRUG_223	Benzimidazole derivative 10
+DRUG_224	PMID26004420-Compound-US20140142115B
+DRUG_225	ZP2929
+DRUG_226	D[Lys8(5/6-Flu)]VT
+DRUG_227	EAA-090
+DRUG_228	KT2-962
+DRUG_229	CGS-9896
+DRUG_230	PF-543
+DRUG_231	MSH-1001
+DRUG_232	4'-hydroxy-6,3',5'-triprenylisoflavonone
+DRUG_233	3-phenyl isoquinolin-1(2H) derivative 2
+DRUG_234	SCH-602539
+DRUG_235	3-phenyl-5-ureidoisothiazole-4-carboximide and 3-amino-5-phenylisothiazole derivative 1
+DRUG_236	2,3,4,5-Tetrabromo-6-(2,4-dibromo-phenoxy)-phenol
+DRUG_237	Tirofiban
+DRUG_238	[HO1][Orn8(5/6C-Rhm)]VT
+DRUG_239	TAK-128
+DRUG_240	KW-3635
+DRUG_241	ISIS 6442
+DRUG_242	PMID2153213C1e
+DRUG_243	[14C]glycine
+DRUG_244	Bucelipase alfa
+DRUG_245	PMID26004420-Compound-WO2014015495A
+DRUG_246	ALN-VEG01
+DRUG_247	2-(2-Methoxy-phenyl)-6-methyl-chromen-4-one
+DRUG_248	ONO-4053
+DRUG_249	SB-218655
+DRUG_250	Abciximab
+DRUG_251	1,2-bis(3,4-difluorophenyl)ethane-1,2-dione
+DRUG_252	FR-129169
+DRUG_253	ISIS 9067
+DRUG_254	AdoC(betaAsp)2AlaArg6
+DRUG_255	RIPAZEPAM
+DRUG_256	AH13205
+DRUG_257	4-Carboxamido-isoindolinone derivative 3
+DRUG_258	TG100801
+DRUG_259	Indolizine derivative 1
+DRUG_260	Tecadenoson
+DRUG_261	N5-(1-iminopent-3-enyl)-L-ornithine
+DRUG_262	SB-525334
+DRUG_263	6,7-Dichloro-3-hydroxy-1H-quinazoline-2,4-dione
+DRUG_264	9H-beta-Carbolin-6-ylamine
+DRUG_265	2-(3-Chlorophenyl)-2H-indazole-7-carboxamide
+DRUG_266	PMID18754614C8
+DRUG_267	PD-137342
+DRUG_268	LUF-5980
+DRUG_269	1-(4-tert-butylphenylsulfonyl)azepan-4-ol
+DRUG_270	ISIS 7948
+DRUG_271	BIRB 796
+DRUG_272	flavone
+DRUG_273	ISIS 6603
+DRUG_274	ARN-509
+DRUG_275	PMID8709131C15
+DRUG_276	PMID2153213C1f
+DRUG_277	alkyl OMPT
+DRUG_278	Thiophosphoric acid dec-9-enyl ester
+DRUG_279	2-(4-Hydroxy-phenyl)-8-methyl-3H-quinazolin-4-one
+DRUG_280	1-furan-2-yl-3-pyridin-2-yl-propenone (FPP-3)
+DRUG_281	Retigabine
+DRUG_282	N-Hydroxy-N-methyl-3-naphthalen-2-yl-propionamide
+DRUG_283	Conantokin-R
+DRUG_284	AHPN
+DRUG_285	11,12-dihydro-dibenzo[a,e]cyclooctene-5,6-dione
+DRUG_286	Biaromatic compound 1
+DRUG_287	YM-17E
+DRUG_288	(E,E)-8-[4-(3-Bromophenyl)butadien-1-yl]caffeine
+DRUG_289	ISIS 10303
+DRUG_290	PMID26004420-Compound-WO2014099633E
+DRUG_291	2-methoxy-4-(o-tolyloxy)benzonitrile
+DRUG_292	Omega interferon
+DRUG_293	7-Fluoro-1,3-dihydro-imidazo[4,5-b]quinolin-2-one
+DRUG_294	Hexahydro naphthalene derivative 2
+DRUG_295	TAK-733
+DRUG_296	Pimagedine HCl
+DRUG_297	(E,E)-8-[4-(3-Chlorophenyl)butadien-1-yl]caffeine
+DRUG_298	4-[(3,5-diamino-1H-pyrazol-4-yl)diazenyl]phenol
+DRUG_299	PMID26004420-Compound-US20140309213B
+DRUG_300	8-propyl-2,6-diphenyl-9H-purine
+DRUG_301	HGTV43
+DRUG_302	NCX-125
+DRUG_303	3-(4-Phenylethynylbenzoyl)nonanoic acid
+DRUG_304	VL-1499
+DRUG_305	(-)-Cercosporamide
+DRUG_306	PMID22464687C15a
+DRUG_307	(E)-6-Nitrooctadec-5-enoic Acid
+DRUG_308	Efpeglenatide
+DRUG_309	1,2-bis(4-fluorophenyl)ethane-1,2-dione
+DRUG_310	2-(4-benzyl-piperidin-1-ylmethyl)-1H-indol-6-ol
+DRUG_311	Imidazo[1,2-b]pyridazine derivative 3
+DRUG_312	Mitiglinide
+DRUG_313	AD-529
+DRUG_314	VEGF-2 gene therapy
+DRUG_315	L-652,343
+DRUG_316	N-(5-Amino-6-oxo-heptyl)-acetamidine
+DRUG_317	BMS-645737
+DRUG_318	BCT-100
+DRUG_319	RP-66784
+DRUG_320	PMID26004420-Compound-WO2012058116C
+DRUG_321	PYRIPYROPENE A
+DRUG_322	(R)-ONDANSETRON
+DRUG_323	AG-013958
+DRUG_324	RPR260243
+DRUG_325	2,6-diphenyl-1-deazapurine
+DRUG_326	Adamantan-2-yl-piperidin-1-yl-methanone
+DRUG_327	2-Morpholin-4-yl-8-phenylethynyl-chromen-4-one
+DRUG_328	ML-3163
+DRUG_329	CI-986
+DRUG_330	4-iodo-1H-indazole
+DRUG_331	3-Methoxybenzamide
+DRUG_332	SNF-9007
+DRUG_333	AdoC(Dpr)2AlaArg6
+DRUG_334	CL-283796
+DRUG_335	2-(3''-(6''-chloro-indolyl)ethyloxy)adenosine
+DRUG_336	aspirin triggered lipoxin A4
+DRUG_337	CP-394531
+DRUG_338	2-Chlorophenol
+DRUG_339	ISIS 9984
+DRUG_340	EG-011
+DRUG_341	MOR-103
+DRUG_342	3-Ethylquinoline-8-carboxamide
+DRUG_343	VESNARINONE
+DRUG_344	Bimosiamose
+DRUG_345	GSK2849466
+DRUG_346	2-(3-Bromo-phenyl)-6-methyl-chromen-4-one
+DRUG_347	OPC-8490
+DRUG_348	N-hydroxycarbamate derivative
+DRUG_349	Org-20781
+DRUG_350	SQ-27986
+DRUG_351	XL-041
+DRUG_352	Sulfatinib
+DRUG_353	Relcovaptan
+DRUG_354	2-Methyl-[1,4]thiazepan-(5E)-ylideneamine
+DRUG_355	1-Hydroxy-10H-anthracen-9-one
+DRUG_356	ISIS 4719
+DRUG_357	Indoline derivative 16
+DRUG_358	5-(3'-cyanobiphenyl-4-yl)-3-hydroxypentanoic acid
+DRUG_359	4-(4-chlorophenyl)-1-pyrid-2-yl-pyrazole
+DRUG_360	QO-58
+DRUG_361	CER-002
+DRUG_362	PMID17574411C42
+DRUG_363	AZD5312
+DRUG_364	1-(1-phenyl-2-(2-propoxyphenyl)ethyl)piperazine
+DRUG_365	Dromostanolone
+DRUG_366	1,6-bis(4-(3-methoxyphenyl)piperazin-1-yl)hexane
+DRUG_367	11-deoxy-PGE1
+DRUG_368	3-phenyl isoquinolin-1(2H) derivative 1
+DRUG_369	PMID1656041C74
+DRUG_370	2-(2-allyl-4-chlorophenoxy)acetic acid
+DRUG_371	Glisoxepide
+DRUG_372	KN-62
+DRUG_373	2-(4-cyano-2-cyclohexylphenoxy)acetic acid
+DRUG_374	PMID7966163C6c
+DRUG_375	1,2-bis(2,4-difluorophenyl)ethane-1,2-dione
+DRUG_376	Ceplene/Peg-Intron/Rebetol
+DRUG_377	PMID25772215-Compound-US02014179750TG6-10-1
+DRUG_378	2-(1H-indazol-3-yl)-1H-benzo[d]imidazole
+DRUG_379	ABT-229
+DRUG_380	1,2-bis(2,3-difluorophenyl)-2-hydroxyethanone
+DRUG_381	SDZ-62-826
+DRUG_382	R-N6-(phenylisopropyl)adenosine
+DRUG_383	RV-568
+DRUG_384	PMID25991433-Compound-B1
+DRUG_385	4-cycloheptyliden(4-hydroxyphenyl)methylphenol
+DRUG_386	RPR-109891
+DRUG_387	IQM-97423
+DRUG_388	AVE0118
+DRUG_389	ANTHRONE
+DRUG_390	6-Nitroindazole
+DRUG_391	3-butylaminocarbonyl-6-ethyl-4-quinolone
+DRUG_392	6-bromo-3-ethoxycarbonyl-4-quinolone
+DRUG_393	alpha-fluoromethylenephosphonate
+DRUG_394	6-Nitro-2-(4-phenoxy-benzyl)-1H-benzoimidazole
+DRUG_395	Pioglitazone
+DRUG_396	2-(4-bromo-2-(hydroxymethyl)phenoxy)acetic acid
+DRUG_397	Bicyclic pyrimidine derivative 2
+DRUG_398	BZ3
+DRUG_399	(Z)-3-[2-(9H-fluoren-2-yloxy)ethylidene]-quinuclidine hydrochloride 31
+DRUG_400	BX-912
+DRUG_401	PMID19502059C25d
+DRUG_402	AVE0897
+DRUG_403	triazine compound PC10
+DRUG_404	CACOSPONGIONOLIDE B
+DRUG_405	RU-59063
+DRUG_406	CPH-102
+DRUG_407	3-(1H-Indol-3-yl)-4-phenylamino-pyrrole-2,5-dione
+DRUG_408	RGD-891
+DRUG_409	ACE-435
+DRUG_410	ONO-2231
+DRUG_411	4-(cyclobutylmethylthio)-2-methoxybenzonitrile
+DRUG_412	Sodium pyruvate
+DRUG_413	LT-1951
+DRUG_414	HPP-607
+DRUG_415	METHYLTHIOADENOSINE
+DRUG_416	ISIS 144396
+DRUG_417	Pyrimidine derivative 7
+DRUG_418	4-[2-(4-Phenyl-butylamino)-ethyl]-phenol
+DRUG_419	[Gly8, aib22]GLP-1(7-37)-NH2
+DRUG_420	PMID2296036C2t
+DRUG_421	2-(2-cyclohexylphenoxy)acetic acid
+DRUG_422	2-Phenethyl-1,2-dihydro-indazol-3-one
+DRUG_423	(9H-beta-Carbolin-3-yl)-ethyl-amine
+DRUG_424	2-(2-benzhydryl-4-phenylthiazol-5-yl)acetic acid
+DRUG_425	7-nitro-1H-indazole
+DRUG_426	PMID19800804C12
+DRUG_427	6-Fluoro-2-(3-nitro-phenyl)-chromen-4-one
+DRUG_428	3-acetyl-11-keto-ursolic acid
+DRUG_429	AZD-2423
+DRUG_430	PF-05231023
+DRUG_431	4-Pyridin-3-yl-5-quinolin-4-yl-thiazol-2-ylamine
+DRUG_432	TK-DLI
+DRUG_433	H-Tyr-D-Ala-Gly-Phe-NH-NH-Trp-D-Nle-D-Asp-D-Phe-H
+DRUG_434	GLPG-0492
+DRUG_435	BMS-919373
+DRUG_436	24(S), 25-epoxycholesterol
+DRUG_437	Desmopressin
+DRUG_438	Octahydro-isoindol-(1Z)-ylideneamine
+DRUG_439	4-(mesitylthio)-2-methoxybenzonitrile
+DRUG_440	7-Allyl-1,3-dimethyl-3,7-dihydro-purine-2,6-dione
+DRUG_441	PMID1656041C4ff
+DRUG_442	RS-504393
+DRUG_443	Gliquidone
+DRUG_444	Mirvetuximab soravtansine
+DRUG_445	8-Bromo-9-cyclobutyl-9H-adenine
+DRUG_446	6-Pyridin-3-yl-3,4-dihydro-1H-quinolin-2-one
+DRUG_447	Naphthalene-2-carboxylic acid hydroxyamide
+DRUG_448	Dilmapimod
+DRUG_449	1,3-Dihydro-naphtho[2,3-d]imidazol-2-one
+DRUG_450	7-bromo-1H-indazole
+DRUG_451	MSX-3
+DRUG_452	1-Methoxy-6-phenyl-6H-benzo[c]chromene
+DRUG_453	C-202
+DRUG_454	PLOGLITAZONE
+DRUG_455	CMPD1
+DRUG_456	PD-137337
+DRUG_457	N-Hydroxy-3-naphthalen-2-yl-N-p-tolyl-acrylamide
+DRUG_458	5-Chloro-3-ethyl-1-(4-fluoro-phenyl)-1H-indole
+DRUG_459	Edoxudine
+DRUG_460	2,6-Diisopropyl-4-nitro-phenol
+DRUG_461	D[Cha4,Lys8]VP
+DRUG_462	Talotrexin
+DRUG_463	GSK1070916
+DRUG_464	6,6-Dimethyl-2-oxa-spiro[4.4]nonan-1-one
+DRUG_465	N-(2,6-diphenylpyrimidin-4-yl)propionamide
+DRUG_466	PF-4418948
+DRUG_467	[1,4]Thiazepan-(3E)-ylideneamine
+DRUG_468	ZD-2486
+DRUG_469	Peptide analog 71
+DRUG_470	N-benzylacetimidamide hydrobromide
+DRUG_471	OCV-101
+DRUG_472	PMID25776143-Compound-8
+DRUG_473	PURPUROGALLIN
+DRUG_474	MLN1202
+DRUG_475	CRTh2 receptor antagonists, Athersys
+DRUG_476	Thymidine-5'-Phosphate
+DRUG_477	BRL-54504AX
+DRUG_478	2-(2-phenethylphenyl)isoindoline-1,3-dione
+DRUG_479	RO-145975
+DRUG_480	Quinoline derivative 17
+DRUG_481	S-Ethyl-N-Phenyl-Isothiourea
+DRUG_482	beta-D-hydroxybutyric acid
+DRUG_483	CHLOROCYCLINONE B
+DRUG_484	ONO-5129
+DRUG_485	RO-4905417
+DRUG_486	K-201
+DRUG_487	T3D-959
+DRUG_488	CI-1015
+DRUG_489	o-hydroxyatorvastatin
+DRUG_490	N-Hydroxy-2-(4-phenoxy-benzenesulfonyl)benzamide
+DRUG_491	CNSB-001
+DRUG_492	PMID27539678-Compound-14
+DRUG_493	Gedocarnil
+DRUG_494	PMID19191557C3
+DRUG_495	6-ethyl-3-pentoxycarbonyl-4-quinolone
+DRUG_496	3,9-dihydroxy-2,10-diprenylpterocap-6a-ene
+DRUG_497	JTV-605
+DRUG_498	E-5324
+DRUG_499	Thieno[3,2-e][1]benzothiophene-4,5-dione
+DRUG_500	Amidine compound 3
+DRUG_501	B-cell lymphoma vaccine
+DRUG_502	Brutieridin
+DRUG_503	N-Hydroxy-4-naphthalen-2-yl-benzamide
+DRUG_504	Reveromycin A
+DRUG_505	proglumide
+DRUG_506	Alpha-D-Mannose
+DRUG_507	DR2313
+DRUG_508	1-Methyl-5-oxa-spiro[2.4]heptan-4-one
+DRUG_509	Prostaglandin D2 antagonists
+DRUG_510	Squalamine
+DRUG_511	N1-dansyl-spermine
+DRUG_512	PMID20483621C5n
+DRUG_513	2'-Hydroxy-3-methoxy-biphenyl-4-carbonitrile
+DRUG_514	H-Gly-PMe-Glu-OH
+DRUG_515	(2S)-2-(4-ethylphenoxy)-3-phenylpropanoic acid
+DRUG_516	2-NAP
+DRUG_517	AZD6765
+DRUG_518	3,3-Bis-(4-hydroxy-phenyl)-2-phenyl-acrylonitrile
+DRUG_519	Benzothiopyranoindole
+DRUG_520	BRL-55834
+DRUG_521	4-(dimethylamino)-N-(thiazol-2-yl)benzamide
+DRUG_522	Implitapide
+DRUG_523	AKT inhibitors [PMCID:PMC3086120]
+DRUG_524	NORHARMANE
+DRUG_525	Deoxy-Bigchap
+DRUG_526	PMID27539678-Compound-16
+DRUG_527	K-604
+DRUG_528	4-(Spiro[chromene-2,4'-piperidine]-4-yl)benzamide
+DRUG_529	N-(4-methyl-benzyl)-4-phenoxy-benzamide
+DRUG_530	PMID27336223-Compound-11
+DRUG_531	PROSTRATIN
+DRUG_532	SPERMINE
+DRUG_533	N-Hydroxy-3-naphthalen-2-yl-propionamide
+DRUG_534	2-methoxy-4-(propylthio)benzonitrile
+DRUG_535	Pyridine derivative 3
+DRUG_536	1,4-Dideoxy-5-Dehydro-O2-Sulfo-Glucuronic Acid
+DRUG_537	AG-014376
+DRUG_538	7-chloro-1H-indole-2,3-dione
+DRUG_539	PMID2153213C2d
+DRUG_540	TA-8995
+DRUG_541	PMID26004420-Compound-WO2014015495C
+DRUG_542	AZD5363
+DRUG_543	3-(1-NAPHTHYLMETHOXY)PYRIDIN-2-AMINE
+DRUG_544	FK-614
+DRUG_545	SB-237376
+DRUG_546	BSI-201
+DRUG_547	ENMD-2076
+DRUG_548	LDN-214117
+DRUG_549	Ro-3201195
+DRUG_550	4-PHENOXY-N-(PYRIDIN-2-YLMETHYL)BENZAMIDE
+DRUG_551	Eldacimibe
+DRUG_552	PMID26004420-Compound-US20140336177D
+DRUG_553	Hydroxyflutamide
+DRUG_554	EB-47
+DRUG_555	BPI-704001
+DRUG_556	Oxeglitazar
+DRUG_557	Conantokins G
+DRUG_558	9-Propyl-9H-adenine
+DRUG_559	[3H]NECA
+DRUG_560	PMID8246233C35
+DRUG_561	1,3-Dihydro-imidazo[4,5-b]quinolin-2-one
+DRUG_562	XZK-monascus
+DRUG_563	2,6-Diphenyl-pyrimidin-4-ylamine
+DRUG_564	N-(2-Ethylphenyl)-5-methylbenzo[d]oxazol-2-amine
+DRUG_565	2-(phenylsulfonyl)-1-(thiophen-3-yl)ethanone
+DRUG_566	GSK2330811
+DRUG_567	4-Methyl-6-(2-methylprop-1-enyl)pyridin-2-amine
+DRUG_568	2-(4-ethylthiobenzimidazol-2-yl)quinoxaline
+DRUG_569	ISIS 9023
+DRUG_570	4-[(2-Methyl-1H-imidazol-1-yl)methyl]pyridine
+DRUG_571	3-demethoxy-3-D-mannopyranosylaminothiocolchicine
+DRUG_572	3-bicyclo[2.2.1]hept-2-yl-benzene-1,2-diol
+DRUG_573	WAY-123223
+DRUG_574	Tolazamide
+DRUG_575	L 691121
+DRUG_576	Pyridine derivative 4
+DRUG_577	ISIS 9025
+DRUG_578	ELIPRODIL
+DRUG_579	7-(trifluoromethyl)-1H-indole-2,3-dione
+DRUG_580	AZD-4407
+DRUG_581	4-Methyl-5,6-dihydro-1H-pyridin-(2Z)-ylideneamine
+DRUG_582	PMID28621580-Compound-WO2014079545C69
+DRUG_583	CN-2097
+DRUG_584	SC-106
+DRUG_585	dimethylethylamine
+DRUG_586	JNJ-17156516
+DRUG_587	MDL-27192
+DRUG_588	1-(1-(4-FLUOROPHENYL)-2-(2-(TRIFLUOROMETHOXY)PHENYL)ETHYL)PIPERAZINE (ENANTIOMERIC MIX)
+DRUG_589	ATS-907
+DRUG_590	PMID26004420-Compound-WO2014099633D
+DRUG_591	CHLOROCYCLINONE D
+DRUG_592	RS-136270
+DRUG_593	LS-192629
+DRUG_594	1,3-Diphenyl-1H-chromeno[4,3-c]pyrazol-4-one
+DRUG_595	XL-820
+DRUG_596	ISOSCOPOLETIN
+DRUG_597	GSK-9578
+DRUG_598	Romazarit
+DRUG_599	Pumafentrine
+DRUG_600	RWJ-16979
+DRUG_601	PUUPEHEDIONE
+DRUG_602	Autologous cell based gene therapy
+DRUG_603	PMID25772215-Compound-WO2012177618M5
+DRUG_604	L-731128
+DRUG_605	9-(2-Hydroxypropyl)-9H-adenine
+DRUG_606	D[Thr4,Lys8(5/6C-Flu)]VT
+DRUG_607	8-PHENYL THEOPHYLLINE
+DRUG_608	EW-A-401
+DRUG_609	Caffeine
+DRUG_610	Biphenyl-3-carboxylic acid hydroxyamide
+DRUG_611	P38 MAP kinase alpha inhibitors
+DRUG_612	MDL 100,453
+DRUG_613	3-ethoxycarbonyl-6-propyl-4-quinolone
+DRUG_614	3-Hydroxy-7-nitro-1H-benzo[b]azepine-2,5-dione
+DRUG_615	PMID8709131C4
+DRUG_616	Angiozyme
+DRUG_617	Flavanone
+DRUG_618	1-(4-methoxyphenylsulfonyl)-4-phenylazepan-4-ol
+DRUG_619	RPAF-AH
+DRUG_620	N-(4,6-diphenylpyrimidin-2-yl)propionamide
+DRUG_621	LY-315902
+DRUG_622	RAXOFELAST
+DRUG_623	ONC1-13B
+DRUG_624	Mycophenolate mofetil
+DRUG_625	SDZ-PCO-400
+DRUG_626	UK-78282
+DRUG_627	Para-Isopropylaniline
+DRUG_628	2-(4-Azido-phenyl)-8-methoxy-3H-quinazolin-4-one
+DRUG_629	PMID25772215-Compound-US02014179750M1
+DRUG_630	PMID26004420-Compound-WO2013062900B
+DRUG_631	4-(butylthio)-2-(trifluoromethyl)benzonitrile
+DRUG_632	1,2-Bis-(3-nitro-phenyl)-ethane-1,2-dione
+DRUG_633	5-(biphenyl-4-yl)-3-oxopentanoic acid
+DRUG_634	PMID18754614C17
+DRUG_635	10-trifluoroacetyl-DDACTHF
+DRUG_636	Sazetidine-A
+DRUG_637	Tetra-hydro-quinoline derivative 1
+DRUG_638	Tricyclic indole compound 13
+DRUG_639	HE-2000
+DRUG_640	Famitinib
+DRUG_641	CGS-23885
+DRUG_642	OTSGC-A24
+DRUG_643	(+)-3,3'-bisdemethyltanegool
+DRUG_644	Small molecule 34
+DRUG_645	TTP-054
+DRUG_646	PMID2153213C13b
+DRUG_647	NU1025
+DRUG_648	A-74498
+DRUG_649	Sterol derivative 3
+DRUG_650	3-iodothyronamine
+DRUG_651	GX-G6
+DRUG_652	DQP-1105
+DRUG_653	SiRNA therapeutic, Lauriad/tablet, prostate cancer
+DRUG_654	cicaprost
+DRUG_655	Intravenous minocycline
+DRUG_656	13,14-dihydro-15-keto-PGD2
+DRUG_657	L-764406
+DRUG_658	1-[(Z)-4-(triphenylmethoxy)-2-butenyl]thymine
+DRUG_659	CNTX-6970
+DRUG_660	GLP-17-(7-36) derivative
+DRUG_661	PMID9003518C4
+DRUG_662	Vitamin A
+DRUG_663	DMP-444
+DRUG_664	RPSGL-Ig
+DRUG_665	BMS-813160
+DRUG_666	Sec-butyl 9H-pyrido[3,4-b]indole-3-carboxylate
+DRUG_667	Chlorzoxazone
+DRUG_668	Phenyl(2-(trifluoromethyl)quinolin-4-yl)methanol
+DRUG_669	PMID29649907-Compound-8
+DRUG_670	Pirfenidone
+DRUG_671	AG140699
+DRUG_672	Tyr-D-Phe-Gly-Trp-Nle-Asp-Phe-NH2
+DRUG_673	NSC-26745
+DRUG_674	PMID26004420-Compound-WO2010129379A
+DRUG_675	ISIS 114404
+DRUG_676	7-Isopropyl-7H-adenine
+DRUG_677	BAY 86-9766
+DRUG_678	PMID28048944-Compound-5
+DRUG_679	RG7420
+DRUG_680	R-65
+DRUG_681	3-(benzyloxy)-2-(4-chlorophenyl)thiazolidin-4-one
+DRUG_682	N-Benzyl-2-(1H-indol-3-yl)-2-oxo-acetamide
+DRUG_683	ISIS 9069
+DRUG_684	[Gly8]GLP-1(7-37)-NH2
+DRUG_685	E-4031
+DRUG_686	Indoline derivative 19
+DRUG_687	Cilostamide
+DRUG_688	3-benzyl-1-cyclohexylpyrrolidin-2-one
+DRUG_689	dioctanoylglycerol pyrophosphate
+DRUG_690	PMID2296036C2g
+DRUG_691	Ethyl 5-benzoyl-4-phenylthiazol-2-ylcarbamate
+DRUG_692	4-chloro-1H-indole-2,3-dione
+DRUG_693	ONO-AE1-329
+DRUG_694	LY309887
+DRUG_695	4-Naphthalen-2-yl-5-piperidin-4-yl-isoxazol-3-ol
+DRUG_696	ISOQUINE
+DRUG_697	WS-070117
+DRUG_698	Ciprofibrate
+DRUG_699	2-(4-Amino-phenyl)-6-methyl-chromen-4-one
+DRUG_700	TG-1022
+DRUG_701	PMID23788657C1754-31
+DRUG_702	BFH-772
+DRUG_703	FV-100
+DRUG_704	(9H-beta-Carbolin-3-yl)-carbamic acid ethyl ester
+DRUG_705	Piperidine-1-carboxylic acid adamantan-2-ylamide
+DRUG_706	2,3-dihydro-1H-benzo[de]isoquinolin-1-one
+DRUG_707	[2,2':5',2'']Terthiophen-4-yl-methanol
+DRUG_708	REN-1654
+DRUG_709	8-Bromo-9-ethyl-9H-adenine
+DRUG_710	TG7-171
+DRUG_711	MYRIOCIN
+DRUG_712	7-Allyl-1,3-dipropyl-3,7-dihydro-purine-2,6-dione
+DRUG_713	Darapladib
+DRUG_714	8-Methyl-2-(4-nitro-phenyl)-3H-quinazolin-4-one
+DRUG_715	(E)-9-nitrooctadec-9-enoic acid
+DRUG_716	3-(1H-indol-3-yl)-N-methyl-3-phenylpropan-1-amine
+DRUG_717	2-ethyl-4-(thiophen-2-yl)thieno[3,2-d]pyrimidine
+DRUG_718	desmosterol
+DRUG_719	US9006244, E1
+DRUG_720	ELAROFIBAN
+DRUG_721	AP-761
+DRUG_722	1-(3-CHLORO-4-FLUOROPHENYL)-2,2,2-TRIFLUORO-1-(1-(4-FLUOROPHENYL)-1H-INDAZOL-5-YL)ETHANOL (ENANTIOMERIC MIX)
+DRUG_723	MT-001
+DRUG_724	Atorvastatin
+DRUG_725	PMID2153213C2f
+DRUG_726	3,4-Dibromo-2-(5-bromo-2-hydroxy-phenoxy)-phenol
+DRUG_727	4-amino-1,8-naphthalimide
+DRUG_728	2-(2-furyl)-6-(1H-pyrazol-1-yl)pyrimidin-4-amine
+DRUG_729	Methyl 7-methoxy-4-phenylbenzofuran-2-ylcarbamate
+DRUG_730	Pyrrolidine derivative 13
+DRUG_731	Exenatide
+DRUG_732	ME-344
+DRUG_733	CNS-5788
+DRUG_734	MK-767 (KRP-297)
+DRUG_735	LY-2382770
+DRUG_736	Vapiprost
+DRUG_737	Lisdexamfetamine
+DRUG_738	Lactol derivative 1
+DRUG_739	AKT protein kinase inhibitors
+DRUG_740	Ibutilide
+DRUG_741	PMID25991433-Compound-F2
+DRUG_742	6-Nitro-2-(3-nitro-phenyl)-chromen-4-one
+DRUG_743	C[YYDEGLEE]-NH2
+DRUG_744	LY178002
+DRUG_745	Sipoglitazar
+DRUG_746	N5-(1-iminobutyl)-L-ornithine
+DRUG_747	LG-2293
+DRUG_748	L-740093
+DRUG_749	8-Bromo-3-hydroxy-1H-benzo[b]azepine-2,5-dione
+DRUG_750	N,O6-Disulfo-Glucosamine
+DRUG_751	Sifalimumab
+DRUG_752	3-Benzyl-7-methyl-[1,8]naphthyridin-4-ol
+DRUG_753	BMS-187745
+DRUG_754	AL-0671
+DRUG_755	Calusterone
+DRUG_756	Sitimagene ceradenovec
+DRUG_757	4-(propylthio)-2-(trifluoromethyl)benzonitrile
+DRUG_758	FP-025
+DRUG_759	4-(p-tolyloxy)-2-(trifluoromethyl)benzonitrile
+DRUG_760	PMID25259874C21
+DRUG_761	Pyrrolidin-3-yl-acetic acid
+DRUG_762	Phentermine+topiramate
+DRUG_763	BMS270394
+DRUG_764	LY-2228820
+DRUG_765	Interferon alfacon-1
+DRUG_766	PMID26004420-Compound-WO2014015495D
+DRUG_767	5-Chloro-N-(4-ethylphenyl)benzo[d]oxazol-2-amine
+DRUG_768	T-817MA
+DRUG_769	7-azaindole derivative 8
+DRUG_770	1-amino-4-methoxyanthracene-9,10-dione
+DRUG_771	KB-130015
+DRUG_772	L-NG-nitroarginine methyl ester
+DRUG_773	ED-1812
+DRUG_774	Piperazine derivative 5
+DRUG_775	Inositol 1,3,4,5-Tetrakisphosphate
+DRUG_776	CNTO-736
+DRUG_777	5-(3-BENZYLPYRROLIDIN-3-YL)-1H-INDOLE (STRUCTURAL MIX)
+DRUG_778	PMID20615702C8f
+DRUG_779	BW 245C
+DRUG_780	1na
+DRUG_781	2-Phenyl-1,2-dihydro-indazol-3-one
+DRUG_782	H-Tyr-D-Ala-Gly-Phe-NH-NH-Phe-Asp-Nle-D-Trp-H
+DRUG_783	AS-1892802
+DRUG_784	3-ethoxycarbonyl-4-quinolone
+DRUG_785	3-(dimethylamino)-1-(4-heptylphenyl)propan-1-one
+DRUG_786	GW0072
+DRUG_787	AP-227
+DRUG_788	6-Bromo-2-(2-nitro-phenyl)-chromen-4-one
+DRUG_789	CGS-7181
+DRUG_790	MLN-977
+DRUG_791	8-Chloro-1,3-dihydro-imidazo[4,5-b]quinolin-2-one
+DRUG_792	HL-004
+DRUG_793	BW-858C
+DRUG_794	AdoC(Ahx)Arg6
+DRUG_795	Nitrous oxide
+DRUG_796	Eptifibatide
+DRUG_797	(+)-(5S,8S,10S)-20-methoxy-9,15-ene-puupehenol
+DRUG_798	Phenformin
+DRUG_799	Sulfonamide derivative 18
+DRUG_800	3,4-diphenyl-1H-pyrrole-2,5-dione
+DRUG_801	RS-102895
+DRUG_802	Hyperforin
+DRUG_803	Pyridine derivative 11
+DRUG_804	LSI-518P
+DRUG_805	8-Bromo-9-(2,3-dihydroxypropyl)-9H-adenine
+DRUG_806	Tonapofylline
+DRUG_807	2-Thiazol-5-ylmethyl-1,2-dihydro-indazol-3-one
+DRUG_808	PMID7629799C6
+DRUG_809	Imidazopyridazine derivative 8
+DRUG_810	Heptyl-Beta-D-Glucopyranoside
+DRUG_811	FR-158999
+DRUG_812	WA-8242-A1
+DRUG_813	9-Cycloheptyl-9H-adenine
+DRUG_814	PMID1895299C4p
+DRUG_815	5,5-diethyl-2-(phenethylamino)oxazol-4(5H)-one
+DRUG_816	BI-L-357
+DRUG_817	PMID28460551-Compound-6
+DRUG_818	GFT14
+DRUG_819	ONO-AE3-237
+DRUG_820	PGD2
+DRUG_821	2'-Monophosphoadenosine 5'-Diphosphoribose
+DRUG_822	Benzyl 4-aminobutyl(3-aminopropyl)carbamate
+DRUG_823	5-Aminomethyl-4,5-dihydro-isoxazol-3-ol
+DRUG_824	2-chloro-5-nitro-N-phenylbenzamide
+DRUG_825	Abietic acid
+DRUG_826	BAY 86-5044
+DRUG_827	AGN211745
+DRUG_828	(RS)-(tetrazol-5-yl)glycine
+DRUG_829	Thieno-phenanthridin-6-one
+DRUG_830	Cannabinoid quinone derivative 1
+DRUG_831	(10r)-10-Formyl-5,8,10-Trideazafolic Acid
+DRUG_832	3-acetyl-11-keto-beta-boswellic acid
+DRUG_833	N-(thiazol-2-yl)benzamide
+DRUG_834	OMPT
+DRUG_835	Quinazoline derivative 11
+DRUG_836	PMID28048944-Compound-2
+DRUG_837	SC-50998
+DRUG_838	Ciglitazone
+DRUG_839	1-(4-Chloro-phenyl)-2-p-tolyl-ethane-1,2-dione
+DRUG_840	PMID28048944-Compound-7
+DRUG_841	humanin
+DRUG_842	5-(3-Phenyl-propyl)-1H-pyrazole-3-carboxylic acid
+DRUG_843	5-(4-Chloro-benzyl)-1H-pyrazole-3-carboxylic acid
+DRUG_844	Lapaquistat acetate
+DRUG_845	4-(4-chloro-2-cyclohexylphenoxy)butanoic acid
+DRUG_846	2-(4-Phenyl-butyl)-1,2-dihydro-indazol-3-one
+DRUG_847	PUUPEHENONE
+DRUG_848	N-Hydroxy-N-methyl-3-phenanthren-2-yl-acrylamide
+DRUG_849	GFPDGG
+DRUG_850	ISIS 4756
+DRUG_851	CS-204
+DRUG_852	Tormentic acid methyl ester
+DRUG_853	Linotroban
+DRUG_854	DFGYVAE
+DRUG_855	DT-200
+DRUG_856	U-90042
+DRUG_857	HP-228
+DRUG_858	HBI-3000
+DRUG_859	BGB-290
+DRUG_860	4-(1H-indol-3-yl)-1-morpholinobutan-1-one
+DRUG_861	QAW-039
+DRUG_862	Ro 41-5253
+DRUG_863	SARMs
+DRUG_864	2,2-Dimethoxy-1,2-diphenyl-ethanone
+DRUG_865	ARRY-614
+DRUG_866	S-111
+DRUG_867	Enzalutamide
+DRUG_868	GW-5823
+DRUG_869	Cacospongionolide E
+DRUG_870	UNI-rE-4
+DRUG_871	Carbamide derivative 23
+DRUG_872	Nitroarginine
+DRUG_873	CDDO
+DRUG_874	1,1,1-trifluoro-3-(hexylsulfinyl)propan-2-one
+DRUG_875	PMID2296036C4d
+DRUG_876	[3H]Ro154513
+DRUG_877	PMID21123062C27
+DRUG_878	Bis(31/31')[[Cys(31), Nva(34)]NPY(27-36)-NH(2)]
+DRUG_879	2-Amino-4,6-diphenyl-nicotinonitrile
+DRUG_880	CNS-1531
+DRUG_881	PMID26004420-Compound-US20140336177E
+DRUG_882	AGN 191976
+DRUG_883	Rosuvastatin
+DRUG_884	1,3,9,9a-Tetrahydro-imidazo[4,5-b]quinolin-2-one
+DRUG_885	NSP-805
+DRUG_886	GED-0507-34-Levo
+DRUG_887	Sulfonylthioureas
+DRUG_888	2-Methylquinoline-8-carboxamide
+DRUG_889	3-(5-methoxy-1H-indol-3-yl)propanoic acid
+DRUG_890	PMID26936077-Compound-13
+DRUG_891	BVDU-MP
+DRUG_892	KW-6002
+DRUG_893	MTR105
+DRUG_894	(+)-5-(5-bromothiophen-3-yl)-5-methyl-4-oxo-4,5-dihydro-furan-2-carboxylic acid
+DRUG_895	Prostacyclin analog
+DRUG_896	Cycloleucine
+DRUG_897	Carbenoxolone
+DRUG_898	DALTROBAN
+DRUG_899	(1,1-Difluoro-pentadecyl)-phosphonic acid
+DRUG_900	CDE-6960
+DRUG_901	PMID25416646-Compound-Figure2-J
+DRUG_902	Palodesangren D
+DRUG_903	PMID26004420-Compound-US20140031349D
+DRUG_904	(E)-(thiophen-2-ylmethylidene)amino benzoate
+DRUG_905	CM-GLP-1
+DRUG_906	DNQX
+DRUG_907	RO-4920506
+DRUG_908	Methanesulfonamide derivative
+DRUG_909	SC-47643
+DRUG_910	Dodecyl-phosphonic acid
+DRUG_911	1-(3-nitropyridin-2-yl)-4-tosylpiperazine
+DRUG_912	PMID26004420-Compound-WO2010129379B
+DRUG_913	ARRY-886
+DRUG_914	Glycine
+DRUG_915	N-Hydroxy-2-(4-methoxy-benzenesulfonyl)benzamide
+DRUG_916	D-Serine
+DRUG_917	PD-169316
+DRUG_918	SKLB-010
+DRUG_919	D-amphetamine transdermal
+DRUG_920	RO5520985
+DRUG_921	A-71378
+DRUG_922	4-[3-(5-Phenyl-pentylamino)-propyl]-phenol
+DRUG_923	PMID2231594C3q
+DRUG_924	NP-619
+DRUG_925	6-ethyl-3-(2-ethylbutoxycarbonyl)-4-quinolone
+DRUG_926	JNJ-16269110
+DRUG_927	HO-LVA
+DRUG_928	2-(9-Benzyl-9H-purin-6-ylamino)-ethanol
+DRUG_929	Nandrolone
+DRUG_930	APP-018
+DRUG_931	Rucaparib
+DRUG_932	(+/-)-2-Methyl-1-(1-phenylethyl)-1H-imidazole
+DRUG_933	2,2,2-tris-(4-fluorophenyl)-acetamide
+DRUG_934	R-dimethindene
+DRUG_935	OMS405
+DRUG_936	D-lactic acid
+DRUG_937	XR-5082
+DRUG_938	Carbamide derivative 22
+DRUG_939	Sodelglitazar
+DRUG_940	Tivozanib
+DRUG_941	LXS196
+DRUG_942	ADR58
+DRUG_943	3,3-Diisopropyl-dihydro-furan-2-one
+DRUG_944	Thymidine kinase-expressing adenovirus and ganciclovir suicide gene therapy
+DRUG_945	2-(2-Chlorophenyl)-2H-indazole-7-carboxamide
+DRUG_946	PMID26004420-Compound-WO2014085210B
+DRUG_947	11-beta-HSD1 inhibitors
+DRUG_948	Benzimidazole carboxamide derivative 1
+DRUG_949	d-CCPene
+DRUG_950	N,N'-Bis-(4-butyl-phenyl)-guanidine
+DRUG_951	Anthracene-2-carboxylic acid hydroxyamide
+DRUG_952	PMID26004420-Compound-WO2014150132B
+DRUG_953	3-[7'-(Methoxy)-napht-2'-yl]-quinuclidine-2-ene
+DRUG_954	Mepacrine
+DRUG_955	MDX-214
+DRUG_956	2849466
+DRUG_957	TANNIN
+DRUG_958	Quinazolinedione derivative 3
+DRUG_959	1-(1-(2-FLUOROPHENYL)-2-(2-(TRIFLUOROMETHOXY)PHENYL)ETHYL)PIPERAZINE (ENANTIOMERIC MIX)
+DRUG_960	6-hydroxy-7,9-octadecadiynoic acid
+DRUG_961	2-Aminothiazoline
+DRUG_962	CEP-6800
+DRUG_963	5-tert-Butyl-2-(4-fluoro-phenyl)-[1,3]dithiane
+DRUG_964	2-Methylamino-succinic acid(NMDA)
+DRUG_965	CI-1040
+DRUG_966	trihydroxycholestane
+DRUG_967	ACCLAIM
+DRUG_968	TM-30089
+DRUG_969	8-methyl-2-morpholino-7-phenyl-4H-chromen-4-one
+DRUG_970	1-(4-tert-butylphenylsulfonyl)-4-methoxyazepane
+DRUG_971	BXT-51072
+DRUG_972	4-Methyl-5-propyl-pyrrolidin-(2Z)-ylideneamine
+DRUG_973	2-(1H-Indol-3-ylmethyl)-1,2-dihydro-indazol-3-one
+DRUG_974	APC-100
+DRUG_975	RO-054520
+DRUG_976	CR-1795
+DRUG_977	MKC-1106-MT
+DRUG_978	Ramatroban
+DRUG_979	XL475
+DRUG_980	TETRAHYDROQUINOLINE B
+DRUG_981	3-Methyl-2-phenyl-2H-chromeno[4,3-c]pyrazol-4-one
+DRUG_982	ABN-912
+DRUG_983	PMID2296027C25
+DRUG_984	1,2-bis(2,6-difluorophenyl)ethane-1,2-dione
+DRUG_985	2-(2-Amino-ethyl)-7-imino-azepane
+DRUG_986	PMID22607879CR-(-)-5f
+DRUG_987	5-(biphenyl-4-yl)-3-methoxypentanoic acid
+DRUG_988	d[Pen1,Tyr(Me)2]AVP
+DRUG_989	Tyr-D-Ala-Gly-Trp-NMeNle-Asp-Phe-NH2
+DRUG_990	NSC-93394
+DRUG_991	BPH-830
+DRUG_992	Pyridine derivative 2
+DRUG_993	LUF-5978
+DRUG_994	N*6*-Cyclohexyl-N*2*-phenyl-9H-purine-2,6-diamine
+DRUG_995	PMID28906174-Compound-figure1g
+DRUG_996	BALANOL
+DRUG_997	Hexahydro naphthalene derivative 1
+DRUG_998	Sterol derivative 1
+DRUG_999	EP 171
+DRUG_1000	Almokalant
+DRUG_1001	Dalcetrapib
+DRUG_1002	Genevx
+DRUG_1003	UK-66914
+DRUG_1004	GW-409544
+DRUG_1005	KAI-9803
+DRUG_1006	3-Butyl-[1,4]oxazepan-(5Z)-ylideneamine
+DRUG_1007	TENIDAP
+DRUG_1008	5-N-Allyl-Arginine
+DRUG_1009	Dronedarone
+DRUG_1010	SGS-111
+DRUG_1011	Interferon Alfa-2b, Recombinant
+DRUG_1012	Boc-Tyr(SO3H)-Nle-Gly-Trp-Nle-Asp-Phe-NH2
+DRUG_1013	AMX-256
+DRUG_1014	ONO-4127Na
+DRUG_1015	Adapalene
+DRUG_1016	N6-methoxy-2-[2-(trimethylsilyl)ethynyl]adenosine
+DRUG_1017	3,5-dihydroxybenzoic acid
+DRUG_1018	CBP-501
+DRUG_1019	3-Ethyl-3-isopropyl-dihydro-furan-2-one
+DRUG_1020	1-(3,4-dichlorobenzyl)-1H-indole-2,3-dione
+DRUG_1021	D[Orn8(5/6C-Flu)]VT
+DRUG_1022	AL-8810
+DRUG_1023	ML-3375
+DRUG_1024	Quinoline derivative 1
+DRUG_1025	Enoximone
+DRUG_1026	PMID27841036-Compound-36
+DRUG_1027	CGS 21680
+DRUG_1028	99mTc-rBitistatin
+DRUG_1029	Chimeric small nucleolar RNA-TAR decoy
+DRUG_1030	AD 198
+DRUG_1031	PMID27537201-Compound-Figure13c
+DRUG_1032	GW-2331
+DRUG_1033	EPPTB
+DRUG_1034	PD-132301-2
+DRUG_1035	Pyridine derivative 10
+DRUG_1036	Antibodie derivative 8
+DRUG_1037	Androgen restored contraceptive
+DRUG_1038	Imidazopyridazine derivative 3
+DRUG_1039	1,2-bis(2,3,6-trifluorophenyl)ethane-1,2-dione
+DRUG_1040	2-phenoxy-1-(2-p-tolylthiazolidin-3-yl)ethanone
+DRUG_1041	1,2-bis(3,5-difluorophenyl)-2-hydroxyethanone
+DRUG_1042	syn-BrP-LPA
+DRUG_1043	Diethylcarbamazine
+DRUG_1044	DVC1-0101
+DRUG_1045	N-Hydroxy-2-naphthalen-2-yl-acetamide
+DRUG_1046	4-Isopropyl-pyrrolidin-(2Z)-ylideneamine
+DRUG_1047	PMID1992138C8b
+DRUG_1048	9H-beta-Carboline-3-carboxylic acid propyl ester
+DRUG_1049	AD-5075
+DRUG_1050	ZANOTERONE
+DRUG_1051	4-benzylphthalazin-1(2H)-one
+DRUG_1052	2-(2,4-difluorophenyl)-2,2-diphenylacetamide
+DRUG_1053	Carlumab
+DRUG_1054	3-Benzoyl-N-hydroxy-benzamide
+DRUG_1055	7-(2-Nitro-ethyl)-azepan-(2Z)-ylideneamine
+DRUG_1056	Benzaldehyde O-benzoyloxime
+DRUG_1057	MK-0812
+DRUG_1058	D(CH2)5[Tyr(Me)2,Thr4,Orn8,Tyr9-NH2]VT
+DRUG_1059	RS-100302
+DRUG_1060	Levamisole
+DRUG_1061	Naveglitazar
+DRUG_1062	6-Methoxy-2-(4-phenoxy-benzyl)-1H-benzoimidazole
+DRUG_1063	6-ethyl-3-(2-methylbutoxycarbonyl)-4-quinolone
+DRUG_1064	norfluoxetine
+DRUG_1065	Bevacizumab
+DRUG_1066	L-689560
+DRUG_1067	MRX-4
+DRUG_1068	5,6,7-Trichloro-1,4-dihydro-quinoxaline-2,3-dione
+DRUG_1069	CHLOROPUUPEHENONE
+DRUG_1070	AMG 167
+DRUG_1071	4-Carboxamido-isoindolinone derivative 5
+DRUG_1072	CLP-1004
+DRUG_1073	BPR1K-0224
+DRUG_1074	ISIS 9066
+DRUG_1075	ISIS-GCCR
+DRUG_1076	ASP-8477
+DRUG_1077	3-carboxy-6-ethyl-4-quinolone
+DRUG_1078	GLPG0974
+DRUG_1079	1,10-phenanthroline-5,6-dione
+DRUG_1080	Ala-Pro-Glu
+DRUG_1081	RAD-140
+DRUG_1082	CNX-010
+DRUG_1083	NP93-31
+DRUG_1084	E5700
+DRUG_1085	2-methoxy-4-(m-tolyloxy)benzonitrile
+DRUG_1086	N-omega-propargyl-L-arginine
+DRUG_1087	Melanoma vaccine
+DRUG_1088	Conivaptan
+DRUG_1089	CS-207
+DRUG_1090	Taurocholic Acid
+DRUG_1091	Benzo[c][1,5]naphthyridin-6(5H)-one
+DRUG_1092	MEDI-546
+DRUG_1093	N6-methoxy-2-[(4-pentylphenyl)ethynyl]adenosine
+DRUG_1094	CP-271485
+DRUG_1095	1-Phenyl-propane-1,2-dione
+DRUG_1096	L-779450
+DRUG_1097	Jaspic acid
+DRUG_1098	N-arachidonoylglycine
+DRUG_1099	MX-781
+DRUG_1100	2-Amino-4-phenyl-6-thiophen-2-yl-nicotinonitrile
+DRUG_1101	1,1-diphenyl-3-(phenylsulfonyl)propan-2-one
+DRUG_1102	BMS-536924
+DRUG_1103	7-tert-butyl-2, 3-dihydro-3, 3-dimethyl substituted dihydrofuran 30 (DHDMBF30)
+DRUG_1104	CSL-362
+DRUG_1105	349U85.HCL
+DRUG_1106	VATALANIB
+DRUG_1107	ML297
+DRUG_1108	PMID23099093C17d
+DRUG_1109	Leridistim
+DRUG_1110	GW0742X
+DRUG_1111	GLUTAMATE
+DRUG_1112	L-NIO
+DRUG_1113	7,8-dihydrobiopterin
+DRUG_1114	LY-2523199
+DRUG_1115	MP-529
+DRUG_1116	KD020
+DRUG_1117	PMID25991433-Compound-C2
+DRUG_1118	PKR-A
+DRUG_1119	ARRY-162
+DRUG_1120	(South)-Methanocarba-Thymidine
+DRUG_1121	2'-Nitro-biphenyl-4-carboxylic acid hydroxyamide
+DRUG_1122	RG-8803
+DRUG_1123	PAMAPIMOD
+DRUG_1124	4,5-Dihydroxy-10H-anthracen-9-one
+DRUG_1125	SPD-465
+DRUG_1126	PMID18754614C7
+DRUG_1127	Tricyclic compound 8
+DRUG_1128	VS-5584
+DRUG_1129	AdoC(Aoc)Arg6
+DRUG_1130	US9006244, E2a
+DRUG_1131	PMID15686906C29
+DRUG_1132	1-(4-ethylpiperazin-1-yl)-2-phenylethanone
+DRUG_1133	Curcumin
+DRUG_1134	3-Isopropoxy-9H-beta-carboline
+DRUG_1135	Oxetane 3,3-dicarboxamide compound 2
+DRUG_1136	Dalfampridine
+DRUG_1137	PMID26004420-Compound-U2014S0288042A
+DRUG_1138	Isoindoline derivative 3
+DRUG_1139	MMP-408
+DRUG_1140	methylglyoxal
+DRUG_1141	7-fluoroindirubin-3-oxime
+DRUG_1142	L-644,698
+DRUG_1143	CDP-850
+DRUG_1144	RU28362
+DRUG_1145	Isoindoline derivative 1
+DRUG_1146	3-(2-(4-methoxycinnamyl)phenyl)acrylic acid
+DRUG_1147	Misoprostol
+DRUG_1148	S-070
+DRUG_1149	4-hydroxy-5-phenylthieno[2,3-b]pyridin-6(7H)-one
+DRUG_1150	4-Chloro-N-(4-chloro-benzoyl)-benzenesulfonamide
+DRUG_1151	OXDEX
+DRUG_1152	SR-121787
+DRUG_1153	L-702958
+DRUG_1154	Cilostazol
+DRUG_1155	N-(4-Pyridin-2-yl-thiazol-2-yl)-benzamide
+DRUG_1156	8-bromo-9-isobutyl-9H-purin-6-amine
+DRUG_1157	LY333531
+DRUG_1158	CC-486
+DRUG_1159	GSK568859
+DRUG_1160	Hexahydro-pyrrolizin-(3E)-ylideneamine
+DRUG_1161	GSK-280
+DRUG_1162	YM-90K
+DRUG_1163	5-Methyl-N-phenylbenzo[d]oxazol-2-amine
+DRUG_1164	PMID25991433-Compound-Q2
+DRUG_1165	L-796449
+DRUG_1166	PMID22533316C4
+DRUG_1167	Delta1-dihydrotestosterone
+DRUG_1168	3-methoxy-4-(o-tolyloxy)benzonitrile
+DRUG_1169	2-Furan-2-yl-6H-pyrazolo[1,5-c]quinazolin-5-one
+DRUG_1170	5-methyl nicotinic acid
+DRUG_1171	S-Ethyl-N-[4-(Trifluoromethyl)Phenyl]Isothiourea
+DRUG_1172	ISIS 4729
+DRUG_1173	rawsonol
+DRUG_1174	1-(4-Chloro-phenyl)-3-(3,3-diphenyl-allyl)-urea
+DRUG_1175	PMID27841036-Compound-33
+DRUG_1176	PMID26004420-Compound-WO2012058134A
+DRUG_1177	PMID8496919C7
+DRUG_1178	Indoline derivative 13
+DRUG_1179	V85546
+DRUG_1180	3-(4-methoxyphenyl)quinoxaline-5-carboxamide
+DRUG_1181	Myeloma cancer vaccine
+DRUG_1182	OP-2507
+DRUG_1183	CP-800569
+DRUG_1184	Albiglutide
+DRUG_1185	ANG-2864
+DRUG_1186	Ibuproxam
+DRUG_1187	Synthetic hypericin
+DRUG_1188	6-Methyl-2-phenyl-chromen-4-one
+DRUG_1189	MK-1029
+DRUG_1190	2-(4-Butoxy-phenoxy)-N-hydroxy-propionamide
+DRUG_1191	FGF-21
+DRUG_1192	MK-591
+DRUG_1193	alkyl glycerol phosphate 18:1
+DRUG_1194	PMID7966163C6d
+DRUG_1195	3-(4-cyanophenyl)quinoxaline-5-carboxamide
+DRUG_1196	tyramine
+DRUG_1197	LMT-X
+DRUG_1198	SB-431542
+DRUG_1199	Go 6983
+DRUG_1200	GMI-1271
+DRUG_1201	L-698532
+DRUG_1202	1,2-dibromo-4-(1,2-dibromoethyl)cyclohexane
+DRUG_1203	SB-747651A
+DRUG_1204	PD-158473
+DRUG_1205	AMG 853
+DRUG_1206	Sivelestat
+DRUG_1207	2-phenyl-N-(pyridin-4-yl)quinazolin-4-amine
+DRUG_1208	1,2-bis(2,5-difluorophenyl)-2-hydroxyethanone
+DRUG_1209	1-(2-(6-fluoronaphthalen-2-yl)ethyl)piperazine
+DRUG_1210	SKF-106760
+DRUG_1211	2-chloro-4-(thiophen-2-yl)thieno[3,2-d]pyrimidine
+DRUG_1212	CGS-13767
+DRUG_1213	Tetradecane
+DRUG_1214	Leukemia cancer vaccine
+DRUG_1215	7-chloro-1H-indazole
+DRUG_1216	SCH-48375
+DRUG_1217	Phosphoric acid mono-((E)-dec-4-enyl) ester
+DRUG_1218	3-Cyclohexanesulfonyl-heptanoic acid hydroxyamide
+DRUG_1219	3-Benzoyl-7-chloro-4-hydroxy-1H-quinolin-2-one
+DRUG_1220	Zaragozic Acid D2
+DRUG_1221	MANOALIDE
+DRUG_1222	PMID27336223-Compound-9
+DRUG_1223	[2-(Biphenyl-4-sulfonyl)phenyl]acetic Acid
+DRUG_1224	4-methylpyrrolo[3,4-c]carbazole-1,3(2H,6H)-dione
+DRUG_1225	Dihydropyrido phthalazinone derivative 4
+DRUG_1226	GSK2033
+DRUG_1227	PMID15925511C13
+DRUG_1228	2,6-diphenyl-8-ethyl-1-deazapurine
+DRUG_1229	BPH-652
+DRUG_1230	AP-7
+DRUG_1231	Quinoline and quinazoline derivative 2
+DRUG_1232	BMS184394
+DRUG_1233	4-Carboxamido-isoindolinone derivative 4
+DRUG_1234	1-(3,4-Dimethyl-phenyl)-2-phenyl-ethane-1,2-dione
+DRUG_1235	Boc-cyclo-(Glu-Tyr-Nle-D-Lys)-Trp-Nle-Asp-Phe-NH2
+DRUG_1236	PMID25772215-Compound-US02014179750TG8-15
+DRUG_1237	Pyrido[3,2-e][1,2,4]triazolo[4,3-a]pyrazine derivative 1
+DRUG_1238	PMID27336223-Compound-15
+DRUG_1239	2-(4-Amino-phenyl)-8-methyl-3H-quinazolin-4-one
+DRUG_1240	S-(Dimethylarsenic)Cysteine
+DRUG_1241	LGD2941
+DRUG_1242	Linopirdine
+DRUG_1243	US8889672, 252-036-001
+DRUG_1244	AMP-PNP
+DRUG_1245	PH94B NS
+DRUG_1246	CI-999
+DRUG_1247	2-Thiophen-2-yl-3H-imidazo[4,5-c]quinoline
+DRUG_1248	RGX-104
+DRUG_1249	4-(Spiro[chromene-2,4'-piperidine]-4-yl)phenol
+DRUG_1250	Benzothiazine-carboxamide compound 5
+DRUG_1251	Co 101244
+DRUG_1252	Azocan-(2Z)-ylideneamine
+DRUG_1253	NS-1546
+DRUG_1254	STA2
+DRUG_1255	2-phenylpropoxyadenosine
+DRUG_1256	[3-(Biphenyl-4-yloxy)-propyl]-dimethyl-amine
+DRUG_1257	phorbol 12-myristate 13-acetate
+DRUG_1258	3,6,8-Tribromo-dibenzo[1,4]dioxin-1-ol
+DRUG_1259	6-ethyl-3-propylaminocarbonyl-4-quinolone
+DRUG_1260	EZN-4176
+DRUG_1261	PD-159913
+DRUG_1262	(E)-4-(3,5-dimethoxystyryl)phenol
+DRUG_1263	MURAGLITAZAR
+DRUG_1264	Kuanoniamine D
+DRUG_1265	6-(4-Fluorobutyl)-4-methylpyridin-2-amine
+DRUG_1266	[125I]SB-236636
+DRUG_1267	7-bromoindirubin-3-oxime
+DRUG_1268	PD-307243
+DRUG_1269	9-Phenylethyl-9H-adenine
+DRUG_1270	Glycinamide Ribonucleotide
+DRUG_1271	N,N'-Bis-(4-sec-butyl-phenyl)-guanidine
+DRUG_1272	Metelimumab
+DRUG_1273	GLYX-13
+DRUG_1274	(2-Amino-4,5-dihydro-thiazol-4-yl)-acetic acid
+DRUG_1275	RWJ-56110
+DRUG_1276	BMS753
+DRUG_1277	RXDX 101
+DRUG_1278	Nle-Pro-Glu
+DRUG_1279	Testosterone
+DRUG_1280	PMID1875346C18
+DRUG_1281	5-chloro-2-(4-phenylbutyl)isoindoline-1,3-dione
+DRUG_1282	2-(4-bromo-2-cyclohexylphenoxy)acetic acid
+DRUG_1283	6-Methyl-2-p-tolyl-chromen-4-one
+DRUG_1284	Fused ring compound 1
+DRUG_1285	Carbamide derivative 17
+DRUG_1286	AGN193836
+DRUG_1287	Memantine
+DRUG_1288	3-(benzyloxy)-9H-pyrido[3,4-b]indole
+DRUG_1289	FE-202158
+DRUG_1290	D[Leu4,Orn8]VP
+DRUG_1291	CNS-5161
+DRUG_1292	Dihydrodiazepinocarbazolone derivative 2
+DRUG_1293	Indirubin-3-acetoxime
+DRUG_1294	Rosiglitazone + metformin
+DRUG_1295	Fucose
+DRUG_1296	19(R)-OH-PGE2
+DRUG_1297	2-Furan-2-ylmethyl-1,2-dihydro-indazol-3-one
+DRUG_1298	isonipecotic acid
+DRUG_1299	Bis(4-fluorophenyl)-2-fluorophenylacetamide
+DRUG_1300	9-Fluoro-6H,11H-indeno[1,2-c]isoquinolin-5-one
+DRUG_1301	BOL-303259-X
+DRUG_1302	Linetastine
+DRUG_1303	D[Cha4,Dap8]VP
+DRUG_1304	N6-((+/-)-endo-norborn-2-yl)adenosine
+DRUG_1305	CI-930
+DRUG_1306	1,3-Dipropyl-3,7-dihydro-purine-2,6-dione
+DRUG_1307	RO3244794
+DRUG_1308	[1-bromo-(3S)-hydrox-4-(palmitoyloxy)butyl]phosphate
+DRUG_1309	SB220025
+DRUG_1310	PMID28621580-Compound-WO2013036866C66
+DRUG_1311	GRASSYSTATIN A
+DRUG_1312	PMID25772215-Compound-US02014179750TG7-112-2
+DRUG_1313	Diflorasone
+DRUG_1314	[3H]MDL105519
+DRUG_1315	bisphenol A
+DRUG_1316	PMID28460551-Compound-3
+DRUG_1317	1-(4-Chloro-phenyl)-2-phenyl-ethane-1,2-dione
+DRUG_1318	Tricyclic compound 9
+DRUG_1319	2-(3''-(5''-bromo-indolyl)ethyloxy)adenosine
+DRUG_1320	CORT125281
+DRUG_1321	BMY 45778
+DRUG_1322	N-butyl-2-(5-nitro-1H-indol-3-yl)-2-oxoacetamide
+DRUG_1323	3-(3-Methyl-butoxy)-9H-beta-carboline
+DRUG_1324	4-Benzyl-1-(2-phenoxy-ethyl)-piperidine
+DRUG_1325	PMID27539678-Compound-7
+DRUG_1326	Enzastaurin
+DRUG_1327	2-chloro-4-(thiazol-2-yl)thieno[3,2-d]pyrimidine
+DRUG_1328	YM-440
+DRUG_1329	Aminoguanidine
+DRUG_1330	Imidazole derivative 11
+DRUG_1331	DS-6051
+DRUG_1332	Acetic acid 2,6-diisopropyl-phenyl ester
+DRUG_1333	PMID27841036-Compound-XVII
+DRUG_1334	1,2-bis(3,5-difluorophenyl)ethane-1,2-dione
+DRUG_1335	1-(3-methylpyridin-2-yl)-4-tosylpiperazine
+DRUG_1336	CJC-1131
+DRUG_1337	2-(3,4-Difluorophenyl)-2,2-diphenylacetamide
+DRUG_1338	3-Isopropyl-1-methyl-3,7-dihydro-purine-2,6-dione
+DRUG_1339	Rubraca rucaparib
+DRUG_1340	2-chloro-4-(o-tolyloxy)benzonitrile
+DRUG_1341	Flufenamic Acid
+DRUG_1342	PMID27336223-Compound-13
+DRUG_1343	Elsiglutide
+DRUG_1344	6-isobutyl-4-methylpyridin-2-amine
+DRUG_1345	(S)-3-Propyl-[1,4]thiazepan-(5E)-ylideneamine
+DRUG_1346	Peretinoin
+DRUG_1347	PMID7629799C2d
+DRUG_1348	2-ethyl-4-(thiazol-2-yl)thieno[3,2-d]pyrimidine
+DRUG_1349	PD-0166326
+DRUG_1350	7-Ethoxy-1,3-dihydro-imidazo[4,5-b]quinolin-2-one
+DRUG_1351	Triphenylacetic acid methyl ester
+DRUG_1352	ADC-9971
+DRUG_1353	GW7845
+DRUG_1354	Radezolid iv
+DRUG_1355	8-Br-adenine
+DRUG_1356	AZD5985
+DRUG_1357	2-(4-Phenoxy-benzyl)-1H-benzoimidazole
+DRUG_1358	NT0202
+DRUG_1359	CX4
+DRUG_1360	BMS-564929
+DRUG_1361	VPC32183
+DRUG_1362	ER-34122
+DRUG_1363	2-(3''(5''-chloro-indolyl)ethyloxy)adenosine
+DRUG_1364	PMID25416646-Compound-Figure5-A
+DRUG_1365	Amidine compound 2
+DRUG_1366	A-80263
+DRUG_1367	Amidine compound 4
+DRUG_1368	dodecylphosphate
+DRUG_1369	[(125)I] RB129
+DRUG_1370	PMID26004420-Compound-WO2010129379C
+DRUG_1371	CGS-9895
+DRUG_1372	GW-328267
+DRUG_1373	ISIS 109353
+DRUG_1374	3-(2-cinnamylphenyl)acrylic acid
+DRUG_1375	D[Cha4,Orn8]VP
+DRUG_1376	PD-138916
+DRUG_1377	BDBM50177019
+DRUG_1378	BDBM50177012
+DRUG_1379	Piperidine-1-carboxylic acid adamantan-2-yl ester
+DRUG_1380	(1R,5R)-30-OXO-19-OXA-2,6,10,12-TETRAAZAHEXACYCLO[18.6.2.1^{2,5}.1^{14,18}.0^{8,12}.0^{23,27}]TRIACONTA-8,10,14(29),15,17,20(28),21,23(27)-OCTAENE-17-CARBONITRILE (STRUCTURAL MIX)
+DRUG_1381	anti-BrP-LPA
+DRUG_1382	2-(Biphenyl-4-ylsulfonyl)N-hydroxybenzamide
+DRUG_1383	oleoyl-thiophosphate
+DRUG_1384	ISIS 6434
+DRUG_1385	2-Pyridin-4-yl-1,2,3,4-tetrahydro-isoquinoline
+DRUG_1386	Alfa-interferon
+DRUG_1387	Bavencio avelumab
+DRUG_1388	BM-573
+DRUG_1389	9-(3-aminobenzyl)-6-(furan-2-yl)-9H-purin-2-amine
+DRUG_1390	Triciribine prodrug
+DRUG_1391	JTX-2011
+DRUG_1392	LF-984
+DRUG_1393	Thiazolidine dione crystalline derivative 1
+DRUG_1394	PD-146176
+DRUG_1395	GNF-PF-4421
+DRUG_1396	4-[1-(4-hydroxyphenyl)-3-methyl-1-butenyl]phenol
+DRUG_1397	NOX-F37
+DRUG_1398	2-(2-(biphenyl-4-yl)ethylsulfonyl)acetic acid
+DRUG_1399	AdoCGlyArg6
+DRUG_1400	ONO-9910539
+DRUG_1401	15(R)-15-methyl-PGD2
+DRUG_1402	PIBTU
+DRUG_1403	((E)-7-But-2-enyl)-azepan-(2Z)-ylideneamine
+DRUG_1404	SAFINGOL
+DRUG_1405	Desmethylastemizole
+DRUG_1406	paxilline
+DRUG_1407	S-1746
+DRUG_1408	2,2-bis-(2-fluorophenyl)-2-phenylacetamide
+DRUG_1409	6-benzyl-3-propoxycarbonyl-4-quinolone
+DRUG_1410	BIBX-79
+DRUG_1411	BMS-582949
+DRUG_1412	Halisulfate 1
+DRUG_1413	N-Hydroxy-4-isobutyl-benzamide
+DRUG_1414	CETi-1
+DRUG_1415	2-Sulfhydryl-Ethanol
+DRUG_1416	5-Phenethyl-1H-pyrazole-3-carboxylic acid
+DRUG_1417	3-(2,2-Dimethyl-propoxy)-9H-beta-carboline
+DRUG_1418	CDE-5498
+DRUG_1419	Dinoprostone
+DRUG_1420	S-Ethylisothiourea
+DRUG_1421	4'-Methoxy-5,3'-dipropyl-biphenyl-2ol
+DRUG_1422	PDC-41
+DRUG_1423	Tetra-azabenzo[e]azulene derivative 1
+DRUG_1424	AdoC(beta-Ala)2AlaArg6
+DRUG_1425	L-lactic acid
+DRUG_1426	CGS 8515
+DRUG_1427	PMID24556381C10l
+DRUG_1428	3-(benzo[b]thiophen-5-yl)-3-benzylpyrrolidine
+DRUG_1429	Disitertide
+DRUG_1430	N-(4-(benzyloxy)phenethyl)pyridin-4-amine
+DRUG_1431	T0901317
+DRUG_1432	3-Biphenyl-3-yl-N-hydroxy-N-methyl-acrylamide
+DRUG_1433	FPL-64170
+DRUG_1434	Netoglitazone
+DRUG_1435	ISIS 3521
+DRUG_1436	2'-deoxythymidine triphosphate
+DRUG_1437	Adamantan-1-yl-(4-ethyl-piperazin-1-yl)-methanone
+DRUG_1438	FARGLITAZAR
+DRUG_1439	LY-518674
+DRUG_1440	Lefradafiban
+DRUG_1441	1-Allyl-3,7-dimethyl-3,7-dihydro-purine-2,6-dione
+DRUG_1442	WAY-254011
+DRUG_1443	ELTANOLONE
+DRUG_1444	2-Cyclopentyl-1H-imidazo[4,5-c]quinolin-4-ylamine
+DRUG_1445	(4S,5S)-4,5-Dipropyl-oxazolidin-(2Z)-ylideneamine
+DRUG_1446	2-amino-4-methylpyridine
+DRUG_1447	GSK-9772
+DRUG_1448	1-[7-(triphenylmethoxy)heptyl]thymine
+DRUG_1449	PF-00356231
+DRUG_1450	ISIS 9007
+DRUG_1451	A-987306
+DRUG_1452	1,2,3,4,4a,5-hexahydrophenanthridin-6(10bH)-one
+DRUG_1453	A-443654
+DRUG_1454	PMID26004420-Compound-WO2013062900C
+DRUG_1455	Dihydropyrido phthalazinone derivative 3
+DRUG_1456	US9598431, 1
+DRUG_1457	BVT-142
+DRUG_1458	JTT-302
+DRUG_1459	PMID25776143-Compound-2
+DRUG_1460	Phenanthrene-2-carboxylic acid hydroxyamide
+DRUG_1461	Phosphoric acid mono-((E)-tetradec-11-enyl) ester
+DRUG_1462	1-(3,3-Diphenyl-allyl)-3-m-tolyl-urea
+DRUG_1463	AdoC(GABA)Arg6
+DRUG_1464	Fludrocortisone
+DRUG_1465	PHENIDONE
+DRUG_1466	10-CF3C(OH)2-DDACTHF
+DRUG_1467	ALLOXAZINE
+DRUG_1468	7-Methoxy-1H-indazole
+DRUG_1469	monomethylfumarate
+DRUG_1470	(R)-2-Amino-5-phosphono-pentanoic acid
+DRUG_1471	ROCK-1 inhibitors
+DRUG_1472	mabs targeting PAR-1
+DRUG_1473	[3H]OSIP339391
+DRUG_1474	Gemfibrozil
+DRUG_1475	KP-496
+DRUG_1476	R(-)amphetamine
+DRUG_1477	URSOLIC ACID
+DRUG_1478	RGH-896
+DRUG_1479	2H-Isoquinolin-1-one
+DRUG_1480	MK-1925
+DRUG_1481	PEG-TGF peptantagonist
+DRUG_1482	Dihexan-3-yl 5-(hydroxymethyl)isophthalate
+DRUG_1483	3-Ethynylquinoline-8-carboxamide
+DRUG_1484	AMA-237
+DRUG_1485	MMP-12 inhibitors
+DRUG_1486	EC-145
+DRUG_1487	N-(4-methylthiazol-2-yl)benzamide
+DRUG_1488	THIOCITRULLINE
+DRUG_1489	CCX872
+DRUG_1490	PF-3274167
+DRUG_1491	N-(Chlorophenyl)-N'-Hydroxyguanidine
+DRUG_1492	4-(3H-indol-4-ylamino)-5-styrylnicotinonitrile
+DRUG_1493	2-(3-Bromo-phenyl)-6-nitro-chromen-4-one
+DRUG_1494	5-amino-3,4-dihydroisoquinolin-1(2H)-one
+DRUG_1495	ISIS 10310
+DRUG_1496	S-1389
+DRUG_1497	Indoline derivative 18
+DRUG_1498	Rilapladib
+DRUG_1499	PMID9871507C14
+DRUG_1500	SL-401
+DRUG_1501	Evacetrapib
+DRUG_1502	R zileuton
+DRUG_1503	3-oxo-2,3-dihydro-1H-indazole-4-carboxamide derivative 3
+DRUG_1504	PMID27537201-Compound-Figure15b
+DRUG_1505	1-(4-nitrophenyl)-2-(phenylsulfonyl)ethanone
+DRUG_1506	Correloid
+DRUG_1507	(2S)-2-(4-chlorophenoxy)-3-phenylpropanoic acid
+DRUG_1508	Andolast
+DRUG_1509	17-dehydroxyriccardin C
+DRUG_1510	Mannose phosphate
+DRUG_1511	Gly-b7Pro-Glu
+DRUG_1512	Burosumab
+DRUG_1513	PUNICAFOLIN
+DRUG_1514	(Tert-Butyloxycarbonyl)-Alanyl-Alanyl-Amine
+DRUG_1515	4-[2-(4-Phenyl-piperidin-1-yl)-ethoxy]-phenol
+DRUG_1516	3-(2-Nitro-ethyl)-[1,4]oxazepan-(5Z)-ylideneamine
+DRUG_1517	CRTH2 antagonists
+DRUG_1518	KURAIDIN
+DRUG_1519	6s-5,6,7,8-Tetrahydrobiopterin
+DRUG_1520	DIDEAZAFOLATE
+DRUG_1521	6-Bromo-2-(4-nitro-phenyl)-chromen-4-one
+DRUG_1522	Aflibercept
+DRUG_1523	PMID21571530C5g
+DRUG_1524	Tyr-D-Nle-Gly-Trp-Nle-Asp-Phe-NH2
+DRUG_1525	2-(4-Amino-phenyl)-8-hydroxy-3H-quinazolin-4-one
+DRUG_1526	cloprostenol
+DRUG_1527	12,17-dehydroxyriccardin C
+DRUG_1528	TZD18
+DRUG_1529	PMID1656041C11nn
+DRUG_1530	Thiophosphoric acid decyl ester
+DRUG_1531	SAR351034
+DRUG_1532	LG-120838
+DRUG_1533	PMID27336223-Compound-14
+DRUG_1534	JTV-506
+DRUG_1535	EG-016
+DRUG_1536	Flavin-Adenine Dinucleotide
+DRUG_1537	Panobacumab
+DRUG_1538	(E)-13-Nitrooctadec-12-enoic Acid
+DRUG_1539	BUDDLEDIN A
+DRUG_1540	ISONICOTINIC ACID
+DRUG_1541	NIA-114
+DRUG_1542	TAK-202
+DRUG_1543	ONO-1714
+DRUG_1544	4-Butyl-thiazolidin-(2E)-ylideneamine
+DRUG_1545	(Z)-7-octedecan-9-ynoic acid
+DRUG_1546	ISIS 10311
+DRUG_1547	N,N-dimethylarginine
+DRUG_1548	2-(3-Methoxy-phenyl)-6-methyl-chromen-4-one
+DRUG_1549	PMID19632837C17f
+DRUG_1550	AR-C102222
+DRUG_1551	1-amino-2,4-bis(phenylthio)anthracene-9,10-dione
+DRUG_1552	CCK-33
+DRUG_1553	PMID26004420-Compound-WO2014015495B
+DRUG_1554	NTC-801
+DRUG_1555	AFTVac
+DRUG_1556	SKA-31
+DRUG_1557	APH-0812
+DRUG_1558	N-Hydroxy-N-methyl-3-phenanthren-9-yl-acrylamide
+DRUG_1559	Phenyl-(5-phenyl-oxazol-2-yl)-amine
+DRUG_1560	LG100754
+DRUG_1561	UCB-35440
+DRUG_1562	5,6-Cyclic-Tetrahydropteridine
+DRUG_1563	1-((2-chlorophenyl)diphenylmethyl)-1H-pyrazole
+DRUG_1564	Intedanib
+DRUG_1565	1,3-ditolylguanidine
+DRUG_1566	4,5,6-trihydroxy-3-methylphthalide
+DRUG_1567	DIASTEREOMER 2
+DRUG_1568	1,2-NAPHTHOQUINONE
+DRUG_1569	Phenyl 7-methoxy-4-phenylbenzofuran-2-ylcarbamate
+DRUG_1570	BW755C
+DRUG_1571	Pancreatic cancer vaccine
+DRUG_1572	HAEGTFTSDVSSYLEGQAAKEIFAWLVKGR
+DRUG_1573	ORIC-101
+DRUG_1574	N5-(1-iminobut-3-enyl)-L-ornithine
+DRUG_1575	3-ammoniopropane-1-sulfinate
+DRUG_1576	3-phenyl acrylic acid derivative 1
+DRUG_1577	YM-934
+DRUG_1578	Oxtriphylline
+DRUG_1579	8-Hydroxy-2-phenyl-3H-quinazolin-4-one
+DRUG_1580	PMID26004420-Compound-WO2014150132C
+DRUG_1581	Dimethylformamide
+DRUG_1582	Ro31-8220
+DRUG_1583	Glaxo-11p
+DRUG_1584	3-Methylquinoline-8-carboxamide
+DRUG_1585	15(S)-15-methyl-PGD2
+DRUG_1586	6-Furan-2-yl-9-phenethyl-9H-purin-2-ylamine
+DRUG_1587	Antibodie derivative 2
+DRUG_1588	Abicipar pegol
+DRUG_1589	DESMETHYLOLANZAPINE
+DRUG_1590	SM-16
+DRUG_1591	[3H]CGS19755
+DRUG_1592	2-p-tolyl-2H-pyrazolo[3,4-c]quinolin-4-amine
+DRUG_1593	Selective androgen receptor degraders
+DRUG_1594	EP 157
+DRUG_1595	LY-307161 SR
+DRUG_1596	ISIS 4730
+DRUG_1597	ISIS 2177
+DRUG_1598	LY2541546
+DRUG_1599	6-Hydroxyflavanone
+DRUG_1600	4-Bromo-5,7-dichloro-3-hydroxy-1H-quinolin-2-one
+DRUG_1601	Revacept
+DRUG_1602	FR-181157
+DRUG_1603	Riccardin C
+DRUG_1604	2-ethylquinoline-8-carboxamide
+DRUG_1605	GSK-0660
+DRUG_1606	folipastatin
+DRUG_1607	2-(3-Phenyl-propyl)-1,2-dihydro-indazol-3-one
+DRUG_1608	INT-777
+DRUG_1609	5-[(1S)-1-ammonioethyl]isoxazol-3-olate
+DRUG_1610	HYRTIOSULAWESINE
+DRUG_1611	DuP-654
+DRUG_1612	CMI-206
+DRUG_1613	N-{4-[2-(4-Hydroxyphenyl)ethyl]phenyl}phthalimide
+DRUG_1614	7-Butyl-azepan-(2Z)-ylideneamine
+DRUG_1615	5-(2-methylpiperazin-1-ylsulfonyl)isoquinoline
+DRUG_1616	ACACETIN
+DRUG_1617	N-(4-methylthiazol-2-yl)-2-phenylacetamide
+DRUG_1618	PTC299
+DRUG_1619	RU-58841
+DRUG_1620	HYG-440
+DRUG_1621	Activin-like kinase 5 inhibitor
+DRUG_1622	Isotretinoin
+DRUG_1623	2-Phenyl-6-propyl-chromen-4-one
+DRUG_1624	PMID18754614C10
+DRUG_1625	Pyrrolidin-(2Z)-ylideneamine
+DRUG_1626	MANGOSTIN
+DRUG_1627	4-(5-Phenyl-oxazol-2-ylamino)-benzenesulfonamide
+DRUG_1628	CAD-1883
+DRUG_1629	Interferon alfa-n1
+DRUG_1630	3-(4-Butoxy-phenyl)-N-hydroxy-N-methyl-acrylamide
+DRUG_1631	7,9-tetradecadiynoic acid
+DRUG_1632	MK-852
+DRUG_1633	XV454
+DRUG_1634	Isoindoline derivative 5
+DRUG_1635	TI3
+DRUG_1636	4,5,6,7-Tetrahydro-1H-indazole-3-carboxylic acid
+DRUG_1637	N,N'-Bis-(4-hexyl-phenyl)-guanidine
+DRUG_1638	N-(4-Ethylphenyl)-5-methylbenzo[d]oxazol-2-amine
+DRUG_1639	ATOSIBAN
+DRUG_1640	3-pyridine-acetic acid
+DRUG_1641	6,9-Dimethyl-2-oxa-spiro[4.4]nonan-1-one
+DRUG_1642	1-(3-methoxyphenyl)-2-(phenylsulfonyl)ethanone
+DRUG_1643	Quinazoline derivative 10
+DRUG_1644	PAT5A
+DRUG_1645	A-70276
+DRUG_1646	6-Nitro-2-phenyl-chromen-4-one
+DRUG_1647	TRN-101
+DRUG_1648	C[YYAEGLEE]-NH2
+DRUG_1649	3-(dodecylsulfonyl)-1,1,1-trifluoropropan-2-one
+DRUG_1650	N3-GHQMFYYPra-NH2
+DRUG_1651	5-Benzyl-1H-pyrazole-3-carboxylic acid
+DRUG_1652	L-5-iodo-2'-deoxyuridine
+DRUG_1653	HYDAMTIQ
+DRUG_1654	NBQX
+DRUG_1655	PMID25991433-Compound-L1
+DRUG_1656	N-Indan-1-yl-2-(1H-indol-3-yl)-2-oxo-acetamide
+DRUG_1657	A-935142
+DRUG_1658	GSK618334
+DRUG_1659	Org-9935
+DRUG_1660	PPAR delta agonists
+DRUG_1661	Procysteine
+DRUG_1662	8-Bromo-9-(2-butyl)-9H-adenine
+DRUG_1663	US8889696, 39
+DRUG_1664	PF-526014
+DRUG_1665	(S)-N-[1-(3-morpholin-4-yl-phenyl)-ethyl]-3-phenyl-acrylamide
+DRUG_1666	Y-26763
+DRUG_1667	Ro-40-0655
+DRUG_1668	DT-TX-30
+DRUG_1669	Efomycine M
+DRUG_1670	2-(5-Phenyl-oxazol-2-ylamino)-benzonitrile
+DRUG_1671	N-methyl-2,2,2-triphenylacetamide
+DRUG_1672	AR-C133057XX
+DRUG_1673	BIIB014
+DRUG_1674	DABCO-C16
+DRUG_1675	Azimilide
+DRUG_1676	PMID26004420-Compound-WO2015017305F
+DRUG_1677	Acetyl-Ala-Ala-Pro-Ala-trifluromethane
+DRUG_1678	Fluoxymesterone
+DRUG_1679	DS-6930
+DRUG_1680	PTL-101
+DRUG_1681	4-Chloro-N-(2-chloro-benzoyl)-benzenesulfonamide
+DRUG_1682	4-Methyl-5-piperidin-4-yl-isoxazol-3-ol
+DRUG_1683	ZM-241385
+DRUG_1684	PD-135158
+DRUG_1685	GALANGIN
+DRUG_1686	Fradafiban
+DRUG_1687	2-Amino-4,6-di-furan-2-yl-nicotinonitrile
+DRUG_1688	ISIS 4759
+DRUG_1689	(E)-4-Methyl-6-(prop-1-enyl)pyridin-2-amine
+DRUG_1690	SMP-797
+DRUG_1691	YM-75440
+DRUG_1692	2-benzyl-4,5,6,7-tetrachloroisoindoline-1,3-dione
+DRUG_1693	Cyproterone
+DRUG_1694	Tyr-D-Phe-Gly-D-Trp-Nle-Asp-Phe-NH2
+DRUG_1695	8S-HETE
+DRUG_1696	Pyrimethamine
+DRUG_1697	Piperidin-(2E)-ylideneamine
+DRUG_1698	TTH 03-001
+DRUG_1699	2-ethyl-4-(furan-2-yl)thieno[3,2-d]pyrimidine
+DRUG_1700	Tyr-D-Ala-Gly-D-Trp-NMeNle-Asp-Phe-NH2
+DRUG_1701	4-(2-aminoethyl)-1,2,5-oxadiazol-3-ol
+DRUG_1702	K-877
+DRUG_1703	Alitretinoin
+DRUG_1704	ACEA-1011
+DRUG_1705	LLZ16406
+DRUG_1706	Coenzyme A
+DRUG_1707	PMID8426367C18
+DRUG_1708	BHV-5000
+DRUG_1709	Dextofisopam
+DRUG_1710	4-(mesitylthio)-2-(trifluoromethyl)benzonitrile
+DRUG_1711	RO-194603
+DRUG_1712	4-(isoquinolin-5-yl)-N-m-tolylphthalazin-1-amine
+DRUG_1713	PMID25776143-Compound-7
+DRUG_1714	TERIKALANT
+DRUG_1715	GLP-1
+DRUG_1716	TESAGLITAZAR
+DRUG_1717	Fruquintinib
+DRUG_1718	T-0632
+DRUG_1719	PF-3185043
+DRUG_1720	Interleukin-1-alpha - Amgen/Roche
+DRUG_1721	Sp-Adenosine-3',5'-Cyclic-Monophosphorothioate
+DRUG_1722	1,3-Diallyl-7-methyl-3,7-dihydro-purine-2,6-dione
+DRUG_1723	ISIS 9606
+DRUG_1724	1'-tosylspiro[indene-1,4'-piperidine]
+DRUG_1725	N-(6-(4-CHLOROPHENYL)-7-(2,4-DICHLOROPHENYL)-2,2-DIMETHYL-3,4-DIHYDRO-2H-PYRANO[2,3-B]PYRIDIN-4-YL)-3-HYDROXYPROPANAMIDE (ENANTIOMERIC MIX)
+DRUG_1726	2-(4-phenylbutyl)pyrido[2,3-d]pyrimidin-4(3H)-one
+DRUG_1727	PSB-0788
+DRUG_1728	LGD-2226
+DRUG_1729	Acetate Ion
+DRUG_1730	BIBV 308
+DRUG_1731	2,4,5-Triarylimidazole analogue
+DRUG_1732	PMID1527791C29
+DRUG_1733	Phenanthrene-9,10-dione
+DRUG_1734	7-bromoindirubin-3-acetoxime
+DRUG_1735	Sargramostim
+DRUG_1736	P-Anisic Acid
+DRUG_1737	D(CH2)5[Tyr(Me)2,Thr4,Orn8(5/6C-Flu),Tyr-NH29]VT
+DRUG_1738	4-Butoxy-N-hydroxy-N-methyl-benzamide
+DRUG_1739	5-Bromothienyldeoxyuridine
+DRUG_1740	Boc-Glu-Tyr(SO3H)-Nle-D-Lys-Trp-Nle-Asp-Phe-NH2
+DRUG_1741	ABT-981
+DRUG_1742	MEDI9929
+DRUG_1743	PMID25259874C4
+DRUG_1744	OPC-21268
+DRUG_1745	Muscimol
+DRUG_1746	2-(2-cyclohexyl-4-methylphenoxy)acetic acid
+DRUG_1747	cinnamic acid
+DRUG_1748	PMID26004420-Compound-US20140275020E
+DRUG_1749	3,4,5,6-Tetrachloro-[1,2]benzoquinone
+DRUG_1750	9-Hydroxypropyladenine, R-Isomer
+DRUG_1751	PMID2909732C7
+DRUG_1752	FR-166124
+DRUG_1753	5-(3-butylpyrrolidin-3-yl)-1H-indole
+DRUG_1754	Phthalazine ketone derivative 2
+DRUG_1755	4-(2-Oxo-2-phenyl-acetyl)-benzoic acid
+DRUG_1756	L-701324
+DRUG_1757	FPYVAE peptide
+DRUG_1758	LY-317644
+DRUG_1759	EMZ701
+DRUG_1760	10,10-difluoro TXA2
+DRUG_1761	AG-26
+DRUG_1762	BAY-73-1449
+DRUG_1763	Cyclohexyl-(2-phenoxy-9H-purin-6-yl)-amine
+DRUG_1764	A-79175
+DRUG_1765	GSK-1344386B
+DRUG_1766	1,1,1-trifluoro-3-(octylsulfonyl)propan-2-one
+DRUG_1767	ISIS 6581
+DRUG_1768	BIBB-515
+DRUG_1769	N6-methoxy-2-[(4-pyridinyl)ethynyl]adenosine
+DRUG_1770	9-Cyclopropyl-9H-adenine
+DRUG_1771	NM-3
+DRUG_1772	PMID20005102C1
+DRUG_1773	N-Omega-Propyl-L-Arginine
+DRUG_1774	PD-140548
+DRUG_1775	ISIS 144379
+DRUG_1776	RUS 3108
+DRUG_1777	NIP-142
+DRUG_1778	4-Bromo-2,6-diisopropyl-phenol
+DRUG_1779	Rivoglitazone
+DRUG_1780	CI-218872
+DRUG_1781	AGS-348
+DRUG_1782	GI 181771
+DRUG_1783	3-Isobutyl-[1,4]thiazepan-(5E)-ylideneamine
+DRUG_1784	2-(4-bromo-2-tert-butylphenoxy)acetic acid
+DRUG_1785	Quinoline derivative 16
+DRUG_1786	LUF-5957
+DRUG_1787	AM-92016
+DRUG_1788	L-165041
+DRUG_1789	PMID22136433C20
+DRUG_1790	apamin
+DRUG_1791	AMPE4L
+DRUG_1792	L-Tryptophan-L-leucine
+DRUG_1793	Quinoline and quinazoline derivative 8
+DRUG_1794	6-Chloro-2-phenyl-chromen-4-one
+DRUG_1795	Pyrimidine derivative 8
+DRUG_1796	LY2801653
+DRUG_1797	Phosphonothreonine
+DRUG_1798	Correloid derivative
+DRUG_1799	1-phenyl-4-(1-phenyl-1H-tetrazol-5-yl)butan-2-one
+DRUG_1800	ISIS 6432
+DRUG_1801	6-Ethyl-2-phenyl-chromen-4-one
+DRUG_1802	Methyl 2-amino-4-phenylthiophene-3-carboxylate
+DRUG_1803	ABT-888
+DRUG_1804	SQ 26655
+DRUG_1805	SB 203580
+DRUG_1806	4-(thiazol-2-yl)thieno[3,2-d]pyrimidin-2-amine
+DRUG_1807	MJ-451
+DRUG_1808	Navicixizumab
+DRUG_1809	F(4-Fluoro)VAE
+DRUG_1810	L-165461
+DRUG_1811	N-(3-(trifluoromethyl)benzyl)-4-phenoxybenzamide
+DRUG_1812	DRP-049
+DRUG_1813	2-morpholino-1,1-di(pyridin-3-yl)octan-1-ol
+DRUG_1814	PMID1656041C11jj
+DRUG_1815	24(S)-hydroxycholesterol
+DRUG_1816	RX-0201
+DRUG_1817	N-bis-(3-phenyl-propyl)9-oxo-fluorene-2,7-diamide
+DRUG_1818	S-5751
+DRUG_1819	WX-554
+DRUG_1820	LUF-5417
+DRUG_1821	PMID25991433-Compound-F1
+DRUG_1822	KRP-105
+DRUG_1823	BVT-3498
+DRUG_1824	2-(4-chlorophenyl)-6-phenyl-9H-purine
+DRUG_1825	MCP-1
+DRUG_1826	1-METHYLXANTHINE
+DRUG_1827	Carbamide derivative 18
+DRUG_1828	6-Bromo-2-phenyl-chromen-4-one
+DRUG_1829	2-(3''-pyrrolylethyloxy)adenosine
+DRUG_1830	PMID28048944-Compound-20
+DRUG_1831	1-(4-methoxyphenyl)-3-(4-methylthiazol-2-yl)urea
+DRUG_1832	TOCOTRIENOL
+DRUG_1833	PF-05212372
+DRUG_1834	RP-49356
+DRUG_1835	ISIS 9071
+DRUG_1836	CYCLOPLATAM
+DRUG_1837	MX-4509
+DRUG_1838	PMID18754614C9
+DRUG_1839	Quinoline and quinazoline derivative 9
+DRUG_1840	LAS-31180
+DRUG_1841	XE991
+DRUG_1842	7-Diazonium-naphthalene-1-sulfonic acid anion
+DRUG_1843	PF-06439535
+DRUG_1844	DT388IL-3
+DRUG_1845	KD-3020
+DRUG_1846	SU-11652
+DRUG_1847	ML277
+DRUG_1848	CM3.1-AC100
+DRUG_1849	DIZOCILPINE
+DRUG_1850	1-(4-methoxyphenyl)-2-(phenylsulfonyl)ethanone
+DRUG_1851	PBF509
+DRUG_1852	3-oxo-2,3-dihydro-1H-indazole-4-carboxamide derivative 4
+DRUG_1853	22R-hydroxycholesterol
+DRUG_1854	SB-202235
+DRUG_1855	Oxytocin
+DRUG_1856	RO5166017
+DRUG_1857	1-(biphenyl-4-yl-methyl)-1H-imidazole derivative 1
+DRUG_1858	A-substituted phenylpropionic acid derivative 2
+DRUG_1859	6-(2-Imidazol-1-yl-vinyl)-1H-quinolin-2-one
+DRUG_1860	1-(4-p-Tolyl-butyl)-piperidine
+DRUG_1861	ISIS 109355
+DRUG_1862	6-Phenylsulfanyl-9H-purine
+DRUG_1863	GPI 18214
+DRUG_1864	3-Ethenylquinoline-8-carboxamide
+DRUG_1865	1-butyryl-1H-indole-2,3-dione
+DRUG_1866	[Lys8(Alexa 546) ]PVA
+DRUG_1867	PMID16451062C46
+DRUG_1868	SKF-105809
+DRUG_1869	(S)-3-(2',2'-Dimethyl-propionyl)amino-caprolactam
+DRUG_1870	LUF-5767
+DRUG_1871	ISIS-DMPK
+DRUG_1872	ICA-105665
+DRUG_1873	PD-128763
+DRUG_1874	C5aR pepducins
+DRUG_1875	5-Methyl-1,3-dihydro-imidazo[4,5-b]quinolin-2-one
+DRUG_1876	DB-900
+DRUG_1877	6-Methyl-2-pyridin-3-yl-chromen-4-one
+DRUG_1878	Bile acid
+DRUG_1879	(S)-4-CMTB
+DRUG_1880	ISIS 17252
+DRUG_1881	I-BOP
+DRUG_1882	ASC-JMX2
+DRUG_1883	PDC-31
+DRUG_1884	SK&F 107649
+DRUG_1885	Hexahydro naphthalene derivative 3
+DRUG_1886	ZT-386
+DRUG_1887	Anifrolumab
+DRUG_1888	3-Isopropyl-3-methyl-dihydro-furan-2-one
+DRUG_1889	Piperidine derivative 2
+DRUG_1890	Amidine compound 5
+DRUG_1891	BMS-986202
+DRUG_1892	YM533
+DRUG_1893	VL-0494
+DRUG_1894	Azonan-(2Z)-ylideneamine
+DRUG_1895	3-Methyl-1-phenyl-1H-chromeno[4,3-c]pyrazol-4-one
+DRUG_1896	DABCO
+DRUG_1897	TA-5493
+DRUG_1898	4-(isopropylthio)-2-(trifluoromethyl)benzonitrile
+DRUG_1899	LAS-41001
+DRUG_1900	SR9238
+DRUG_1901	Lefamulin
+DRUG_1902	Fenretinide
+DRUG_1903	CS-8080
+DRUG_1904	ORMD-0901
+DRUG_1905	Ataprost
+DRUG_1906	N-Hydroxy-2-methyl-3-naphthalen-2-yl-acrylamide
+DRUG_1907	PMID2153213C1a
+DRUG_1908	4-chloro-1H-indazole
+DRUG_1909	CHF-3381
+DRUG_1910	E-3810
+DRUG_1911	BRL-32872A
+DRUG_1912	DC-EBIO
+DRUG_1913	Carbamide derivative 16
+DRUG_1914	SB-227931
+DRUG_1915	ALLOPREGNANOLONE
+DRUG_1916	(E)-10-nitrooctadec-9-enoic acid
+DRUG_1917	RG7304
+DRUG_1918	CMX-2043
+DRUG_1919	4-methoxy-N-(thiazol-2-yl)benzamide
+DRUG_1920	3-Ethyl-[1,4]thiazepan-(5E)-ylideneamine
+DRUG_1921	Tilarginine acetate
+DRUG_1922	SAGE-718
+DRUG_1923	PSI-697
+DRUG_1924	ME-3277
+DRUG_1925	FIG 1
+DRUG_1926	Phorbol 12-myristate
+DRUG_1927	Minoxidil
+DRUG_1928	Charybdotoxin
+DRUG_1929	RY796
+DRUG_1930	CDE-5110
+DRUG_1931	SR-146131
+DRUG_1932	4-(5-Morpholin-4-yl-pentyl)-2H-phthalazin-1-one
+DRUG_1933	EVT100
+DRUG_1934	AV-101
+DRUG_1935	Troglitazone
+DRUG_1936	1,2-Bis-(4-bromo-phenyl)-ethane-1,2-dione
+DRUG_1937	L-735021
+DRUG_1938	L-Tryptophan-L-2-aminoadipic acid
+DRUG_1939	3-Hydroxy-benzamide
+DRUG_1940	N-(2,6-diphenylpyrimidin-4-yl)-2-ethylbutyramide
+DRUG_1941	N-Methylnaloxonium
+DRUG_1942	acetyl-podocarpic dimer
+DRUG_1943	N-(3-Bromophenyl)-5-methoxybenzo[d]oxazol-2-amine
+DRUG_1944	(9H-beta-Carbolin-3-yl)-methanol
+DRUG_1945	[1-Benzyl-1H-quinolin-(4E)-ylidene]-hexyl-amine
+DRUG_1946	[3H]methyltrienolone
+DRUG_1947	3-Amino-propane-1-sulfonic acid
+DRUG_1948	4-Phenyl-5-piperidin-4-yl-isoxazol-3-ol
+DRUG_1949	FPL-14294
+DRUG_1950	3-(decylthio)-1,1,1-trifluoropropan-2-one
+DRUG_1951	Radiosensitizer gene therapy
+DRUG_1952	Quinoline and quinazoline derivative 10
+DRUG_1953	3-(4-(2-phenylethynyl)benzoyl)pentanoic acid
+DRUG_1954	N*1*-(5-Methyl-2-nitro-phenyl)-butane-1,4-diamine
+DRUG_1955	RGD-039
+DRUG_1956	7-iodoindirubin-3-oxime
+DRUG_1957	FK-070
+DRUG_1958	AZD4635
+DRUG_1959	2,4-diaminoquinozalines and quinoxaline-2,3-diones
+DRUG_1960	E7016
+DRUG_1961	SL-327
+DRUG_1962	2,4'-Diacetoxy-5,3'-di-(2-propenyl)-biphenyl
+DRUG_1963	N6-(4-hydroxybenzyl)adenine riboside
+DRUG_1964	CS-038
+DRUG_1965	ISIS 114371
+DRUG_1966	8-Phenyl-1-propyl-3,7-dihydro-purine-2,6-dione
+DRUG_1967	PMID24556381C10f
+DRUG_1968	VX-702
+DRUG_1969	ISIS 10228
+DRUG_1970	PMID20462760C22
+DRUG_1971	1,2-bis(2,6-difluorophenyl)-2-hydroxyethanone
+DRUG_1972	Zwitterionic sulfobetaine derivative
+DRUG_1973	BL-1020
+DRUG_1974	2-(3''-(4''-bromo-indolyl)ethyloxy)adenosine
+DRUG_1975	3,4-difluorobenzaldehyde O-benzoyloxime
+DRUG_1976	[2(R,S)-2-Sulfanylheptanoyl]-Phe-Ala
+DRUG_1977	2-ethyl-4-(pyridin-2-yl)thieno[3,2-d]pyrimidine
+DRUG_1978	RU-56187
+DRUG_1979	1-(4-chlorophenyl)-2-(phenylsulfonyl)ethanone
+DRUG_1980	Cdk1/2 inhibitor III
+DRUG_1981	JTT-654
+DRUG_1982	IQB-9302
+DRUG_1983	Y-27152
+DRUG_1984	Englitazone sodium
+DRUG_1985	C[Cpa19-Lys26][Gly8]GLP-1(7-37)-NH2
+DRUG_1986	1,3-Diisobutyl-3,7-dihydro-purine-2,6-dione
+DRUG_1987	Akt inhibitor VIII
+DRUG_1988	Neu-2000
+DRUG_1989	D[Leu4,Dab8]VP
+DRUG_1990	PMID17574412C33
+DRUG_1991	KC706
+DRUG_1992	2-(cinnamyloxy)pyrido[2,3-d]pyrimidin-4(3H)-one
+DRUG_1993	LG-121071
+DRUG_1994	Binodenoson
+DRUG_1995	PD-140547
+DRUG_1996	LY3012212
+DRUG_1997	PF-3644022
+DRUG_1998	Sodium taurocholate
+DRUG_1999	N-hydroxyglycine derivative
+DRUG_2000	Imidazopyridazine derivative 6
+DRUG_2001	IN-1130
+DRUG_2002	CL-277082
+DRUG_2003	2-m-tolyl-2H-pyrazolo[3,4-c]quinolin-4-amine
+DRUG_2004	SK1-I
+DRUG_2005	Flupirtine
+DRUG_2006	Premarin/Pravachol
+DRUG_2007	MAPKAP kinase 2 inhibitors
+DRUG_2008	BMS-180448
+DRUG_2009	Netarsudil
+DRUG_2010	Telbermin
+DRUG_2011	Corosolic acid
+DRUG_2012	4-dehydroxyriccardin C
+DRUG_2013	2-phenylamino-9-(4-hydroxy-butyl)-6-oxopurine
+DRUG_2014	PMID8246234C3h
+DRUG_2015	PMID25991433-Compound-L
+DRUG_2016	GW803430
+DRUG_2017	PMID27539678-Compound-6
+DRUG_2018	9-(sec-Butyl)-9H-adenine
+DRUG_2019	EPIERENONE
+DRUG_2020	Romosozumab
+DRUG_2021	N-Hydroxy-N-methyl-3-naphthalen-1-yl-acrylamide
+DRUG_2022	ISIS-AR
+DRUG_2023	PMID17560788C29f
+DRUG_2024	Pinacidil
+DRUG_2025	PF-915275
+DRUG_2026	DARGLITAZONE
+DRUG_2027	ISIS 9008
+DRUG_2028	AZM-134
+DRUG_2029	1,8-Dihydroxy-2-propionyl-10H-anthracen-9-one
+DRUG_2030	IDRA-21
+DRUG_2031	SOPHOFLAVESCENOL
+DRUG_2032	NS-220
+DRUG_2033	KW-7158
+DRUG_2034	PMID25991433-Compound-P2
+DRUG_2035	1,1,1-trifluoro-3-(octylsulfinyl)propan-2-one
+DRUG_2036	4r-Fluoro-N6-Ethanimidoyl-L-Lysine
+DRUG_2037	VPC-94075
+DRUG_2038	5,7-Dinitro-1,4-dihydro-quinoxaline-2,3-dione
+DRUG_2039	Cenicriviroc
+DRUG_2040	Orphenadrine
+DRUG_2041	HL-018
+DRUG_2042	17-phenyl-omega-trinor-PGE2
+DRUG_2043	PMID25991433-Compound-O2
+DRUG_2044	L-372662
+DRUG_2045	9-(2-Hydroxyethyl)-9H-adenine
+DRUG_2046	WAY-214950
+DRUG_2047	(4S,5R)-4,5-Dimethyl-oxazolidin-(2Z)-ylideneamine
+DRUG_2048	isobutyric acid
+DRUG_2049	D[Orn4,Lys8]VP
+DRUG_2050	Rilmakalim
+DRUG_2051	FE-203799
+DRUG_2052	CACOSPONGIONOLIDE
+DRUG_2053	aspirin-triggered resolvin D1
+DRUG_2054	ICA-1
+DRUG_2055	JASPAQUINOL
+DRUG_2056	7-(piperidin-4-ylmethoxy)-2-naphthonitrile
+DRUG_2057	10-Benzoyl-1,8-dihydroxy-10H-anthracen-9-one
+DRUG_2058	NS-1608
+DRUG_2059	TRANSTORINE
+DRUG_2060	Symakalim
+DRUG_2061	1-Phenyl-3-(4-pyridin-2-yl-thiazol-2-yl)-urea
+DRUG_2062	PMID22765894C8h
+DRUG_2063	PMID2296027C29
+DRUG_2064	2-phenyl-N-(1,3,4-thiadiazol-2-yl)acetamide
+DRUG_2065	TTP273
+DRUG_2066	2-Amino-4-furan-2-yl-6-phenyl-nicotinonitrile
+DRUG_2067	SB-435495
+DRUG_2068	schisandrin A
+DRUG_2069	4-Naphthalen-1-yl-5-piperidin-4-yl-isoxazol-3-ol
+DRUG_2070	B-5354a
+DRUG_2071	1-(4-chlorophenylsulfonyl)-4-phenylazepan-4-ol
+DRUG_2072	9-Allyl-8-bromo-9H-adenine
+DRUG_2073	Acetic acid 5-butyl-2-phenyl-thiazol-4-yl ester
+DRUG_2074	BUTAPROST
+DRUG_2075	GLPG-0259
+DRUG_2076	BTD-001
+DRUG_2077	LXR 623
+DRUG_2078	Carbamide derivative 20
+DRUG_2079	9-octadecynoic acid
+DRUG_2080	MSC1936369B
+DRUG_2081	TESTOSTERONE BUCICLATE
+DRUG_2082	4-Benzyl-1-phenethyl-piperidine hydrochloride
+DRUG_2083	chelerythrine
+DRUG_2084	Petrosaspongiolide M
+DRUG_2085	Phosphoric acid monotetradecyl ester
+DRUG_2086	Felbamate
+DRUG_2087	GSK2110183
+DRUG_2088	ALX-101
+DRUG_2089	T0070907
+DRUG_2090	PMID2231594C3j
+DRUG_2091	2-(4-methoxyphenyl)-N-(thiazol-2-yl)acetamide
+DRUG_2092	E6201
+DRUG_2093	L-NAME
+DRUG_2094	ISIS 109354
+DRUG_2095	BNC-210
+DRUG_2096	SIBRAFIBAN
+DRUG_2097	ICA-69673
+DRUG_2098	1,2-indanedione
+DRUG_2099	5-Butyl-1H-pyrazole-3-carboxylic acid
+DRUG_2100	1,2-bis(3,4-difluorophenyl)-2-hydroxyethanone
+DRUG_2101	PMID26004420-Compound-WO2013039802A
+DRUG_2102	BW B70C
+DRUG_2103	ADX-2 series
+DRUG_2104	Difluoromethylornithine
+DRUG_2105	Phenylpropionic acid derivative 1
+DRUG_2106	3-(4-aminophenyl)quinoxaline-5-carboxamide
+DRUG_2107	8-Chloro-3-hydroxy-1H-benzo[b]azepine-2,5-dione
+DRUG_2108	4,6-dichloro-1H-indole-2,3-dione
+DRUG_2109	Tipelukast
+DRUG_2110	1-Phenyl-2-p-tolyl-ethane-1,2-dione
+DRUG_2111	2-(5-cyano-1-pent-1-ynyl)-N6-methoxyadenosine
+DRUG_2112	PMID24900526C1
+DRUG_2113	US9073931, E1
+DRUG_2114	ACEA-1416
+DRUG_2115	4-Piperidino-Piperidine
+DRUG_2116	N-[6-(4-CHLOROPHENYL)-7-(2,4-DICHLOROPHENYL)-2,2-DIMETHYL-3,4-DIHYDRO-2H-PYRANO[2,3-B]PYRIDINE-4-YL]-4,4,4-TRIFLUORO-3-HYDROXYBUTANAMIDE (DIASTEREOMERIC MIX)
+DRUG_2117	N,N'-Bis-(4-isopropyl-phenyl)-guanidine
+DRUG_2118	N-(2,6-diphenylpyrimidin-4-yl)acetamide
+DRUG_2119	PMID21571530C7e
+DRUG_2120	MK-7246
+DRUG_2121	PMID9216829C5m
+DRUG_2122	4-[3-(4-Phenyl-butylamino)-propyl]-phenol
+DRUG_2123	BENZIL
+DRUG_2124	quin-C7
+DRUG_2125	CNI-1493
+DRUG_2126	PMID17935989C25
+DRUG_2127	AVE-9940
+DRUG_2128	Delta12-PGJ2
+DRUG_2129	Hydroxydimethylarsine Oxide
+DRUG_2130	3,4-Dichloro-N-(3,3-diphenyl-allyl)-benzamide
+DRUG_2131	3-Isobutoxy-9H-beta-carboline
+DRUG_2132	ART-144
+DRUG_2133	RWJ-68354
+DRUG_2134	PGD3
+DRUG_2135	F-50040
+DRUG_2136	DVDAVP
+DRUG_2137	oleoyl-CoA
+DRUG_2138	Pyridine derivative 5
+DRUG_2139	Quinoline-8-carboxamide
+DRUG_2140	WAY-123641
+DRUG_2141	5-(4-piperidyl)-4-propylisothiazol-3-ol
+DRUG_2142	PMID1895299C6v
+DRUG_2143	UBP141
+DRUG_2144	Ki16425
+DRUG_2145	O-Sialic Acid
+DRUG_2146	Ingenol-3-bezoate
+DRUG_2147	Ro48-8071
+DRUG_2148	Benafentrine dimaleate
+DRUG_2149	d-AP5
+DRUG_2150	AL12180
+DRUG_2151	Oxazolidin-(2Z)-ylideneamine
+DRUG_2152	N-Isopropyl-N'-Hydroxyguanidine
+DRUG_2153	NS-1643
+DRUG_2154	[Val4]AVP
+DRUG_2155	8-Fluoro-3-hydroxy-1H-benzo[b]azepine-2,5-dione
+DRUG_2156	9-Ethyl-8-phenylethynyl-9H-purin-6-ylamine
+DRUG_2157	Bertosamil
+DRUG_2158	Sch-40120
+DRUG_2159	Anacetrapib
+DRUG_2160	2-morpholino-7-phenyl-4H-chromen-4-one
+DRUG_2161	ZK-118182
+DRUG_2162	ISIS 7942
+DRUG_2163	TP-9201
+DRUG_2164	(E)-Octadec-9-enoic acid phenylamide
+DRUG_2165	N-(2-(furan-2-yl)-3,4'-bipyridin-6-yl)acetamide
+DRUG_2166	G009
+DRUG_2167	ISIS 2686
+DRUG_2168	WAY-252623
+DRUG_2169	[HO1][Thr4,Lys8(5/6C-Flu)]VT
+DRUG_2170	L-371257
+DRUG_2171	4-[2-(5-Phenyl-pentylamino)-ethyl]-phenol
+DRUG_2172	PMID27336223-Compound-5
+DRUG_2173	Darbufelone
+DRUG_2174	Eusynstyelamide C
+DRUG_2175	SX-ARPC
+DRUG_2176	Research programme: MAP kinase kinase 2 inhibitors, Pfizer
+DRUG_2177	PMID22420767C42
+DRUG_2178	3-Methyl-9H-beta-carboline
+DRUG_2179	CCK-8
+DRUG_2180	9H-beta-Carboline-3-carboxylic acid ethyl ester
+DRUG_2181	Staurosporine
+DRUG_2182	BMY-30123
+DRUG_2183	Aminopurvalanol
+DRUG_2184	3-(2-((E)-3-phenylprop-1-enyl)phenyl)acrylic acid
+DRUG_2185	MDL-74156
+DRUG_2186	XEN1101
+DRUG_2187	N-{4-[2-(3-Hydroxyphenyl)ethyl]phenyl}phthalimide
+DRUG_2188	(4S)-4-ammoniopentanoate
+DRUG_2189	2-(4-chloro-2-cyclopentylphenoxy)acetic acid
+DRUG_2190	YM-750
+DRUG_2191	IM-094261
+DRUG_2192	3-Ethyl-3-methyl-dihydro-furan-2-one
+DRUG_2193	US9073931, E3
+DRUG_2194	RY-066
+DRUG_2195	4-(isopropylthio)-2-methoxybenzonitrile
+DRUG_2196	3-methoxy-N-(1,3,4-thiadiazol-2-yl)benzamide
+DRUG_2197	Tenocyclidine
+DRUG_2198	Bezafibrate
+DRUG_2199	1-phenyl-3-(phenylsulfonyl)propan-1-one
+DRUG_2200	Interferon beta-1b
+DRUG_2201	PMID26004420-Compound-WO2015017305D
+DRUG_2202	4-Pyridin-2-yl-5-quinolin-4-yl-thiazol-2-ylamine
+DRUG_2203	Ifetroban sodium
+DRUG_2204	CEB-925
+DRUG_2205	Amitriptyline+ketamine
+DRUG_2206	PMID27841036-Compound-37
+DRUG_2207	Andromustine
+DRUG_2208	PMID8709131C17
+DRUG_2209	Debio-0930
+DRUG_2210	3-Propoxy-9H-beta-carboline
+DRUG_2211	ANDROSTERONE
+DRUG_2212	Nicaraven
+DRUG_2213	3-sec-Butoxy-9H-beta-carboline
+DRUG_2214	1,3,7-Tripropyl-3,7-dihydro-purine-2,6-dione
+DRUG_2215	X-82
+DRUG_2216	PMID19191557C21
+DRUG_2217	Phthalazine derivative 1
+DRUG_2218	ISIS-APOCIII
+DRUG_2219	ABT-767
+DRUG_2220	4,5-Dimethyl-pyrrolidin-(2Z)-ylideneamine
+DRUG_2221	PMID19191557C8
+DRUG_2222	BX-517
+DRUG_2223	Phthalazine derivative 2
+DRUG_2224	Tyr-D-Ala-Gly-Phe-NH-NH-Phe-Asp-NMeNle-D-Trp-Boc
+DRUG_2225	AS604872
+DRUG_2226	5,3'-Dipropyl-biphenyl-2,4'-diol
+DRUG_2227	3-noradamantyl-1,3-dipropylxanthine
+DRUG_2228	2-(4-chloro-2-cycloheptylphenoxy)acetic acid
+DRUG_2229	HAEGTFTSDVSSYLEGQAAKEFIAWLVKGRG-NH2
+DRUG_2230	SR-3850
+DRUG_2231	2-(N-Morpholino)-Ethanesulfonic Acid
+DRUG_2232	3-Methoxycarbonyl-2-methyl-9H-beta-carbolin-2-ium
+DRUG_2233	1,2-Bis-(3-methoxy-phenyl)-ethane-1,2-dione
+DRUG_2234	4-(isopentylthio)-2-(trifluoromethyl)benzonitrile
+DRUG_2235	2-Amino-6-furan-2-yl-4-phenyl-nicotinonitrile
+DRUG_2236	2-(6-amino-8-bromo-9H-purin-9-yl)ethanol
+DRUG_2237	PMID17709461C4g
+DRUG_2238	10-Acetyl-1,8-dihydroxy-10H-anthracen-9-one
+DRUG_2239	IMGN-853
+DRUG_2240	8-Bromo-9-cyclopentyl-9H-adenine
+DRUG_2241	2-(3'-Methoxyphenyl) Benzimidazole-4-Carboxamide
+DRUG_2242	Tetra-azabenzo[e]azulene derivative 2
+DRUG_2243	2-(4-Butoxy-phenoxy)-N-hydroxy-acetamide
+DRUG_2244	N-(3-phenethoxybenzyl)-4-hydroxybenzamide
+DRUG_2245	MGCD265
+DRUG_2246	PMID27336223-Compound-12
+DRUG_2247	SAR-407899
+DRUG_2248	Vorapaxar
+DRUG_2249	Nibentan
+DRUG_2250	Phorbol 12,13-butyrate
+DRUG_2251	WAY-255348
+DRUG_2252	3-Isothiocyanato-9H-beta-carboline
+DRUG_2253	[3-(5-Phenyl-oxazol-2-ylamino)-phenyl]-methanol
+DRUG_2254	Aza-phenalene-3-ketone derivative 1
+DRUG_2255	ASKH95
+DRUG_2256	MOLASSAMIDE
+DRUG_2257	PMID1992149C13
+DRUG_2258	PMID7932551C9
+DRUG_2259	ISIS 9064
+DRUG_2260	SFLT-01
+DRUG_2261	C[Glu24-Lys28][Gly8]GLP-1(7-37)-NH2
+DRUG_2262	2-Naphthalen-2-ylmethyl-1,2-dihydro-indazol-3-one
+DRUG_2263	4-Methyl-3,6-dihydro-1H-pyridin-(2Z)-ylideneamine
+DRUG_2264	PMID20684608C35
+DRUG_2265	Statin
+DRUG_2266	d(CH2)5[Tyr(Me)2]AVP
+DRUG_2267	Amifampridine
+DRUG_2268	11-keto-beta-boswellicacid
+DRUG_2269	Beta-Carboline-3-carboxylic acid t-butyl ester
+DRUG_2270	MK-0354
+DRUG_2271	Lintitript
+DRUG_2272	Dihydrotestosterone
+DRUG_2273	Asperlicin
+DRUG_2274	2-Benzyl-2H-indazole-7-carboxamide
+DRUG_2275	PMID25991433-Compound-A1
+DRUG_2276	5-Methoxy-N-phenylbenzo[d]oxazol-2-amine
+DRUG_2277	1-Ethyl-3-methyl-3,7-dihydro-purine-2,6-dione
+DRUG_2278	Granotapide
+DRUG_2279	Balaglitazone
+DRUG_2280	OG987SC
+DRUG_2281	RG-7167
+DRUG_2282	AH23848
+DRUG_2283	MDL-105519
+DRUG_2284	RG7221
+DRUG_2285	5-Iododeoxyuridine
+DRUG_2286	N-Hydroxy-N-methyl-2-naphthalen-2-yl-propionamide
+DRUG_2287	AZD8330
+DRUG_2288	ISIS 9061
+DRUG_2289	Iptakalim hydrochloride
+DRUG_2290	Zileuton
+DRUG_2291	VX-745
+DRUG_2292	Phosphoric acid monododecyl ester
+DRUG_2293	L-2-Amino-4-(Guanidinooxy)Butyric Acid
+DRUG_2294	3,4-Dihydroxy-10H-anthracen-9-one
+DRUG_2295	SR11254
+DRUG_2296	PSB-601
+DRUG_2297	U-104067F
+DRUG_2298	ZARDAVERINE
+DRUG_2299	MC-3002
+DRUG_2300	N-(3-Phenyl-[1,2,4]thiadiazol-5-yl)-benzamide
+DRUG_2301	4-(2,6-dimethylphenylthio)-2-methoxybenzonitrile
+DRUG_2302	T13
+DRUG_2303	Siguazodan
+DRUG_2304	Boc-D-Glu-Tyr(SO3H)-Nle-D-Lys-Trp-Nle-Asp-Phe-NH2
+DRUG_2305	3-oxo-2,3-dihydro-1H-indazole-4-carboxamide derivative 5
+DRUG_2306	CHS-131
+DRUG_2307	Bisindolylmaleimide-I
+DRUG_2308	carbocyclic thromboxane A2
+DRUG_2309	PMID26004420-Compound-WO2012058134B
+DRUG_2310	Dihydropyrido phthalazinone derivative 2
+DRUG_2311	PMID20363624C(+)17a
+DRUG_2312	ZK110841
+DRUG_2313	DesGly-NH2,d(CH2)5[D-Tyr2,Thr4,Orn8(5/6C-Flu)]VT
+DRUG_2314	IRX-4310
+DRUG_2315	Diazaborines
+DRUG_2316	5-(3-(4-fluorobenzyl)pyrrolidin-3-yl)-1H-indole
+DRUG_2317	Pyrrolo[3,4-e]indole-1,3(2H,6H)-dione
+DRUG_2318	SAR438335
+DRUG_2319	PMID28621580-Compound-WO2013112959C68
+DRUG_2320	4-methyl-6-propylpyridin-2-amine
+DRUG_2321	1-(3-chloropyridin-2-yl)-4-tosylpiperazine
+DRUG_2322	SCH-205831
+DRUG_2323	MBX-2044
+DRUG_2324	ATLa2
+DRUG_2325	3-Hydroxy-8-methyl-1H-benzo[b]azepine-2,5-dione
+DRUG_2326	ICA-105574
+DRUG_2327	CR-3294
+DRUG_2328	2-Methyl-2,4-Pentanediol
+DRUG_2329	Conantokins T
+DRUG_2330	REV-5901
+DRUG_2331	L-888,291
+DRUG_2332	GW7647
+DRUG_2333	AZD1236
+DRUG_2334	Adamantan-1-yl-piperidin-1-yl-methanone
+DRUG_2335	Trametinib
+DRUG_2336	4-(4-Morpholin-4-yl-butyl)-2H-phthalazin-1-one
+DRUG_2337	4-Amino-3-hydroxy-butyric acid
+DRUG_2338	Dexefaroxan
+DRUG_2339	L-695902
+DRUG_2340	Androgen receptor modulators
+DRUG_2341	8-Bromo-9-phenylethyl-9H-adenine
+DRUG_2342	GM6001
+DRUG_2343	11-methyl-6,11-dihydro-5H-benzo[a]carbazol-9-ol
+DRUG_2344	13,14-dihydro-15-keto-PGF2alpha
+DRUG_2345	7-Methyl-1,3-dihydro-imidazo[4,5-b]quinolin-2-one
+DRUG_2346	Phenyl-(3-phenyl-1H-indazol-6-yl)-amine
+DRUG_2347	N-hydroxy-N-[1-(4-isobutylphenyl)ethyl]urea
+DRUG_2348	Pyrimidine derivative 11
+DRUG_2349	PMID25416646-Compound-Figure2-K
+DRUG_2350	Torcetrapib
+DRUG_2351	EPI-001
+DRUG_2352	R-IFN-1a
+DRUG_2353	4-(5-tert-Butyl-[1,3]dithian-2-yl)-benzonitrile
+DRUG_2354	2-Phenyl-3-piperidin-4-yl-1H-indole
+DRUG_2355	PMID25772215-Compound-EP20082149552C9
+DRUG_2356	ARQ 751
+DRUG_2357	Phthalazine derivative 3
+DRUG_2358	3-(4-chloro-2-cyclohexylphenoxy)propanoic acid
+DRUG_2359	[1,4]Thiazepan-(5E)-ylideneamine
+DRUG_2360	Aleplasinin
+DRUG_2361	Inamrinone Lactate
+DRUG_2362	CE-326597
+DRUG_2363	BRL-48482
+DRUG_2364	TEI-6522
+DRUG_2365	A-674563
+DRUG_2366	A-substituted phenylpropionic acid derivative 1
+DRUG_2367	Phenobarbital
+DRUG_2368	BETP
+DRUG_2369	MRE-0094
+DRUG_2370	2-Pyridin-4-ylmethyl-1,2-dihydro-indazol-3-one
+DRUG_2371	DORSOMORPHIN
+DRUG_2372	2-morpholino-2-phenyl-1,1-di(pyridin-3-yl)ethanol
+DRUG_2373	SYN-1134
+DRUG_2374	BAY-57-9352
+DRUG_2375	5-(3-benzylpyrrolidin-3-yl)-1-methyl-1H-indole
+DRUG_2376	PMID26936077-Compound-34
+DRUG_2377	PF-4603629
+DRUG_2378	4-(isoquinolin-5-yl)-N-o-tolylphthalazin-1-amine
+DRUG_2379	9-Benzyl-8-bromo-9H-adenine
+DRUG_2380	INCB-10820
+DRUG_2381	N,N'-Bis-(4-ethyl-phenyl)-guanidine
+DRUG_2382	RG7418
+DRUG_2383	1-hexadecyl-1H-indole-2,3-dione
+DRUG_2384	PMID25776143-Compound-3
+DRUG_2385	RGD
+DRUG_2386	N-(9H-beta-Carbolin-3-yl)-formamide
+DRUG_2387	BI-847325
+DRUG_2388	N-benzyl-N-(phenylsulfonyl)benzamide
+DRUG_2389	ISIS 9065
+DRUG_2390	Pyridine derivative 6
+DRUG_2391	PRO-135
+DRUG_2392	PMID23639540C13r
+DRUG_2393	1-phenyl-1H-indole-2,3-dione
+DRUG_2394	INDOLACTUM
+DRUG_2395	11beta-hydroxysteroid dehydrogenase-1 (HSD1) inhibitors
+DRUG_2396	D[Leu4,Dap8]VP
+DRUG_2397	Isojaspic acid
+DRUG_2398	LY-465608
+DRUG_2399	PMID2153213C13g
+DRUG_2400	PMID23589301C1
+DRUG_2401	4-Iodo-2,6-diisopropyl-phenol
+DRUG_2402	9-Hydroxypropyladenine, S-Isomer
+DRUG_2403	MABp1
+DRUG_2404	Biphenyl-4-carboxylic acid hydroxyamide
+DRUG_2405	FMOC-L-Leucine
+DRUG_2406	Conantokin-G
+DRUG_2407	7,12-Dihydro-5,7,12-triaza-indeno[1,2-a]fluorene
+DRUG_2408	TRAXOPRODIL MESYLATE
+DRUG_2409	Carbamide derivative 21
+DRUG_2410	2-phenylquinoline-8-carboxamide
+DRUG_2411	(R)-3-(naphthalen-2-ylmethoxy)pyrrolidine
+DRUG_2412	SNS-314
+DRUG_2413	1-(3,4-dichlorophenyl)-3-aza-bicyclo[3.1.0]hexane
+DRUG_2414	Benzphetamine
+DRUG_2415	1,2-Bis-(4-methoxy-phenyl)-ethane-1,2-dione
+DRUG_2416	Phenanthrene-3-carboxylic acid hydroxyamide
+DRUG_2417	AZD-4017
+DRUG_2418	PMID19456099C15
+DRUG_2419	N-(9H-beta-Carbolin-3-yl)-acetamide
+DRUG_2420	PMID24900526C5 
+DRUG_2421	AR-R-1589
+DRUG_2422	7-Propyl-7H-adenine
+DRUG_2423	Tyr-D-Phe-Gly-Trp-NMeNle-Asp-Phe-NH2
+DRUG_2424	KF-17837
+DRUG_2425	SB-216995
+DRUG_2426	MMI-0100
+DRUG_2427	ISIS 1820
+DRUG_2428	PD-135118
+DRUG_2429	[2,2':5',2'']Terthiophene-4,5''-dicarbaldehyde
+DRUG_2430	SM-101
+DRUG_2431	SR95531
+DRUG_2432	Neovastat
+DRUG_2433	3,5-Di-tert-butyl-[1,2]benzoquinone
+DRUG_2434	[1,4]Oxazepan-(3E)-ylideneamine
+DRUG_2435	UD-CG-212
+DRUG_2436	SB-282241
+DRUG_2437	RO-145974
+DRUG_2438	SU 6656
+DRUG_2439	S-Isopropyl-Isothiourea
+DRUG_2440	ADC-3680
+DRUG_2441	Simvastatin
+DRUG_2442	RU26988
+DRUG_2443	2-Oxa-spiro[4.4]nonan-1-one
+DRUG_2444	Imidazopyridazine derivative 4
+DRUG_2445	5-(4'-cyanobiphenyl-4-yl)-3-hydroxypentanoic acid
+DRUG_2446	6-ethyl-3-(3-methylbutoxycarbonyl)-4-quinolone
+DRUG_2447	RP-70676
+DRUG_2448	MK-4827
+DRUG_2449	HBR-985
+DRUG_2450	AMG 900
+DRUG_2451	16,16-dimethyl-PGE2
+DRUG_2452	zoxazolamine
+DRUG_2453	BMS-201038
+DRUG_2454	L-serine-O-phosphate
+DRUG_2455	2-(4-methoxyphenyl)quinoline-8-carboxamide
+DRUG_2456	2-(6-phenylhexyl)pyrido[2,3-d]pyrimidin-4(3H)-one
+DRUG_2457	6,7-dichloro-1H-indole-2,3-dione
+DRUG_2458	PYROGALLOL
+DRUG_2459	RP-64477
+DRUG_2460	3-(4-Hydroxy-phenyl)-2,3-diphenyl-acrylonitrile
+DRUG_2461	BMS-770767
+DRUG_2462	N-(2,6-diphenylpyrimidin-4-yl)butyramide
+DRUG_2463	6,7-Dichloro-1,4-dihydro-quinoxaline-2,3-dione
+DRUG_2464	4-Chloro-N-(3-chloro-benzoyl)-benzenesulfonamide
+DRUG_2465	ALPIDEM
+DRUG_2466	BENZOIN
+DRUG_2467	DMP-543
+DRUG_2468	PMID25416646-Compound-Figure2-N
+DRUG_2469	ISAINDIGOTONE
+DRUG_2470	Lpc-Ether
+DRUG_2471	1-(4-chlorophenyl)-4-phenyl-1H-imidazole
+DRUG_2472	LG100268
+DRUG_2473	Diheptan-3-yl 5-(hydroxymethyl)isophthalate
+DRUG_2474	K00244
+DRUG_2475	RO-5126766
+DRUG_2476	9-benzyl-6-(furan-2-yl)-9H-purin-2-amine
+DRUG_2477	4-Chloro-N-(2-methyl-benzoyl)-benzenesulfonamide
+DRUG_2478	NPS-1392
+DRUG_2479	4-fluorobenzaldehyde O-benzoyloxime
+DRUG_2480	LY256548
+DRUG_2481	6-(3-Fluoropropyl)-4-methylpyridin-2-amine
+DRUG_2482	4-Methyl-piperidin-(2E)-ylideneamine
+DRUG_2483	PD-138915
+DRUG_2484	2-Benzyl-1,2-dihydro-indazol-3-one
+DRUG_2485	(4S,5R)-4,5-Dipropyl-oxazolidin-(2Z)-ylideneamine
+DRUG_2486	1-dodecyl-1H-indole-2,3-dione
+DRUG_2487	Tyr-D-Nle-Gly-D-Trp-NMeNle-Asp-Phe-NH2
+DRUG_2488	IL1aQb
+DRUG_2489	GG-8573
+DRUG_2490	R 80122
+DRUG_2491	K-134
+DRUG_2492	L-736380
+DRUG_2493	PMID7473541C20
+DRUG_2494	4-(2-thienyl)benzene-1,2-diamine
+DRUG_2495	S-555739
+DRUG_2496	NCX-6560
+DRUG_2497	SB-219994
+DRUG_2498	3-Nitro-9H-beta-carboline
+DRUG_2499	(9-Benzyl-9H-purin-6-yl)-cyclopropyl-amine
+DRUG_2500	ST-1535
+DRUG_2501	ZK-93423
+DRUG_2502	3-demethoxy-3-L-fucopyranosylaminothiocolchicine
+DRUG_2503	D[Cha4,Dab8]VP
+DRUG_2504	PGC GLP-1
+DRUG_2505	UE-2343
+DRUG_2506	2-Methoxy-N-(3-methyl-2-phenyl-butyl)-benzamide
+DRUG_2507	GR148672X
+DRUG_2508	A-620223
+DRUG_2509	(2S)-2-(BUTYRYLOXY)-3-HYDROXYPROPYL NONANOATE
+DRUG_2510	1,2-bis(2,5-difluorophenyl)ethane-1,2-dione
+DRUG_2511	Boc-D-Glu-Tyr(SO3H)-Nle-D-Nle-Trp-Nle-Asp-Phe-NH2
+DRUG_2512	4-Ethyl-5-methyl-pyrrolidin-(2Z)-ylideneamine
+DRUG_2513	5-Propyl-1H-pyrazole-3-carboxylic acid
+DRUG_2514	RO-147437
+DRUG_2515	PMID7966163C3f
+DRUG_2516	iberiotoxin
+DRUG_2517	DMP-728
+DRUG_2518	GBL-310
+DRUG_2519	PMID18754614C18
+DRUG_2520	BMS-687453
+DRUG_2521	Latanoprost
+DRUG_2522	NOX-E36
+DRUG_2523	2-Phenyl-3-piperidin-3-yl-1H-indole
+DRUG_2524	BW A4C
+DRUG_2525	Antibodie derivative 1
+DRUG_2526	Terlipressin
+DRUG_2527	Hydroxyamphetamine Hydrobromide
+DRUG_2528	NSC-40331
+DRUG_2529	CY-1503
+DRUG_2530	pyrazolone, 1
+DRUG_2531	Dodecyl-Alpha-D-Maltoside
+DRUG_2532	L-734217
+DRUG_2533	5-(piperidin-4-yl)isothiazol-3-ol
+DRUG_2534	4,7-dichloro-1H-indole-2,3-dione
+DRUG_2535	DRL-17822
+DRUG_2536	[123I] iodobenzoyl 12-Ex4
+DRUG_2537	HPP-851
+DRUG_2538	ETIOCHOLANOLONE
+DRUG_2539	BMY-20844
+DRUG_2540	PHT-427
+DRUG_2541	2X-121
+DRUG_2542	LG-101280
+DRUG_2543	Ki-1769
+DRUG_2544	Lecimibide
+DRUG_2545	9-BENZYL-9H-ADENINE
+DRUG_2546	TETRAHYDROBENXIMIDAZOLE
+DRUG_2547	fluprostenol
+DRUG_2548	Treprostinil
+DRUG_2549	VL-2799
+DRUG_2550	4-Methoxymethyl-3,6-dipropoxy-9H-beta-carboline
+DRUG_2551	Indoline derivative 21
+DRUG_2552	Rosiglitazone XR
+DRUG_2553	trimethylamine
+DRUG_2554	2-(2-benzoyl-4-bromophenoxy)acetic acid
+DRUG_2555	PMID18754614C19
+DRUG_2556	1-(phenylsulfonyl)butan-2-one
+DRUG_2557	Rosiglitazone + simvastatin
+DRUG_2558	Meprobamate
+DRUG_2559	PD-0173956
+DRUG_2560	E-3030
+DRUG_2561	MK-6592
+DRUG_2562	TPX-0005
+DRUG_2563	1,6-naphyridine-4-ketone fused heterocyclic derivative 1
+DRUG_2564	DP-802
+DRUG_2565	AR-H049020
+DRUG_2566	Deoxythymidine
+DRUG_2567	N-(4-Phenylthiazol-2-yl)isonicotinamide
+DRUG_2568	3-demethoxy-3D-glucopyranosylaminothiocolchicine
+DRUG_2569	Teriflunomide
+DRUG_2570	AVE-8134
+DRUG_2571	N-(2-Diethylamino-ethyl)-4-hexyloxy-benzamide
+DRUG_2572	SAR-389644
+DRUG_2573	AbGn-168
+DRUG_2574	Amphetamine
+DRUG_2575	(4R)-4-ammoniopentanoate
+DRUG_2576	Sphinx
+DRUG_2577	Imidazo[1,2-b]pyridazine derivative 2
+DRUG_2578	GW274150
+DRUG_2579	BI-135585
+DRUG_2580	1,1,1-trifluoro-3-(hexylsulfonyl)propan-2-one
+DRUG_2581	Asfotase alfa
+DRUG_2582	IBC 293
+DRUG_2583	CD2665
+DRUG_2584	2-(3''-(benzoimidazole-1''-yl)ethyloxy)adenosine
+DRUG_2585	Org-30029
+DRUG_2586	Zaragozic Acid D
+DRUG_2587	AZD-9935
+DRUG_2588	URMC-099
+DRUG_2589	PSB-09120
+DRUG_2590	(5-Imino-[1,4]thiazepan-3-yl)-methanol
+DRUG_2591	Fused aromatic compound 1
+DRUG_2592	SQ-33600
+DRUG_2593	LUF-5433
+DRUG_2594	Indoline derivative 20
+DRUG_2595	PF-877423
+DRUG_2596	Ethyl 4-(1-benzyl-1H-indazol-3-yl)benzoate
+DRUG_2597	ISIS 105990
+DRUG_2598	Olaparib
+DRUG_2599	T-62
+DRUG_2600	PMID25991433-Compound-L3
+DRUG_2601	1,6-bis(4-phenylpiperazin-1-yl)hexane
+DRUG_2602	1-[2-(2-triphenylmethoxyethoxy)ethyl]thymine
+DRUG_2603	PMID26004420-Compound-US20140309213A
+DRUG_2604	4-Ethyl-5-piperidin-4-yl-isoxazol-3-ol
+DRUG_2605	L-708474
+DRUG_2606	5-ketodihydromevinolin
+DRUG_2607	2-Phenyl-1H-imidazo[4,5-c]quinolin-4-ylamine
+DRUG_2608	2-amino-3-(m-tolylamino)naphthalene-1,4-dione
+DRUG_2609	NMDA NR2B antagonists
+DRUG_2610	Indoline derivative 14
+DRUG_2611	KC-399
+DRUG_2612	1,4-diaminoanthracene-9,10-dione
+DRUG_2613	5-Bromomethyl-oxazolidin-(2Z)-ylideneamine
+DRUG_2614	5-methylpyrrolo[3,4-c]carbazole-1,3(2H,6H)-dione
+DRUG_2615	Dimiracetam
+DRUG_2616	AM-156
+DRUG_2617	ITdU
+DRUG_2618	LOTRAFIBAN
+DRUG_2619	PMID25772215-Compound-US02014179750TG6-129
+DRUG_2620	AM-211
+DRUG_2621	RWJ-63556
+DRUG_2622	PMID19364658C33
+DRUG_2623	2-Thiophen-2-ylmethyl-1,2-dihydro-indazol-3-one
+DRUG_2624	Semaglutide
+DRUG_2625	2-(4-chloro-2-cyclohexylphenoxy)acetic acid
+DRUG_2626	N-oxo-2-[(4-phenylphenyl)sulfonylamino]ethanamide
+DRUG_2627	PMID1656041C11dd
+DRUG_2628	CAY 10471
+DRUG_2629	9-Isopropyl-9H-adenine
+DRUG_2630	VGX-100
+DRUG_2631	6-bromo-3-ethoxycarbonyl-2-methyl-4-quinolone
+DRUG_2632	Toluene-1-diazonium-3-sulfonic acid anion
+DRUG_2633	3-demethoxy-3-D-xylopyranosylaminothiocolchicine
+DRUG_2634	Huperzine A
+DRUG_2635	ICI-192605
+DRUG_2636	(+)-(5S,8S,9R,10S)-20-methoxypuupehenone
+DRUG_2637	1,3-Dibenzyl-3,7-dihydro-purine-2,6-dione
+DRUG_2638	IN-1166
+DRUG_2639	ARI-3037MO
+DRUG_2640	U-78875
+DRUG_2641	ONO-9054
+DRUG_2642	Regadenoson
+DRUG_2643	PB-1023
+DRUG_2644	SC-102
+DRUG_2645	9-hydroxyoctadecadienoic acid
+DRUG_2646	KD-7040
+DRUG_2647	ADCI
+DRUG_2648	D[Orn4,Orn8]VP
+DRUG_2649	8-Bromo-9-(3-hydroxypropyl)-9H-adenine
+DRUG_2650	CI-976
+DRUG_2651	GRI977143
+DRUG_2652	UK-432097
+DRUG_2653	Quinoline derivative 13
+DRUG_2654	5-Ethyl-oxazolidin-(2Z)-ylideneamine
+DRUG_2655	PMID28048944-Compound-3
+DRUG_2656	PMID28270010-Compound-Figure21-b
+DRUG_2657	N-hydroxy-4-(naphthalen-1-yl)benzamide
+DRUG_2658	Talazoparib
+DRUG_2659	Ro 40-6055
+DRUG_2660	(E)-9-Nitrohexadec-9-enoicAcid
+DRUG_2661	(Z)-8-(3-chlorostyryl)caffeine
+DRUG_2662	SB-213068
+DRUG_2663	AZD1981
+DRUG_2664	Setipiprant
+DRUG_2665	FR-145237
+DRUG_2666	Pyrimidine derivative 10
+DRUG_2667	E5555
+DRUG_2668	F-12509A
+DRUG_2669	AMG-548
+DRUG_2670	RPR-104632
+DRUG_2671	ZYH-1
+DRUG_2672	CRTh2 receptor antagonists, Novartis
+DRUG_2673	PMID28048944-Compound-6
+DRUG_2674	ISIS 144368
+DRUG_2675	(E)-5-octadecen-7,9-diynoic acid
+DRUG_2676	CY-1787
+DRUG_2677	CAP-232
+DRUG_2678	Hexane-1,6-Diol
+DRUG_2679	PMID25772215-Compound-WO2012177618M6
+DRUG_2680	MM 11253
+DRUG_2681	N-omega-allyl-L-arginine
+DRUG_2682	PMID25991433-Compound-Q1
+DRUG_2683	IRX-5183
+DRUG_2684	Cyclohexyl-(2-phenylsulfanyl-9H-purin-6-yl)-amine
+DRUG_2685	US9598431, 2
+DRUG_2686	T-686
+DRUG_2687	Tyr-D-Ala-Gly-D-Trp-Nle-Asp-Phe-NH2
+DRUG_2688	AGN-190383
+DRUG_2689	7-azaindole derivative 9
+DRUG_2690	AWD-23-111
+DRUG_2691	Rilopirox
+DRUG_2692	1-(9H-beta-Carbolin-3-yl)-butan-1-one
+DRUG_2693	Aptiganel HCl
+DRUG_2694	KT-5720
+DRUG_2695	Remacemide
+DRUG_2696	C-101,606
+DRUG_2697	N-(3,3-Dimethyl-butyl)-4-hexyloxy-benzamide
+DRUG_2698	N-Benzyl-2-(toluene-4-sulfonylamino)-benzamide
+DRUG_2699	BWA868C
+DRUG_2700	PMID25991433-Compound-B2
+DRUG_2701	YM-26734
+DRUG_2702	Thiophosphoric acid (E)-tetradec-9-enyl ester
+DRUG_2703	ZL006
+DRUG_2704	2-(3-Chloro-phenyl)-chromen-4-one
+DRUG_2705	CD-581
+DRUG_2706	Midostaurin
+DRUG_2707	PD-115199
+DRUG_2708	4-bromo-1H-indazole
+DRUG_2709	D[Thr4,Orn8(5/6C-Flu)]VT
+DRUG_2710	Piperazine
+DRUG_2711	AjvW2
+DRUG_2712	((E)-3-Amino-propenyl)-methyl-phosphinic acid
+DRUG_2713	4-Phenylsulfanyl-7H-pyrrolo[2,3-d]pyrimidine
+DRUG_2714	Testetrol
+DRUG_2715	(S)-2-Amino-5-(N-methyl-guanidino)-pentanoic acid
+DRUG_2716	Org-9731
+DRUG_2717	(beta-CCE)9H-beta-Carboline-3-carboxylic acid
+DRUG_2718	LD-101
+DRUG_2719	C[Glu19-Lys23][Gly8]GLP-1(7-37)-NH2
+DRUG_2720	1-(2-iodoethyl)-1H-indole-2,3-dione
+DRUG_2721	Mdl 101,146
+DRUG_2722	Resveratrol Potassium4,-Sulfate
+DRUG_2723	(2E,4S)-4-ammoniopent-2-enoate
+DRUG_2724	FR-122788
+DRUG_2725	PF-1913539
+DRUG_2726	2-(o-toluidino)-5-ethylthiazol-4(5H)-one
+DRUG_2727	AD-5061
+DRUG_2728	ML-3403
+DRUG_2729	N-Tridecanoic Acid
+DRUG_2730	SQ-29548
+DRUG_2731	Amsilarotene
+DRUG_2732	[14C]TEA
+DRUG_2733	ZY H2
+DRUG_2734	(2-BROMOETHYL)(2-'FORMYL-4'-AMINOPHENYL) ACETATE
+DRUG_2735	XEMILOFIBAN
+DRUG_2736	MGCD516
+DRUG_2737	GNF-PF-2224
+DRUG_2738	4-Hydroxy-5-methoxy-10H-anthracen-9-one
+DRUG_2739	BAY-38-1315
+DRUG_2740	U0126
+DRUG_2741	M&B 28767
+DRUG_2742	(11-BETA)-11,21-DIHYDROXY-PREGN-4-ENE-3,20-DIONE
+DRUG_2743	Drug 2881078
+DRUG_2744	pentanoic acid
+DRUG_2745	PMID23639540C13d
+DRUG_2746	Trifarotene
+DRUG_2747	Se-Ethyl-Isoselenourea
+DRUG_2748	1-phenyl-2-(1-phenyl-1H-tetrazol-5-yloxy)ethanone
+DRUG_2749	L-655708
+DRUG_2750	PUP-1
+DRUG_2751	MK-866
+DRUG_2752	(S)-N-(1-phenylethyl)acetimidamide hydrobromide
+DRUG_2753	U-44069
+DRUG_2754	RUBOXISTAURIN HYDROCHLORIDE
+DRUG_2755	GFPEGG
+DRUG_2756	Atu-027
+DRUG_2757	4,5,6,7-tetrabromo-1H-benzo[d][1,2,3]triazole
+DRUG_2758	Adamantan-1-yl-pyrrolidin-1-yl-methanone
+DRUG_2759	N-(4-fluorobenzyl)-N-(pyridin-4-yl)-2-naphthamide
+DRUG_2760	1-allyl-2-[3-(isopropylamino)propoxy]-9H-xanthen-9-one
+DRUG_2761	isocarbacyclin
+DRUG_2762	Polybrominated diphenyl ether derivative
+DRUG_2763	(5-amino-1-phenyl-1H-pyrazol-4-yl)phenylmethanone
+DRUG_2764	AFP-07
+DRUG_2765	Amiodarone
+DRUG_2766	Selexipag
+DRUG_2767	CD564
+DRUG_2768	IQM-95333
+DRUG_2769	PMID27336223-Compound-4
+DRUG_2770	CB-03-01
+DRUG_2771	C[Glu21-Lys25][Gly8]GLP-1(7-37)-NH2
+DRUG_2772	2-(2''-indolylethyloxy)adenosine
+DRUG_2773	15-deoxy-Delta12,14-PGD2
+DRUG_2774	ZD-9720
+DRUG_2775	HMR1883
+DRUG_2776	ZD-4190
+DRUG_2777	US9006244, E2b
+DRUG_2778	5-Ethyl-3-methyl-pyrrolidin-(2Z)-ylideneamine
+DRUG_2779	PIP2
+DRUG_2780	BENZOYLENUREA
+DRUG_2781	BC-3781 intravenous
+DRUG_2782	J-104123
+DRUG_2783	Mevastatin
+DRUG_2784	Tetradecyl-phosphonic acid
+DRUG_2785	4-{2-[Ethyl-(4-phenyl-butyl)-amino]-ethyl}-phenol
+DRUG_2786	INCB13739
+DRUG_2787	[3H]CCPA
+DRUG_2788	PD-32577
+DRUG_2789	CAM-2036
+DRUG_2790	NN-9926
+DRUG_2791	[1,4]Oxazepan-(5E)-ylideneamine
+DRUG_2792	2-fluorophenyl-2,2-diphenylacetamide
+DRUG_2793	1-Methyl-8-phenyl-3,7-dihydro-purine-2,6-dione
+DRUG_2794	2-(4-hydroxypent-1-yl)-N6-methoxyadenosine
+DRUG_2795	MK-2461
+DRUG_2796	RU-43044
+DRUG_2797	TYRPHOSTIN AG-1478
+DRUG_2798	Dideazaacyclotetrahydrofolic acid
+DRUG_2799	CEP-9722
+DRUG_2800	4-Pyridin-2-yl-5-quinolin-2-yl-thiazol-2-ylamine
+DRUG_2801	Imeglimin
+DRUG_2802	ALFAXALONE
+DRUG_2803	AGN193109
+DRUG_2804	PMID27537201-Compound-Figure11
+DRUG_2805	3,4-Dimethyl-pyrrolidin-(2Z)-ylideneamine
+DRUG_2806	DP-VPA
+DRUG_2807	CH-4933468
+DRUG_2808	Antibodie derivative 11
+DRUG_2809	SSR-69071
+DRUG_2810	IMAZODAN
+DRUG_2811	STAUROSPORINONE
+DRUG_2812	ARRY-797
+DRUG_2813	6-Isopropyl-2-phenyl-chromen-4-one
+DRUG_2814	AdcAhxArg6
+DRUG_2815	ACEA-1328
+DRUG_2816	C[Glu26-Lys30][Gly8]GLP-1(7-37)-NH2
+DRUG_2817	1-Benzyl-7-chloro-4-hexyloxy-quinolinium
+DRUG_2818	ISIS 114442
+DRUG_2819	PMID27336223-Compound-10
+DRUG_2820	Alpha 1-PI
+DRUG_2821	Ridogrel
+DRUG_2822	LY-221068
+DRUG_2823	PMID26004420-Compound-WO2014126944A
+DRUG_2824	PMID22533316C1
+DRUG_2825	4-Hydroxy-3,5-diisopropyl-benzaldehyde
+DRUG_2826	Zaragozic Acid C
+DRUG_2827	4-Phenylspiro[chromene-2,4'-piperidine]
+DRUG_2828	NN8210
+DRUG_2829	D[Cha4]AVP
+DRUG_2830	LGD-5552
+DRUG_2831	RG7685
+DRUG_2832	2-(2-Hydroxy-phenyl)-6-methyl-chromen-4-one
+DRUG_2833	9-Benzyl-6-(4-fluoro-phenylsulfanyl)-9H-purine
+DRUG_2834	GSK-256073
+DRUG_2835	Antiarrhythmics
+DRUG_2836	Pitavastatin derivative 1
+DRUG_2837	PMID9216829C5j
+DRUG_2838	XR-368
+DRUG_2839	Talmapimod
+DRUG_2840	PMID29649907-Compound-INT767
+DRUG_2841	PMID25772215-Compound-EP2149552diaminopyrimidines
+DRUG_2842	METHYLHONOKIOL
+DRUG_2843	(2-Methoxy-phenyl)-(5-phenyl-oxazol-2-yl)-amine
+DRUG_2844	1,5-Dihydro-imidazo[2,1-b]quinazolin-2-one
+DRUG_2845	F-1394
+DRUG_2846	BGP-15
+DRUG_2847	Epocarbazolin-A
+DRUG_2848	8-Methyl-1,3-dihydro-imidazo[4,5-b]quinolin-2-one
+DRUG_2849	11-keto-ursolic acid
+DRUG_2850	1,2-bis(2,3,4-trifluorophenyl)-2-hydroxyethanone
+DRUG_2851	F3
+DRUG_2852	N-(4-(trifluoromethyl)benzyl)-4-phenoxybenzamide
+DRUG_2853	(35)S-labeled oligonucleotide
+DRUG_2854	N-Hydroxy-N-methyl-3-phenanthren-3-yl-acrylamide
+DRUG_2855	GTx-027
+DRUG_2856	1,6-bis(4-(3-chlorophenyl)piperazin-1-yl)hexane
+DRUG_2857	PMID26004420-Compound-WO2013028474C
+DRUG_2858	ICA-17043
+DRUG_2859	Methyl 2-(Benzylamino)-1H-indole-3-carboxylate
+DRUG_2860	Antibodie derivative 7
+DRUG_2861	ISIS 6443
+DRUG_2862	5,7-Dichloro-3-hydroxy-1H-quinazoline-2,4-dione
+DRUG_2863	HMR-1556
+DRUG_2864	ISIS 2678
+DRUG_2865	TAS3681
+DRUG_2866	INCB8696
+DRUG_2867	PMID26004420-Compound-WO2012058116B
+DRUG_2868	CCX-140
+DRUG_2869	Benzenesulfonyl
+DRUG_2870	2-phenylpyrazolo-[1,5-a]pyridine-7-carboxamide
+DRUG_2871	BW-A137C
+DRUG_2872	Ranibizumab
+DRUG_2873	4-Chloro-2,6-diisopropyl-phenol
+DRUG_2874	4-Carboxamido-isoindolinone derivative 2
+DRUG_2875	AZD-6942
+DRUG_2876	AA-861
+DRUG_2877	[125I]SQ-29548
+DRUG_2878	BX-044
+DRUG_2879	Heptane-2,3-dione
+DRUG_2880	NAEPA
+DRUG_2881	Apimostinel
+DRUG_2882	PMID25776143-Compound-1
+DRUG_2883	2-(4-chlorophenyl)-5-phenyl-4-isoxazolin-3-one
+DRUG_2884	(R)-3-Propyl-[1,4]thiazepan-(5E)-ylideneamine
+DRUG_2885	PMID20080612C1
+DRUG_2886	Palovarotene
+DRUG_2887	6-Methyl-2-oxa-spiro[4.4]nonan-1-one
+DRUG_2888	RPL-554
+DRUG_2889	Piperazine urea derivative 4
+DRUG_2890	ZD-0947
+DRUG_2891	PMID8709131C23
+DRUG_2892	BMS-852927
+DRUG_2893	Anagrelide
+DRUG_2894	DRF 2519
+DRUG_2895	Bydureon Dual Chamber Pen
+DRUG_2896	Dimethylnordihydroguarierate acid
+DRUG_2897	Indoline derivative 12
+DRUG_2898	CVT-1
+DRUG_2899	AL-43
+DRUG_2900	M-241247
+DRUG_2901	D[Leu4,Lys8]VP
+DRUG_2902	Crystalline anhydrous toluene derivative 1
+DRUG_2903	TPI ASM8
+DRUG_2904	Z-335
+DRUG_2905	5-Iodo-2'-Deoxyuridine-5'-Monophosphate
+DRUG_2906	V81444
+DRUG_2907	3-(indole-3-yl)-4-phenyl-1H-pyrrole-2,5-dione
+DRUG_2908	(3R,4S)-293B
+DRUG_2909	LY-2428757
+DRUG_2910	ZYOG1
+DRUG_2911	SAR-100842
+DRUG_2912	4-(mesityloxy)-2-(trifluoromethyl)benzonitrile
+DRUG_2913	KU-58684
+DRUG_2914	13,14-dihydro-16-m-chlorophenoxy-w-tetranor-PGF1alpha
+DRUG_2915	2-hydroxyoctanoic acid
+DRUG_2916	Piperazine urea derivative 3
+DRUG_2917	1H-Pyrazole-3-carboxylic acid
+DRUG_2918	MEK inhibitor I
+DRUG_2919	D[Leu4]AVP
+DRUG_2920	ISIS 105987
+DRUG_2921	SC-41661A
+DRUG_2922	2-(3''-(5''-fluoro-indolyl)ethyloxy)adenosine
+DRUG_2923	2-morpholino-1,1-di(pyridin-3-yl)hexan-1-ol
+DRUG_2924	WilVent
+DRUG_2925	W54011
+DRUG_2926	1-(2-amino-benzothiazol-6-yl)-2-ethyl-isothiourea
+DRUG_2927	PF-0998425
+DRUG_2928	CP-339818
+DRUG_2929	TCV-295
+DRUG_2930	1,4-Dithiothreitol
+DRUG_2931	Hexahydro-cyclopenta[b]pyrrol-(2Z)-ylideneamine
+DRUG_2932	(E)-5-Nitrooctadec-5-enoic Acid
+DRUG_2933	Hoo-Phe-Orn-Pro-hle-Pff-Phe-NH2
+DRUG_2934	Thenoyltrifluoroacetone
+DRUG_2935	PMID26004420-Compound-WO2014126944B
+DRUG_2936	AAL-993
+DRUG_2937	H-Gly-D-dmP-Glu-OH
+DRUG_2938	ACPC
+DRUG_2939	EC20
+DRUG_2940	ISIS 6445
+DRUG_2941	ASP-0819
+DRUG_2942	L-687414
+DRUG_2943	SD-208
+DRUG_2944	AGN192093
+DRUG_2945	6-Nitro-1,4-dihydro-quinoxaline-2,3-dione
+DRUG_2946	UCL1684
+DRUG_2947	D-tryptophan
+DRUG_2948	1-(4-fluorophenyl)-3-(phenylsulfonyl)propan-1-one
+DRUG_2949	ETH615
+DRUG_2950	(2E)-3-(2-OCT-1-YN-1-YLPHENYL)ACRYLIC ACID
+DRUG_2951	ISIS 109351
+DRUG_2952	3-(1-Methyl-piperidin-3-yl)-2-phenyl-1H-indole
+DRUG_2953	3-(4-methoxyphenyl)-4-phenyl-1H-pyrrole-2,5-dione
+DRUG_2954	AZD-6703
+DRUG_2955	PMID7473541C19
+DRUG_2956	(-)-pinoresinol
+DRUG_2957	N-(biphenyl-4-ylsulfonyl)-D-leucine
+DRUG_2958	SB290157
+DRUG_2959	RS 93520
+DRUG_2960	[1,5]Thiazocan-(4E)-ylideneamine
+DRUG_2961	4-(furan-2-yl)-7H-pyrrolo[2,3-d]pyrimidin-2-amine
+DRUG_2962	HuMV833
+DRUG_2963	7-Methyl-[1,4]thiazepan-(5E)-ylideneamine
+DRUG_2964	PMID2231594C3k
+DRUG_2965	(4S,5S)-4,5-Diethyl-oxazolidin-(2Z)-ylideneamine
+DRUG_2966	IKs124
+DRUG_2967	RO1138452
+DRUG_2968	PD-0325901
+DRUG_2969	8-azabicyclo[3.2.1]octan-3-yloxy-benzamide
+DRUG_2970	OI338GT
+DRUG_2971	PMID27539678-Compound-13
+DRUG_2972	PMID22153340C20
+DRUG_2973	SKA-121
+DRUG_2974	7-chloroindirubin-3-oxime
+DRUG_2975	3-(2-(naphthalen-2-ylmethyl)phenyl)acrylic acid
+DRUG_2976	PGJ2
+DRUG_2977	Carbamide derivative 14
+DRUG_2978	2'-O-Methyl G-Clamp Containing Oligonucleotides
+DRUG_2979	1,8,9-Trimethoxy-9,10-dihydro-anthracene
+DRUG_2980	PMID12238936C3f
+DRUG_2981	SQ-34919
+DRUG_2982	Dimethyl 2,2,2-trifluoro-1-phenylethyl phosphate
+DRUG_2983	PMID23639540C13a
+DRUG_2984	(R)-4-amino-2-methylbutanoic acid
+DRUG_2985	1,2-bis(3,4,5-trifluorophenyl)-2-hydroxyethanone
+DRUG_2986	Tafenoquine
+DRUG_2987	KU-0058948
+DRUG_2988	Goxalapladib
+DRUG_2989	SAGE-324
+DRUG_2990	US9388139, 12
+DRUG_2991	PMID1895299C1
+DRUG_2992	Bicalutamide
+DRUG_2993	TEI-9063
+DRUG_2994	XEN-D0104
+DRUG_2995	DSP-8658
+DRUG_2996	3-bromo-7-nitro-1H-indazole
+DRUG_2997	SCOPOLETIN
+DRUG_2998	Oxandrolone
+DRUG_2999	P-2745
+DRUG_3000	2,6-dphenyl-8-propyl-1-deazapurine
+DRUG_3001	BIM23A760
+DRUG_3002	1-benzyl-1H-indole-2,3-dione
+DRUG_3003	2-(1H-Indol-3-yl)-2-oxo-N-phenethyl-acetamide
+DRUG_3004	1H-Imidazo[4,5-c]quinolin-4-ylamine HCl
+DRUG_3005	PMID27539678-Compound-17
+DRUG_3006	(3-amino-5-bromobenzofuran-2-yl)(phenyl)methanone
+DRUG_3007	TZI-41127
+DRUG_3008	PMID27841036-Compound-24
+DRUG_3009	2,4'-Dimethoxy-5,3'-di-(2-propenyl)-biphenyl
+DRUG_3010	AMG-221
+DRUG_3011	9-Cyclobutyl-9H-adenine
+DRUG_3012	SCH-900271
+DRUG_3013	CALCEOLARIOSIDE A
+DRUG_3014	PMID26004420-Compound-WO2013062892E
+DRUG_3015	(S)-3-(naphthalen-2-ylmethoxy)pyrrolidine
+DRUG_3016	TgBSSL
+DRUG_3017	KCO-912
+DRUG_3018	PMID7650673C4q
+DRUG_3019	N1,N14-Bis((S-Methyl)Isothioureido)Tetradecane
+DRUG_3020	BMS-986036
+DRUG_3021	GABAZINE
+DRUG_3022	Triazolopyridine
+DRUG_3023	ARGENINE VASOPRESSIN
+DRUG_3024	PMID21185185C21
+DRUG_3025	SAN-134
+DRUG_3026	GPR109A agonists, Merck
+DRUG_3027	G6976
+DRUG_3028	2-Biphenyl-4-yl-N-hydroxy-N-methyl-acetamide
+DRUG_3029	RXP-470
+DRUG_3030	4-(furan-2-yl)thieno[3,2-d]pyrimidin-2-amine
+DRUG_3031	8-Bromo-9-cyclohexyl-9H-adenine
+DRUG_3032	(S)-3-(1'-Adamantanecarbonyl)amino-caprolactam
+DRUG_3033	5-Nitroindazole
+DRUG_3034	PMID1992149C9
+DRUG_3035	IM156
+DRUG_3036	PMID26004420-Compound-WO2013062892D
+DRUG_3037	PMID27841036-Compound-XI
+DRUG_3038	Belerofon
+DRUG_3039	(D)-Ala-Pro-Glu
+DRUG_3040	NYX-2925
+DRUG_3041	CLP-1001
+DRUG_3042	3-(1,3 dodecadiynyl)-6-oxiranebutanoic acid
+DRUG_3043	ONO-8815Ly
+DRUG_3044	BETA-CCM
+DRUG_3045	ISIS 9062
+DRUG_3046	LY233053
+DRUG_3047	2-(adamantan-1-ylamino)-5,5-diethyl-oxazol-4-one
+DRUG_3048	Imidazole derivative 10
+DRUG_3049	ISIS 9060
+DRUG_3050	NIPECOTIC ACID
+DRUG_3051	1-amino-4-chloroanthracene-9,10-dione
+DRUG_3052	6-chloro-1H-indazole
+DRUG_3053	Phthalazine ketone derivative 1
+DRUG_3054	Pyrimidine derivative 9
+DRUG_3055	IX207-887
+DRUG_3056	N2-(3-trifluoromethylphenyl)guanine
+DRUG_3057	2,2,2-TRIFLUORO-1-(4-FLUOROPHENYL)-1-(1-(4-FLUOROPHENYL)-1H-INDAZOL-5-YL)ETHANOL (DIASTEREOMERIC MIX)
+DRUG_3058	PMID19309152C2g
+DRUG_3059	1,2-bis(3-fluorophenyl)ethane-1,2-dione
+DRUG_3060	3-methoxy-4-(m-tolyloxy)benzonitrile
+DRUG_3061	[3H]mibolerone
+DRUG_3062	Tri-substituted benzene derivative 1
+DRUG_3063	BMS-816336
+DRUG_3064	ISIS 1821
+DRUG_3065	CGS-17867A
+DRUG_3066	Palodesangren E
+DRUG_3067	Liproca Depot
+DRUG_3068	PMID2153213C2c
+DRUG_3069	AP-Cav
+DRUG_3070	PITRAZEPINE
+DRUG_3071	2-(2-chlorophenylamino)-5-methylthiazol-4(5H)-one
+DRUG_3072	1-[5-(triphenylmethoxy)pentyl]thymine
+DRUG_3073	Chlorpropamide
+DRUG_3074	Decyl-phosphonic acid
+DRUG_3075	CGP-37849
+DRUG_3076	Zatebradine
+DRUG_3077	L-768673
+DRUG_3078	ZD-3980
+DRUG_3079	MERCK-544
+DRUG_3080	DPO-1
+DRUG_3081	CP-775146
+DRUG_3082	HMG-CoA reductase inhibitor
+DRUG_3083	AC55649
+DRUG_3084	Avastin+/-Tarceva
+DRUG_3085	2-aminopyridine
+DRUG_3086	Levorphanol
+DRUG_3087	6-Furan-2-yl-9-phenyl-9H-purin-2-ylamine
+DRUG_3088	PMID19191557C14
+DRUG_3089	CR-2345
+DRUG_3090	MK-886
+DRUG_3091	NITD609
+DRUG_3092	CD666
+DRUG_3093	8-Methyl-2-phenyl-3H-quinazolin-4-one
+DRUG_3094	PMID28048944-Compound-19
+DRUG_3095	GSK-2334470
+DRUG_3096	F-18 exendin-4 derivative PET tracers
+DRUG_3097	ER-119884
+DRUG_3098	GMI-1070
+DRUG_3099	SX-GLP1
+DRUG_3100	AZD2014
+DRUG_3101	TAK-715
+DRUG_3102	2-[4-(2-Thienyl)phenyl]-4-methylmorpholin-2-ol
+DRUG_3103	Indirubin-5-sulfonate
+DRUG_3104	Diethyl 2,2,2-trifluoro-1-phenylethyl phosphate
+DRUG_3105	FORSYTHIASIDE
+DRUG_3106	N-Hydroxy-N-methyl-3-naphthalen-2-yl-acrylamide
+DRUG_3107	Gly-Amp-Glu
+DRUG_3108	KC-11425
+DRUG_3109	Sodium phenylbutyrate
+DRUG_3110	Benzimidazole derivative 9
+DRUG_3111	Teijin-lead_cmp_5
+DRUG_3112	5-[(1R)-1-ammonioethyl]isoxazol-3-olate
+DRUG_3113	6-Chloro-1,4-dihydro-quinoxaline-2,3-dione
+DRUG_3114	3-(1-Benzyl-piperidin-3-yl)-2-phenyl-1H-indole
+DRUG_3115	Crestor/TriLipix
+DRUG_3116	Phenethyl-(4-phenyl-butyl)-amine
+DRUG_3117	6-ethyl-3-propoxycarbonyl-4-quinolone
+DRUG_3118	Peptide analog 72
+DRUG_3119	DE-117
+DRUG_3120	[3H]CGP39653
+DRUG_3121	D[Val4]AVP
+DRUG_3122	PHENCYCLIDINE
+DRUG_3123	3-Methyl-[1,4]thiazepan-(5E)-ylideneamine
+DRUG_3124	(+/-)5-(biphenyl-4-yl)-3-hydroxypentanoic acid
+DRUG_3125	ARQ 092
+DRUG_3126	PMID27539678-Compound-10
+DRUG_3127	N6-[(4-Nitro)-phenyl]-9-benzyl-2-phenyladenine
+DRUG_3128	Dihydrodiazepinocarbazolone derivative 1
+DRUG_3129	AP-30663
+DRUG_3130	E-6700
+DRUG_3131	Esketamine
+DRUG_3132	KH-901
+DRUG_3133	EVT-101
+DRUG_3134	D-aspartic acid
+DRUG_3135	XEN-D0103
+DRUG_3136	PF-08
+DRUG_3137	N5-(1-iminopropyl)-L-ornithine
+DRUG_3138	Diazoxide
+DRUG_3139	JNJ-54728518
+DRUG_3140	9-(3-Hydroxypropyl)-9H-adenine
+DRUG_3141	4-chloro-7-methyl-1H-indole-2,3-dione
+DRUG_3142	4-(3-bromopyrazolo[1,5-a]pyrimidin-6-yl)phenol
+DRUG_3143	XR-1853
+DRUG_3144	CB-676475
+DRUG_3145	TS-022
+DRUG_3146	RPR-118723
+DRUG_3147	R7232
+DRUG_3148	PMID27539678-Compound-9
+DRUG_3149	2,2-dimethyl-3-methyleneheptadecane
+DRUG_3150	BW A360C
+DRUG_3151	(6r,1'r,2's)-5,6,7,8 Tetrahydrobiopterin
+DRUG_3152	192C86
+DRUG_3153	ONO-3708
+DRUG_3154	8-Bromo-9-(but-3-enyl)-9H-adenine
+DRUG_3155	GSK2982772
+DRUG_3156	dequalinium
+DRUG_3157	Fluvastatin
+DRUG_3158	Boldenone
+DRUG_3159	N-(3,3-Dimethyl-cyclopentyl)-4-hexyloxy-benzamide
+DRUG_3160	ALM-301
+DRUG_3161	2-(3''-indolylethyloxy)adenosine
+DRUG_3162	3-Chloro-9H-beta-carboline
+DRUG_3163	NIP-520
+DRUG_3164	3-keto-lithocholic acid
+DRUG_3165	1-Butyl-8-phenyl-3,7-dihydro-purine-2,6-dione
+DRUG_3166	ACETOSIDE
+DRUG_3167	PMID22521646C12
+DRUG_3168	L-783483
+DRUG_3169	PMID27539678-Compound-12
+DRUG_3170	decyl dihydrogen phosphate
+DRUG_3171	PMID26004420-Compound-US20140142115A
+DRUG_3172	1-methyl-1H-indole-2,3-dione
+DRUG_3173	[3H]nicotinic acid
+DRUG_3174	PMID27841036-Compound-V
+DRUG_3175	1,3,8-Trimethyl-3,7-dihydro-purine-2,6-dione
+DRUG_3176	AEB701
+DRUG_3177	2,6-diphenyl-8-(1-ethylpropyl)-1-deazapurine
+DRUG_3178	RPR121154
+DRUG_3179	L-Thiocitrulline
+DRUG_3180	Carba-Nicotinamide-Adenine-Dinucleotide
+DRUG_3181	[1-(4-p-Tolyl-butyl)-piperidin-4-yl]-methanol
+DRUG_3182	4-benzyl-5-(4-piperidyl)isothiazol-3-ol
+DRUG_3183	ISIS 9063
+DRUG_3184	BYK-191023
+DRUG_3185	BIBF100
+DRUG_3186	5-Bromovinyldeoxyuridine
+DRUG_3187	BMS-779788
+DRUG_3188	Magnesium
+DRUG_3189	SRX-246
+DRUG_3190	HTS-466284
+DRUG_3191	YM-175735
+DRUG_3192	PMID26004420-Compound-WO2013028474A
+DRUG_3193	2-(3''-(5''-methoxy-indolyl)ethyloxy)adenosine
+DRUG_3194	SB 235699
+DRUG_3195	Emakalim
+DRUG_3196	5-Isopropyl-1H-pyrazole-3-carboxylic acid
+DRUG_3197	(2R,3S)-3-(6-Amino-purin-9-yl)-nonan-2-ol
+DRUG_3198	PMID7473541C11
+DRUG_3199	3-Benzenesulfonyl-heptanoic acid hydroxyamide
+DRUG_3200	PMID15603962Crac-16
+DRUG_3201	3-(decylsulfonyl)-1,1,1-trifluoropropan-2-one
+DRUG_3202	Radiprodil
+DRUG_3203	APD-811
+DRUG_3204	BMS-739562
+DRUG_3205	PD-118057
+DRUG_3206	N6-methoxy-2-[(4-methoxyphenyl)ethynyl]adenosine
+DRUG_3207	3-Butyl-[1,4]thiazepan-(5E)-ylideneamine
+DRUG_3208	LY-326449
+DRUG_3209	3-Propyl-[1,4]thiazepan-(5E)-ylideneamine
+DRUG_3210	3,3-Bis-(4-methoxy-phenyl)-2-phenyl-acrylonitrile
+DRUG_3211	RPR-101821
+DRUG_3212	6-(4-CHLOROPHENYL)-7-(2,4-DICHLOROPHENYL)-N-(HYDROXYMETHYL)-1,2,2-TRIMETHYL-1,2,3,4-TETRAHYDRO-1,8-NAPHTHYRIDINE-4-CARBOXAMIDE (ENANTIOMERIC MIX)
+DRUG_3213	3-(decylsulfinyl)-1,1,1-trifluoropropan-2-one
+DRUG_3214	Lovastatin
+DRUG_3215	ALG-1001
+DRUG_3216	3'-(1,2,3-Triazol-1-yl)-3'-deoxy-beta-D-thymidine
+DRUG_3217	P-1075
+DRUG_3218	Tetra/penta-cyclic pyridophthalazinone derivative 1
+DRUG_3219	KD-7332
+DRUG_3220	4-(o-tolyloxy)-2-(trifluoromethyl)benzonitrile
+DRUG_3221	PMID15686906C17
+DRUG_3222	GCC-1290K
+DRUG_3223	[3H]resolvin D1
+DRUG_3224	PGF2ALPHA-IE
+DRUG_3225	ZP-1848
+DRUG_3226	Indeglitazar
+DRUG_3227	(4-Fluoro-phenyl)-(9H-purin-6-yl)-amine
+DRUG_3228	4,5-Dimethoxy-10H-anthracen-9-one
+DRUG_3229	GLPDGG peptide
+DRUG_3230	FR-193262
+DRUG_3231	G-619
+DRUG_3232	PMID22533316C3
+DRUG_3233	Sutezolid
+DRUG_3234	3-oxo-2,3-dihydro-1H-indazole-4-carboxamide derivative 2
+DRUG_3235	3,2'-bis-trifluoromethyl-biphenyl-4-carbonitrile
+DRUG_3236	6-Nitro-2-(4-nitro-phenyl)-chromen-4-one
+DRUG_3237	9-Amino-6H,11H-indeno[1,2-c]isoquinolin-5-one
+DRUG_3238	NSC-661755
+DRUG_3239	3,4,6-Tribromo-2-(2,4-dibromo-phenoxy)-phenol
+DRUG_3240	MP0250
+DRUG_3241	BVT-115959
+DRUG_3242	Spirolaxine derivative 1
+DRUG_3243	1-(1-phenyl-1H-tetrazol-5-ylthio)propan-2-one
+DRUG_3244	UCL1848
+DRUG_3245	EUSYNSTYELAMIDE B
+DRUG_3246	Dihydropyrido phthalazinone derivative 1
+DRUG_3247	S 18204
+DRUG_3248	ZD-2138
+DRUG_3249	Benzothiazine-carboxamide compound 1
+DRUG_3250	2-(2,4-diphenylthiazol-5-yl)acetic acid
+DRUG_3251	5-Azido-6-benzyl-2-methyl-[1,8]naphthyridine
+DRUG_3252	2,3,4-trihydroxybenzoic acid
+DRUG_3253	2-Isoxazol-3-yl-3H-imidazo[4,5-c]quinoline
+DRUG_3254	2-Isoxazol-5-yl-3H-imidazo[4,5-c]quinoline
+DRUG_3255	Cycloserine
+DRUG_3256	AVE-0847
+DRUG_3257	Antibodie derivative 4
+DRUG_3258	ISIS 9068
+DRUG_3259	ISIS 1831
+DRUG_3260	2-trityl-4,5-dihydrooxazole
+DRUG_3261	2-phenyl-2H-indazole-7-carboxamide
+DRUG_3262	PD-135666
+DRUG_3263	ztz240
+DRUG_3264	ISIS 106008
+DRUG_3265	2-Benzyl-3-phenyl-7-(trifluoromethyl)-2H-indazole
+DRUG_3266	Isoindoline derivative 4
+DRUG_3267	Phosphoric acid monodec-9-enyl ester
+DRUG_3268	N-(2,6-diphenylpyrimidin-4-yl)-3-methylbutyramide
+DRUG_3269	1-(4-chlorobenzyl)-1H-indole-2,3-dione
+DRUG_3270	Clofibrate
+DRUG_3271	GFT-505
+DRUG_3272	SEP-363856
+DRUG_3273	Penciclovir
+DRUG_3274	3-[1'-{4'-(Benzyloxy)-phenyl}]-quinuclidine-2-ene
+DRUG_3275	PMID26004420-Compound-US20140275020D
+DRUG_3276	GB110
+DRUG_3277	L-731120
+DRUG_3278	VU0405601
+DRUG_3279	9-(3-nitrobenzyl)-6-(furan-2-yl)-9H-purin-2-amine
+DRUG_3280	SCH 420814
+DRUG_3281	Phosphoric acid mono-((E)-tetradec-9-enyl) ester
+DRUG_3282	Cyclocreatine
+DRUG_3283	Dofetilide
+DRUG_3284	Bidentate ligands of Markush derivative 2
+DRUG_3285	1-(6-Amino-4-methylpyridin-2-yl)propan-2-ol
+DRUG_3286	YM-337
+DRUG_3287	KR-33889
+DRUG_3288	N-(2-methoxybenzyl)cinnamamidine
+DRUG_3289	6-Imidazol-1-yl-3,4-dihydro-1H-quinolin-2-one
+DRUG_3290	PMID24900635C21
+DRUG_3291	Felypressin
+DRUG_3292	Piperidine derivative 3
+DRUG_3293	PMID16539403C15b
+DRUG_3294	MP-136
+DRUG_3295	5-Butyl-8-phenyl-3H-[1,2,4]triazolo[5,1-i]purine
+DRUG_3296	PMID25991433-Compound-N2
+DRUG_3297	Darolutamide
+DRUG_3298	Miltefosine
+DRUG_3299	ANG-2684
+DRUG_3300	EPTALOPROST
+DRUG_3301	EVT-103
+DRUG_3302	BAY-60-5521
+DRUG_3303	1-(4-Nitro-phenyl)-2-phenyl-ethane-1,2-dione
+DRUG_3304	C[Glu21-Lys26][Gly8]GLP-1(7-37)-NH2
+DRUG_3305	R-L3
+DRUG_3306	SB-242235
+DRUG_3307	US9598431, 5
+DRUG_3308	GALLICACID
+DRUG_3309	Nonsteroidal anti-inflammatory drugs (NSAIDs)
+DRUG_3310	1,3,8-Trihydroxy-6-methyl-10H-anthracen-9-one
+DRUG_3311	Imiglitazar
+DRUG_3312	CERC-301
+DRUG_3313	5,7-diphenyl-3H-imidazo[4,5-b]pyridin-2-ol
+DRUG_3314	BMS-394136
+DRUG_3315	Nateglinide
+DRUG_3316	V1A F/U
+DRUG_3317	3-(1-Methyl-piperidin-2-yl)-2-phenyl-1H-indole
+DRUG_3318	OPA-6566
+DRUG_3319	CMI-977
+DRUG_3320	VTB-38543
+DRUG_3321	WY-28342
+DRUG_3322	quinazoline deriv. 1
+DRUG_3323	DIRLOTAPIDE
+DRUG_3324	1,2-Di-p-tolyl-ethane-1,2-dione
+DRUG_3325	Antibodie derivative 9
+DRUG_3326	EUGENOL
+DRUG_3327	ASC-JMZ1
+DRUG_3328	INCB19602
+DRUG_3329	3-Butoxy-9H-beta-carboline
+DRUG_3330	8-Diazonium-naphthalene-1-sulfonic acid anion
+DRUG_3331	N-Hydroxy-3-naphthalen-2-yl-acrylamide
+DRUG_3332	NXN-462
+DRUG_3333	Ro-31-8830
+DRUG_3334	GNF-PF-3037
+DRUG_3335	INO-1001
+DRUG_3336	VAS-203
+DRUG_3337	CDT-fenofibrate
+DRUG_3338	Pyrimidine derivative 6
+DRUG_3339	PIRINIXIC ACID
+DRUG_3340	CAD-1833
+DRUG_3341	CRILVASTATIN
+DRUG_3342	7-Chloro-1,3-dihydro-imidazo[4,5-b]quinolin-2-one
+DRUG_3343	3-(1-Phenethyl-piperidin-3-yl)-2-phenyl-1H-indole
+DRUG_3344	2-(2-formylphenoxy)acetic acid
+DRUG_3345	PMID26004420-Compound-WO2014085210A
+DRUG_3346	ABYSSINONE V
+DRUG_3347	PMID29130358-Compound-Figure17(10)
+DRUG_3348	BBT-007
+DRUG_3349	THIOCOLCHICOSIDE
+DRUG_3350	N-{4-[2-(3-Methoxyphenyl)ethyl]phenyl}phthalimide
+DRUG_3351	1-Methoxy-6-phenyl-6H-benzo[c]chromen-8-ylamine
+DRUG_3352	Tyr-D-Ala-Gly-Trp-Nle-Asp-Phe-NH2
+DRUG_3353	Acetyl-Pro-Ala-Pro-Ala-trifluoro methane
+DRUG_3354	Rottlerin
+DRUG_3355	Silymarin
+DRUG_3356	TOK-001
+DRUG_3357	Nilutamide
+DRUG_3358	PMID25772215-Compound-WO2012177618M4
+DRUG_3359	Colorectal cancer vaccine
+DRUG_3360	TRC-253
+DRUG_3361	NAFAZATROM
+DRUG_3362	ISIS-APO(a)
+DRUG_3363	4-Ethyl-pyrrolidin-(2Z)-ylideneamine
+DRUG_3364	N-Omega-Hydroxy-L-Arginine
+DRUG_3365	5,8-Dihydroxy-1,4-naphthoquinone
+DRUG_3366	ISIS 114390
+DRUG_3367	13-cis-retinoic acid, UCSD
+DRUG_3368	1-propionyl-1H-indole-2,3-dione
+DRUG_3369	4-(2-Ethyl-4-m-tolyl-thiazol-5-yl)-pyridine
+DRUG_3370	Methyl 2-(Diallylamino)-1H-indole-3-carboxylate
+DRUG_3371	6-benzyl-3-propylaminocarbonyl-4-quinolone
+DRUG_3372	Methylbenzenesulfonamide derivative 1
+DRUG_3373	FK-633
+DRUG_3374	1,4-Dideoxy-O2-Sulfo-Glucuronic Acid
+DRUG_3375	Hydroquinone
+DRUG_3376	Devazepide
+DRUG_3377	4-[2-(3-Phenyl-propylamino)-ethyl]-phenol
+DRUG_3378	HGT-1111
+DRUG_3379	LUF-5956
+DRUG_3380	CROMOGLYCATE LISETIL HYDROCHLORIDE
+DRUG_3381	Lobeglitazone
+DRUG_3382	Tricyclic compound 10
+DRUG_3383	PMID7473541C21
+DRUG_3384	[3H]GW2331
+DRUG_3385	GMI-1359
+DRUG_3386	4-Ethyl-oxazolidin-(2Z)-ylideneamine
+DRUG_3387	5-(piperidin-4-yl)isoxazol-3-ol
+DRUG_3388	Midafotel
+DRUG_3389	Pyridine derivative 8
+DRUG_3390	4-(4-butylpiperidin-1-yl)-1-o-tolylbutan-1-one
+DRUG_3391	5-Methyl-oxazolidin-(2Z)-ylideneamine
+DRUG_3392	6-methyl-5,6-dihydro-4H-1,3-thiazin-2-amine
+DRUG_3393	BLX-883
+DRUG_3394	PBI-1101
+DRUG_3395	7,12-Dihydro-7,12-diaza-indeno[1,2-a]fluorene
+DRUG_3396	D[Arg4,Lys8]VP
+DRUG_3397	ML213
+DRUG_3398	SQ-33961
+DRUG_3399	Boc-Asp-Tyr(So3-)-Nle-Gly-Trp-Asp-Phe-NH2
+DRUG_3400	KY-382
+DRUG_3401	29-methylidene-2,3-oxidosqualene
+DRUG_3402	9H-beta-Carboline-3-carboxylic acid butyl ester
+DRUG_3403	2,5'-dichloro-5'-deoxy-N6-cyclopentyladenosine
+DRUG_3404	Subersic acid
+DRUG_3405	3-(2-propyn-1-yl)thymidine
+DRUG_3406	IGERNELLIN
+DRUG_3407	(5S,6S)-[Octahydro-quinolin-(2E)-ylidene]amine
+DRUG_3408	GSK1070916A
+DRUG_3409	ISIS 114397
+DRUG_3410	Oleic acid anilide
+DRUG_3411	Tozadenant
+DRUG_3412	VGX-1027
+DRUG_3413	Amidine compound 1
+DRUG_3414	2-(3''-(6''-bromo-indolyl)ethyloxy)adenosine
+DRUG_3415	Tecovirimat 
+DRUG_3416	AdcAhxArg4NH(CH2)6NH2
+DRUG_3417	4-(4-phenoxybutoxy)-7H-furo[3,2-g]chromen-7-one
+DRUG_3418	Phenylbutyrate
+DRUG_3419	CPI-444
+DRUG_3420	Cyclic Guanosine Monophosphate
+DRUG_3421	Dexanabinol
+DRUG_3422	GSK610677
+DRUG_3423	RO-320432
+DRUG_3424	CGS-22652
+DRUG_3425	FR-175985
+DRUG_3426	Acanthus ilicifolius Linn
+DRUG_3427	SDZ-MKS-492
+DRUG_3428	MRL24
+DRUG_3429	ADS-103253
+DRUG_3430	1-(3,4-dichlorophenyl)-2-(phenylsulfonyl)ethanone
+DRUG_3431	PJ34
+DRUG_3432	N-(5-Benzoyl-4-phenylthiazol-2-yl)benzamide
+DRUG_3433	1,2-dioctanoyl-sn-glycerol
+DRUG_3434	VL-0395
+DRUG_3435	AC261066
+DRUG_3436	N5-(1-Imino-3-Butenyl)-L-Ornithine
+DRUG_3437	Tarazepide
+DRUG_3438	Bevasiranib
+DRUG_3439	1,2-dicyclohexylethane-1,2-dione
+DRUG_3440	LY-929
+DRUG_3441	8-Ethyl-3-hydroxy-1H-benzo[b]azepine-2,5-dione
+DRUG_3442	Tetragastrin
+DRUG_3443	ONO-AE-248
+DRUG_3444	Oxetane 3,3-dicarboxamide compound 1
+DRUG_3445	Apadenoson
+DRUG_3446	YM 218
+DRUG_3447	exenatide suspension
+DRUG_3448	Tepoxalin
+DRUG_3449	Pyridine derivative 9
+DRUG_3450	13-Acetylphorbol
+DRUG_3451	Molgramostim
+DRUG_3452	RAP-310
+DRUG_3453	E-3040
+DRUG_3454	DS-1442
+DRUG_3455	9-(4-Hydroxybutyl)-N2-Phenylguanine
+DRUG_3456	Tetra-cyclic pyridophthalazinone derivative 1
+DRUG_3457	1-Benzyl-1,2-dihydro-indazol-3-one
+DRUG_3458	7-Nitroindazole-2-Carboxamidine
+DRUG_3459	RP-73163
+DRUG_3460	A-849531
+DRUG_3461	N-ethyl-2,2,2-triphenylacetamide
+DRUG_3462	WIN-63759
+DRUG_3463	2-morpholino-7-(2-phenylethynyl)-4H-chromen-4-one
+DRUG_3464	5-Ethyl-4-methyl-pyrrolidin-(2Z)-ylideneamine
+DRUG_3465	M100907
+DRUG_3466	1,1,1-trifluoro-3-(hexylthio)propan-2-one
+DRUG_3467	PACTIMIBE
+DRUG_3468	2,6,8-triphenyl-9H-purine
+DRUG_3469	Ro-4938581
+DRUG_3470	Palodesangren C
+DRUG_3471	Pranazepide
+DRUG_3472	(E,E)-8-(4-Phenylbutadien-1-yl)caffeine
+DRUG_3473	N-Phenethyl-2-(toluene-4-sulfonylamino)-benzamide
+DRUG_3474	LUF-5962
+DRUG_3475	AZD-7009
+DRUG_3476	PIKAMILONE
+DRUG_3477	PMID8576905C4
+DRUG_3478	CGP61594
+DRUG_3479	METRIFUDIL
+DRUG_3480	ISIS 1822
+DRUG_3481	2-(4-Phenoxy-benzyl)-3H-benzoimidazol-4-ol
+DRUG_3482	L-746530
+DRUG_3483	LPA
+DRUG_3484	VPC12249
+DRUG_3485	2,8-Dimethyl-3H-quinazolin-4-one
+DRUG_3486	OC-000459
+DRUG_3487	1-aminoanthracene-9,10-dione
+DRUG_3488	[1,3]Thiazinan-(2E)-ylideneamine
+DRUG_3489	[3H]dizocilpine
+DRUG_3490	12-dehydroxyriccardin C
+DRUG_3491	Bervastatin
+DRUG_3492	AZD6244
+DRUG_3493	2-Amino-5-(N-nitro-guanidino)-pentanoic acid
+DRUG_3494	Tafluprost
+DRUG_3495	BM-162115
+DRUG_3496	1,2-bis(2,4-difluorophenyl)-2-hydroxyethanone
+DRUG_3497	LTT462
+DRUG_3498	N-[(4-methoxyphenyl)sulfonyl]-D-alanine
+DRUG_3499	2-Amino-6-phenyl-4-thiophen-2-yl-nicotinonitrile
+DRUG_3500	8-Octyl-benzolactam-V9
+DRUG_3501	2-(2-chlorophenyl)-2,2-diphenylethanamide
+DRUG_3502	AdoC(beta-Ala)Arg6
+DRUG_3503	Indoline derivative 15
+DRUG_3504	1-(4-methoxyphenyl)-3-(5-methylthiazol-2-yl)urea
+DRUG_3505	6-Bromo-2-(3-bromo-phenyl)-chromen-4-one
+DRUG_3506	L-5-(bromovinyl)deoxyuridine
+DRUG_3507	5-chloro-1H-indazole
+DRUG_3508	NCX-1067
+DRUG_3509	LL-6531
+DRUG_3510	2-(4-Phenoxy-benzyl)-3H-benzoimidazol-5-ylamine
+DRUG_3511	SKI-2852
+DRUG_3512	Quinazoline derivative 12
+DRUG_3513	HO/03/03
+DRUG_3514	GPI-3000
+DRUG_3515	PMID17358052C5b
+DRUG_3516	(R)-N-isobutyl-N-(pyrrolidin-3-yl)-2-naphthamide
+DRUG_3517	bimatoprost (free acid form)
+DRUG_3518	1-(4-Chloro-phenyl)-3-(3-pentyl-oct-2-enyl)-urea
+DRUG_3519	L-NIL
+DRUG_3520	9-Benzyl-6-phenylsulfanyl-9H-purine
+DRUG_3521	KR-30450
+DRUG_3522	3-Benzyl-7-methyl-[1,8]naphthyridine-4-thiol
+DRUG_3523	4-Bromo-3-hydroxy-1H-quinolin-2-one
+DRUG_3524	Nicotinamide-Adenine-Dinucleotide
+DRUG_3525	Benzothiazine-carboxamide compound 3
+DRUG_3526	6-benzyl-3-ethoxycarbonyl-4-quinolone
+DRUG_3527	Oxindole 94
+DRUG_3528	BOLINAQUINONE
+DRUG_3529	2-phenyl-2H-pyrazolo[3,4-c]quinolin-4-amine
+DRUG_3530	(2R)-N-(6-(4-CHLOROPHENYL)-7-(2,4-DICHLOROPHENYL)-2,2-DIMETHYL-3,4-DIHYDRO-2H-PYRANO[2,3-B]PYRIDIN-4-YL)-2-HYDROXYPROPANAMIDE (ENANTIOMERIC MIX)
+DRUG_3531	N6-methoxy-2-[(2-pyridinyl)ethynyl]adenosine
+DRUG_3532	zinc pyrithione
+DRUG_3533	Dextromethorphan+quinidine
+DRUG_3534	1,1-Dimethyl-5-oxa-spiro[2.4]heptan-4-one
+DRUG_3535	LY2157299
+DRUG_3536	Squalestatin 1
+DRUG_3537	2-(4-bromo-2-formylphenoxy)acetic acid
+DRUG_3538	Ambasilide
+DRUG_3539	6-guanidino-2-(3''-indolylethyloxy)adenosine
+DRUG_3540	3-phenyl-4-hydroxyquinolin-2(1H)-one
+DRUG_3541	Lu-AA47070
+DRUG_3542	C[Glu22-Orn26][Gly8]GLP-1(7-37)-NH2
+DRUG_3543	AFLATREME
+DRUG_3544	15-deoxy-Delta12,14-PGJ2
+DRUG_3545	PD-068235
+DRUG_3546	GLYCYRRHIZIN
+DRUG_3547	WAY-644
+DRUG_3548	(E)-2-(4-fluorostyryl)-5-(phenylsulfinyl)pyridine
+DRUG_3549	Isothiazolone derivative 1
+DRUG_3550	(E)-N-(4-Phenylthiazol-2-yl) cinnamamide
+DRUG_3551	6-(furan-2-yl)-9H-purin-2-amine
+DRUG_3552	PF-00212062
+DRUG_3553	XEN-D0101
+DRUG_3554	67S
+DRUG_3555	ISIS 11929
+DRUG_3556	RKI-1447
+DRUG_3557	3-butoxycarbonyl-4-quinolone
+DRUG_3558	4-Bromo-N-hydroxy-benzamide
+DRUG_3559	3-(butylsulfinyl)-1,1,1-trifluoropropan-2-one
+DRUG_3560	SAVX-1
+DRUG_3561	PMID17574411C41
+DRUG_3562	Lixisenatide
+DRUG_3563	5-tosyl-5H-dibenzo[b,d]azepin-7(6H)-one
+DRUG_3564	Ketamine
+DRUG_3565	3-(dodecylsulfinyl)-1,1,1-trifluoropropan-2-one
+DRUG_3566	PMID26004420-Compound-WO2013062900A
+DRUG_3567	1-Hydroxy-8-methoxy-10H-anthracen-9-one
+DRUG_3568	FR-115427
+DRUG_3569	BX-795
+DRUG_3570	AMT-011
+DRUG_3571	quin-C1
+DRUG_3572	4-(isopentylthio)-2-methoxybenzonitrile
+DRUG_3573	M2698
+DRUG_3574	ISIS 114399
+DRUG_3575	BPS-804
+DRUG_3576	N-Phenylbenzo[d]oxazol-2-amine
+DRUG_3577	SB-203347
+DRUG_3578	Trametinib + 2141795
+DRUG_3579	rose bengal (photoactivated)
+DRUG_3580	3-chloro-4-(o-tolylthio)benzonitrile
+DRUG_3581	2-(4-Methoxy-phenyl)-5-phenyl-thiazol-4-ol
+DRUG_3582	SC-795
+DRUG_3583	(R)-2-Amino-7-phosphono-heptanoic acid
+DRUG_3584	Guttiferone I
+DRUG_3585	N-(3,3-Dimethyl-butyl)-4-indol-1-yl-benzamide
+DRUG_3586	(N-(3-phenoxycinnamyl)-acetohydroxamic acid
+DRUG_3587	BM-17.0744
+DRUG_3588	CNTO-3649
+DRUG_3589	Besonprodil
+DRUG_3590	SB-505124
+DRUG_3591	L-702-539
+DRUG_3592	2,3,3-Triphenyl-acrylonitrile
+DRUG_3593	[Thr4,Gly7]OT
+DRUG_3594	PMID26004420-Compound-WO2012058134C
+DRUG_3595	L-735,821
+DRUG_3596	Dalvastatin
+DRUG_3597	PMID26004420-Compound-US20140142115C
+DRUG_3598	H-Gly-dmP-Glu-OH
+DRUG_3599	CJ-13610
+DRUG_3600	1-(4-methoxyphenyl)-3-(1,3,4-thiadiazol-2-yl)urea
+DRUG_3601	Benzimidazole derivative 8
+DRUG_3602	CP-294838
+DRUG_3603	NVP-AAM077
+DRUG_3604	Thiocoumarin
+DRUG_3605	L-Tryptophan-L-arginine
+DRUG_3606	P1-(5'-Adenosyl)P5-(5'-Thymidyl)Pentaphosphate
+DRUG_3607	5,6-dinitroacenaphthoquinone
+DRUG_3608	ICI-211965
+DRUG_3609	ISIS 2674
+DRUG_3610	3S,4R-293B
+DRUG_3611	PMID20471253C32
+DRUG_3612	ATL-313
+DRUG_3613	Fenofibrate
+DRUG_3614	KURARINOL
+DRUG_3615	ZINC959121
+DRUG_3616	3-Methyl-pyrrolidin-(2Z)-ylideneamine
+DRUG_3617	BMS641
+DRUG_3618	AdcAhxArg4Lys-PEGOMe
+DRUG_3619	CHLOROCYCLINONE C
+DRUG_3620	MRX-6
+DRUG_3621	EMD-53998
+DRUG_3622	MDCO-216
+DRUG_3623	N-{4-[2-(4-Methoxyphenyl)ethyl]phenyl}phthalimide
+DRUG_3624	SB-381320
+DRUG_3625	2-(3''(7''-bromo-indolyl)ethyloxy)adenosine
+DRUG_3626	PMID28048944-Compound-21
+DRUG_3627	Ralinepag
+DRUG_3628	COOH
+DRUG_3629	PF-3052334
+DRUG_3630	PMID20855207C25
+DRUG_3631	ON-579
+DRUG_3632	TGF-beta receptor 1 kinase inhibitors
+DRUG_3633	PMID19191557C32
+DRUG_3634	homoquinolinic acid
+DRUG_3635	PF-4191834
+DRUG_3636	MEDI-570
+DRUG_3637	LEUCOSCEPTOSIDE A
+DRUG_3638	2-(hex-1-ynyl)-N6-methoxyadenosine
+DRUG_3639	BMS-A
+DRUG_3640	BAICALEIN
+DRUG_3641	QAV-680
+DRUG_3642	Milrinone
+DRUG_3643	8-Amino-6H,11H-indeno[1,2-c]isoquinolin-5-one
+DRUG_3644	PMID26004420-Compound-US20140031349C
+DRUG_3645	1-amino-2-phenoxyanthracene-9,10-dione
+DRUG_3646	Ethylisothiourea
+DRUG_3647	nTzDpa
+DRUG_3648	R-85355
+DRUG_3649	6-N-propyl -4-trifluoromethylquinolin-2(1H)-one
+DRUG_3650	ZM-230487
+DRUG_3651	RO-4987655
+DRUG_3652	NXN-188
+DRUG_3653	5-iodo-1H-indazole
+DRUG_3654	2-(3-Bromo-phenyl)-chromen-4-one
+DRUG_3655	5-Chloro-2-methyl-3H-quinazolin-4-one
+DRUG_3656	E-6080
+DRUG_3657	4-cyclohexyliden(4-hydroxyphenyl)methylphenol
+DRUG_3658	LATIN T1D
+DRUG_3659	2-methoxy-4-(p-tolyloxy)benzonitrile
+DRUG_3660	Aspirin
+DRUG_3661	Fibrates
+DRUG_3662	PMID2296036C4i
+DRUG_3663	MK-499
+DRUG_3664	LAMIFIBAN
+DRUG_3665	H-1152
+DRUG_3666	I-SAP
+DRUG_3667	Tretinoin
+DRUG_3668	Bryostatin-1
+DRUG_3669	YM 471
+DRUG_3670	K00248
+DRUG_3671	[3H]CGS8216
+DRUG_3672	CI-1033
+DRUG_3673	SKL-18287
+DRUG_3674	NN8209
+DRUG_3675	BMY-21950
+DRUG_3676	PMID27841036-Compound-23
+DRUG_3677	N-(2,6-diphenylpyrimidin-4-yl)isobutyramide
+DRUG_3678	Thiophosphoric acid (E)-dodec-9-enyl ester
+DRUG_3679	AMG 899
+DRUG_3680	3-cyclopentoxycarbonyl-6-ethyl-4-quinolone
+DRUG_3681	TETRAHYDROQUINOLINE A
+DRUG_3682	Quinoline and quinazoline derivative 4
+DRUG_3683	Pramlintide
+DRUG_3684	RG7440
+DRUG_3685	GW1929
+DRUG_3686	L-NMMA
+DRUG_3687	PMID26004420-Compound-WO2013039802C
+DRUG_3688	Antibodie derivative 3
+DRUG_3689	Ro 63-1908
+DRUG_3690	clofilium
+DRUG_3691	5-aminoisoquinolin-1(2H)-one
+DRUG_3692	ZD-7717
+DRUG_3693	N6-[(4-Amino)-phenyl]-9-benzyl-2-phenyladenine
+DRUG_3694	3-Hydroxy-3-Methyl-Glutaric Acid
+DRUG_3695	PMID25991433-Compound-B3
+DRUG_3696	3-demethoxy-3-D-lyxopyranosylaminothiocolchicine
+DRUG_3697	MC-3001
+DRUG_3698	Laropiprant+niacin
+DRUG_3699	ZP-3022
+DRUG_3700	HQK-1004
+DRUG_3701	DRF 10945
+DRUG_3702	TI4
+DRUG_3703	D[Arg4,Orn8]VP
+DRUG_3704	Tyr-D-Phe-Gly-D-Trp-NMeNle-Asp-Phe-NH2
+DRUG_3705	10-Formyl-5,8,10-Trideazafolic Acid
+DRUG_3706	EPC-K1
+DRUG_3707	E-4080
+DRUG_3708	NRX-1074
+DRUG_3709	8-Methoxy-2-methyl-3H-quinazolin-4-one
+DRUG_3710	Sulotroban
+DRUG_3711	N-Hydroxy-N-methyl-2,3,3-triphenyl-acrylamide
+DRUG_3712	EFT508
+DRUG_3713	Cacodylate Ion
+DRUG_3714	4-Benzyl-5-piperidin-4-yl-isoxazol-3-ol
+DRUG_3715	3-methoxy-4-(p-tolyloxy)benzonitrile
+DRUG_3716	PMID1656041C11ff
+DRUG_3717	LG-1550
+DRUG_3718	BZ5
+DRUG_3719	D-kynurenine
+DRUG_3720	5''-Quinolin-4-yl-[2,4'']bithiazolyl-2''-ylamine
+DRUG_3721	GDC-0068
+DRUG_3722	PMID25991433-Compound-C3
+DRUG_3723	AMINOTHIAZOLINE
+DRUG_3724	NSC-686549
+DRUG_3725	LX-7101
+DRUG_3726	Hexahydro-cyclopenta[c]pyrrol-(1Z)-ylideneamine
+DRUG_3727	1,2,4-Triazole-Carboxamidine
+DRUG_3728	[Lys8(Alexa 488) ]PVA
+DRUG_3729	ISIS 4189
+DRUG_3730	5-Methoxyflavone
+DRUG_3731	Tetrabutylammonium Ion
+DRUG_3732	(2-fluorophenyl)-(4-fluorophenyl)phenylacetamide
+DRUG_3733	Travoprost
+DRUG_3734	N-(5-methylthiazol-2-yl)-2-phenylacetamide
+DRUG_3735	Glu20-Lys24][Gly8][GLP-1(7-37)-NH2
+DRUG_3736	Indolocarbazole analogue
+DRUG_3737	OPL-CCL2-LPM
+DRUG_3738	2-[4-(2-Piperidin-1-ylethyl)phenoxy]benzothiazole
+DRUG_3739	1,2-Dihydro-indazol-3-one
+DRUG_3740	2-Methyl-1,2-dihydro-indazol-3-one
+DRUG_3741	2-p-Tolyl-6H-pyrazolo[1,5-c]quinazolin-5-one
+DRUG_3742	[3H]PGF2alpha
+DRUG_3743	NBTX-001
+DRUG_3744	Epoprostenol
+DRUG_3745	AZ12260493
+DRUG_3746	3-methyl-2-morpholino-1,1-diphenylbutan-1-ol
+DRUG_3747	C[Glu23-Lys27][Gly8]GLP-1(7-37)-NH2
+DRUG_3748	CP-101,606
+DRUG_3749	AMPK stimulators, oral, type 2 diabetes
+DRUG_3750	TTNPB
+DRUG_3751	CATPB
+DRUG_3752	1,2-bis(2,3-fluorophenyl)ethane-1,2-dione
+DRUG_3753	2-Pyridin-2-yl-6H-pyrazolo[1,5-c]quinazolin-5-one
+DRUG_3754	N-hydroxy-nor-L-arginine
+DRUG_3755	ZD-6169
+DRUG_3756	Conjugated 3-(indolyl)-and 3-(azaindolyl)-4-arylmaleimide compound 1
+DRUG_3757	ARRY-300
+DRUG_3758	PGF2alpha
+DRUG_3759	CL-385004
+DRUG_3760	Licofelone
+DRUG_3761	[3H]devazepide
+DRUG_3762	MG-1102
+DRUG_3763	Flutamide
+DRUG_3764	PMID26004420-Compound-WO2014150132A
+DRUG_3765	Aminophylline
+DRUG_3766	3-(1-Phenethyl-piperidin-4-yl)-2-phenyl-1H-indole
+DRUG_3767	4,6-Dichloro-1H-indole-2-carboxylic acid
+DRUG_3768	AB928
+DRUG_3769	Cerivastatin
+DRUG_3770	SB-298
+DRUG_3771	5-(3-Chloro-benzyl)-1H-pyrazole-3-carboxylic acid
+DRUG_3772	2-(3-Butoxy-phenyl)-6-methyl-chromen-4-one
+DRUG_3773	L-aspartic acid
+DRUG_3774	Phosphoric acid mono-((E)-dodec-9-enyl) ester
+DRUG_3775	1,8-Dichloro-10H-anthracen-9-one
+DRUG_3776	(E)-12-Nitrooctadec-12-enoic Acid
+DRUG_3777	1,7,8,9-tetrahydro-1,5-diaza-trindene-4,6-dione
+DRUG_3778	INCB3344
+DRUG_3779	all-trans-4-oxo-retinoic acid
+DRUG_3780	PMID25772215-Compound-US02014179750TG7-170
+DRUG_3781	Ro-4396686
+DRUG_3782	UR-8328
+DRUG_3783	2-ethynyl-N6-methoxyadenosine
+DRUG_3784	SPHINX scaffold, 3
+DRUG_3785	Erdosteine
+DRUG_3786	Carboxamide derivative 4
+DRUG_3787	Glucagon-like peptide-1 analog
+DRUG_3788	Gly-Pip-Glu
+DRUG_3789	3-Hydroxy-piperidine-4-carboxylic acid
+DRUG_3790	PMID26560362-Compound-90
+DRUG_3791	4,5-dichloro-1H-indole-2,3-dione
+DRUG_3792	8-Bromo-9-methyl-9H-adenine
+DRUG_3793	AKP-320
+DRUG_3794	Gly-Hyp-Glu
+DRUG_3795	N-Butyl-N'-Hydroxyguanidine
+DRUG_3796	7,9-octadecadiynoic acid
+DRUG_3797	3,4-Dihydroxycinnamic Acid
+DRUG_3798	Alprostadil
+DRUG_3799	Teduglutide
+DRUG_3800	AH6809
+DRUG_3801	SCH-63390
+DRUG_3802	N-(1,3,4-thiadiazol-2-yl)benzamide
+DRUG_3803	Magnesium Sulfate
+DRUG_3804	PMID27336223-Compound-7
+DRUG_3805	9H-beta-Carbolin-3-ol
+DRUG_3806	BIBU-251
+DRUG_3807	1,2-bis(2,3,5-trifluorophenyl)-2-hydroxyethanone
+DRUG_3808	UR-8308
+DRUG_3809	RAP-103
+DRUG_3810	2-morpholino-1,1,2-triphenylethanol
+DRUG_3811	PMID25416646-Compound-Figure5-E
+DRUG_3812	NS-8
+DRUG_3813	CP-83101
+DRUG_3814	3,4-di-(4-methoxyphenyl)-1H-pyrrole-2,5-dione
+DRUG_3815	G-573
+DRUG_3816	2-(3-Piperidin-1-yl-propyl)-3H-quinazolin-4-one
+DRUG_3817	8-Bromo-9-propyl-9H-adenine
+DRUG_3818	Trecetilide fumarate
+DRUG_3819	ISOGUANOSINE
+DRUG_3820	8-Methoxy-2-phenyl-3H-quinazolin-4-one
+DRUG_3821	Bidentate ligands of Markush derivative 1
+DRUG_3822	4-[2-(6-Phenyl-hexylamino)-ethyl]-phenol
+DRUG_3823	Quinoline derivative 12
+DRUG_3824	6-bromoindirubin-3-oxime
+DRUG_3825	(5S,6R)-[Octahydro-quinolin-(2E)-ylidene]amine
+DRUG_3826	tedisamil
+DRUG_3827	SSR126768A
+DRUG_3828	Dalazatide
+DRUG_3829	Iloprost
+DRUG_3830	eicosatetranoic acid
+DRUG_3831	3-tert-Butyl-3-ethyl-dihydro-furan-2-one
+DRUG_3832	PMID26004420-Compound-WO2015017305E
+DRUG_3833	PMID18178086C15
+DRUG_3834	2np8
+DRUG_3835	2-(4-Hydroxy-phenyl)-3,3-diphenyl-acrylonitrile
+DRUG_3836	Heptanoic Acid
+DRUG_3837	9-(4-Fluoro-benzyl)-6-phenylsulfanyl-9H-purine
+DRUG_3838	3-Phenylquinoline-8-carboxamide
+DRUG_3839	GLENVASTATIN
+DRUG_3840	PAN-90806
+DRUG_3841	8-Nitro-6H,11H-indeno[1,2-c]isoquinolin-5-one
+DRUG_3842	AdcAhxArg4Lys(biotin)-PEG-OMe
+DRUG_3843	Tetrahydro-pyrimidin-2-ylideneamine
+DRUG_3844	PMID28621580-Compound-WO2015089220C70
+DRUG_3845	4-Ethyl-5,6-dihydro-1H-pyridin-(2Z)-ylideneamine
+DRUG_3846	KRP-297
+DRUG_3847	Mozavaptan
+DRUG_3848	Pyrimidine derivative 5
+DRUG_3849	Triazole derivative 3
+DRUG_3850	4-Chloro-N-(4-nitro-benzoyl)-benzenesulfonamide
+DRUG_3851	Dihydro-quinolinone
+DRUG_3852	PF-06260414
+DRUG_3853	3-Bromo-1H-indazole-7-carbonitrile
+DRUG_3854	Reglixane
+DRUG_3855	ASCJ-9 topical
+DRUG_3856	BMY-22089
+DRUG_3857	TG02
+DRUG_3858	CP-409069
+DRUG_3859	U46619
+DRUG_3860	Pyridine derivative 7
+DRUG_3861	3,3-Diethyl-dihydro-furan-2-one
+DRUG_3862	DDATHF
+DRUG_3863	Isoindoline derivative 2
+DRUG_3864	2-(4-Phenoxy-benzyl)-3H-benzoimidazol-5-ol
+DRUG_3865	3-chloro-4-(o-tolyloxy)benzonitrile
+DRUG_3866	AZD-3514
+DRUG_3867	2-(3''-(5''-hydroxyindolyl)ethyloxy)adenosine
+DRUG_3868	Phthalazine ketone derivative 3
+DRUG_3869	9-Cyclopentyl-9H-adenine
+DRUG_3870	Amidine compound 6
+DRUG_3871	CDDO-Me
+DRUG_3872	6,11-dihydrothiochromeno[4,3-b]indol-8-ol
+DRUG_3873	1-Methyl-1,2-dihydro-indazol-3-one
+DRUG_3874	SNN-0029
+DRUG_3875	[HO1][Lys8(5/6C-Flu)]VT
+DRUG_3876	5-(trifluoromethoxy)-1H-indole-2,3-dione
+DRUG_3877	PMID28048944-Compound-4
+DRUG_3878	Crizotinib
+DRUG_3879	Clobetasol
+DRUG_3880	RvD1-ME
+DRUG_3881	DI-O-METHYLENDIANDRIN A
+DRUG_3882	Ibrolipim
+DRUG_3883	Neihulizumab
+DRUG_3884	(9Z,12E)-12-nitrooctadeca-9,12-dienoic acid
+DRUG_3885	PMID19191557C19
+DRUG_3886	OXENDLONE
+DRUG_3887	SC-49992
+DRUG_3888	PMID26004420-Compound-WO2012058116A
+DRUG_3889	Carbamide derivative 15
+DRUG_3890	GNF-PF-2700
+DRUG_3891	2-(cyclooctylamino)-5,5-diethyloxazol-4(5H)-one
+DRUG_3892	APIGENIN
+DRUG_3893	SQ-32709
+DRUG_3894	Dibutyl 2,2,2-trifluoro-1-phenylethyl phosphate
+DRUG_3895	[Gly8,Glu22]GLP-1(7,37)-NH2
+DRUG_3896	(E)-octadecan-9-ynoic acid
+DRUG_3897	PMID20299227C12
+DRUG_3898	DEOXYCYTIDINE
+DRUG_3899	6-bromo-1H-indazole
+DRUG_3900	ISIS 9070
+DRUG_3901	1400W
+DRUG_3902	BADGE
+DRUG_3903	2-(phenylsulfonyl)-1-p-tolylethanone
+DRUG_3904	(Z)-3-((1H-pyrrol-2-yl)methylene)indolin-2-one
+DRUG_3905	4,17-dehydroxyriccardin C
+DRUG_3906	2-(1H-benzo[d]imidazol-2-yl)quinoxaline
+DRUG_3907	PMID8246233C5ab
+DRUG_3908	1,3-Diallyl-3,7-dihydro-purine-2,6-dione
+DRUG_3909	ISIS 9022
+DRUG_3910	4-Methyl-oxazolidin-(2Z)-ylideneamine
+DRUG_3911	PMID25776143-Compound-4
+DRUG_3912	GB88
+DRUG_3913	WAY-125971
+DRUG_3914	N-(dibenzo[b,d]thiophen-3-ylsulfonyl)-L-valine
+DRUG_3915	4-Carboxamido-isoindolinone derivative 1
+DRUG_3916	pregnenolone-16alpha-carbonitrile
+DRUG_3917	Indole and benzimidazole derivative 1
+DRUG_3918	C[YYDEKLEE]-NH2
+DRUG_3919	CYLINDOL A
+DRUG_3920	2-phenyl-N-(thiazol-2-yl)acetamide
+DRUG_3921	(S)-6-Amino-2-(2-imino-ethylamino)-hexanoic acid
+DRUG_3922	AdoC(Aun)Arg6
+DRUG_3923	US8741907-compound-3
+DRUG_3924	4-(1H-indol-5-ylamino)-5-styrylnicotinonitrile
+DRUG_3925	2-Pyridin-2-ylmethyl-1,2-dihydro-indazol-3-one
+DRUG_3926	SAR425899
+DRUG_3927	SelG1
+DRUG_3928	PMID19524438C6o
+DRUG_3929	3-amino-3-demethoxythiocolchicine
+DRUG_3930	MK-0773
+DRUG_3931	Selfotel
+DRUG_3932	Velac Gel
+DRUG_3933	[2,2':5',2'']Terthiophene-4-carbaldehyde
+DRUG_3934	(+)-HA966
+DRUG_3935	AMP-579
+DRUG_3936	PD-170292
+DRUG_3937	H2S-releasing latanoprost
+DRUG_3938	4-Methyl-5-(4-piperidyl)isothiazol-3-ol
+DRUG_3939	MBX-102
+DRUG_3940	Dexloxiglumide
+DRUG_3941	ONO-8809
+DRUG_3942	1-methylcyclopropanecarboxylic acid
+DRUG_3943	DYSIDENIN
+DRUG_3944	Cromafiban
+DRUG_3945	[3H]cAMP
+DRUG_3946	TGP-580
+DRUG_3947	WEDELOLACTONE
+DRUG_3948	ISIS 114388
+DRUG_3949	KRP-101
+DRUG_3950	2-amino-2-phenyl-1,1-di(pyridin-3-yl)ethanol
+DRUG_3951	2-(2-hexylphenyl)isoindoline-1,3-dione
+DRUG_3952	N-Hydroxy-4-iodo-benzamide
+DRUG_3953	CARM1 inhibitors
+DRUG_3954	5-Methyl-pyrrolidin-(2Z)-ylideneamine
+DRUG_3955	1,2-Bis-(2-chloro-phenyl)-ethane-1,2-dione
+DRUG_3956	NC00075159
+DRUG_3957	Ro-31-6930
+DRUG_3958	KAEMPFEROL
+DRUG_3959	GFPTGG
+DRUG_3960	ABT-165
+DRUG_3961	1,6-bis(4-m-tolylpiperazin-1-yl)hexane
+DRUG_3962	4-Benzenesulfonyl-1-(3-phenyl-propyl)-piperidine
+DRUG_3963	PMID25772215-Compound-US02014179750TG7-74
+DRUG_3964	Alinidine
+DRUG_3965	MP-124
+DRUG_3966	TG-C
+DRUG_3967	RWJ-58259
+DRUG_3968	N-(7-methoxy-4-phenylbenzofuran-2-yl)acetamide
+DRUG_3969	2-(4-Chlorophenyl)-5-Quinoxalinecarboxamide
+DRUG_3970	SDZ-GPI-562
+DRUG_3971	9-Butyl-9H-adenine
+DRUG_3972	1-(4-fluorophenyl)-2-(phenylsulfonyl)ethanone
+DRUG_3973	7-fluoroindirubin-3-acetoxime
+DRUG_3974	8-Bromo-9-(2-hydroxypropyl)-9H-adenine
+DRUG_3975	TT-401
+DRUG_3976	GSK-3787
+DRUG_3977	MK-6892
+DRUG_3978	Dulaglutide
+DRUG_3979	N-(3-Bromo-benzoyl)-4-chloro-benzenesulfonamide
+DRUG_3980	2,4-Diamino-butyric acid(GABA)
+DRUG_3981	SMART anti-E/P selectin
+DRUG_3982	C[homoPhe-Hca-Glu-Gly-Leu-Glu-Glu]-NH2
+DRUG_3983	5,7-dichloro-1H-indole-2,3-dione
+DRUG_3984	CIP-137401
+DRUG_3985	U-89267
+DRUG_3986	Fasudil
+DRUG_3987	J-104118
+DRUG_3988	Glitazone
+DRUG_3989	(2S)-2-(biphenyl-4-yloxy)-3-phenylpropanoic acid
+DRUG_3990	[Phe3]OT
+DRUG_3991	[3H]CGP27492
+DRUG_3992	GW2433
+DRUG_3993	1-(3,5-dimethylphenyl)-2-(phenylsulfonyl)ethanone
+DRUG_3994	NBXT-001+Nobilis inhalation device
+DRUG_3995	ACENAPHTHOQUINONE
+DRUG_3996	PMID7629799C2e
+DRUG_3997	Dinoprost Tromethamine
+DRUG_3998	2-(2-Amino-phenyl)-6-methyl-chromen-4-one
+DRUG_3999	PMID26004420-Compound-WO2013039802B
+DRUG_4000	FolateImmune
+DRUG_4001	PD-136621
+DRUG_4002	NASVAC
+DRUG_4003	[125I]BOP
+DRUG_4004	PMID20299227C20
+DRUG_4005	8-Fluoro-6H,11H-indeno[1,2-c]isoquinolin-5-one
+DRUG_4006	correolide
+DRUG_4007	Indirubin-3'-monoxime
+DRUG_4008	MK-1903
+DRUG_4009	Ro-32-0557
+DRUG_4010	LY-274614
+DRUG_4011	BMS614
+DRUG_4012	VBP15
+DRUG_4013	2-cyclopropyl-4-substituted-phenoxy-quinoline derivative 1
+DRUG_4014	4-(n-propyl)amino-3-nitrobenzoic acid
+DRUG_4015	S-(2-boronoethyl)-L-cysteine
+DRUG_4016	1,5-Dihydroxy-10H-anthracen-9-one
+DRUG_4017	B-Octylglucoside
+DRUG_4018	5-Methyl-4-propyl-pyrrolidin-(2Z)-ylideneamine
+DRUG_4019	Long-acting exenatide
+DRUG_4020	TEW-7197
+DRUG_4021	[125I]SAP
+DRUG_4022	(R)-Mevalonate
+DRUG_4023	Phe-Pro-Glu
+DRUG_4024	GR-233548
+DRUG_4025	2,6-diphenyl-8-tButyl-1-deazapurine
+DRUG_4026	PMID18072721C50
+DRUG_4027	BIO-11006
+DRUG_4028	4,12,17-dehydroxyriccardin C
+DRUG_4029	N-(3-(trifluoromethoxy)benzyl)-4-phenoxybenzamide
+DRUG_4030	2-(3-Hydroxy-phenyl)-6-methyl-chromen-4-one
+DRUG_4031	NU-1001-41
+DRUG_4032	CHLOROCYCLINONE A
+DRUG_4033	Peptidomimetic analog 6
+DRUG_4034	5,7-Dichlorokynurenic Acid
+DRUG_4035	IW-1221
+DRUG_4036	HELENAQUINONE
+DRUG_4037	L-888607
+DRUG_4038	GTP-010
+DRUG_4039	AM-461
+DRUG_4040	N-(piperidin-4-yl)-N-propyl-2-naphthamide
+DRUG_4041	2-Amino-4,6-diphenyl-pyrimidin-5-carbonitrile
+DRUG_4042	3,4-Dihydro-1H-quinolin-(2E)-ylideneamine
+DRUG_4043	2-(3-biphenyl-4-yl-propionylamino)-benzoic acid
+DRUG_4044	2-phenyl-2H-benzo[d][1,2,3]triazole-4-carboxamide
+DRUG_4045	[1,3]Oxazinan-(2E)-ylideneamine
+DRUG_4046	VA-111913
+DRUG_4047	TAK-029
+DRUG_4048	ABT-348
+DRUG_4049	GNF-PF-3645
+DRUG_4050	SSR149415
+DRUG_4051	4-(p-Tolyl)spiro[chromene-2,4'-piperidine]
+DRUG_4052	octyl thiophosphatidic acid
+DRUG_4053	Quinoline and quinazoline derivative 3
+DRUG_4054	Lorglumide
+DRUG_4055	TA-270
+DRUG_4056	Risotilide
+DRUG_4057	4-Benzenesulfonyl-1-phenethyl-piperidine
+DRUG_4058	Lanosterol
+DRUG_4059	HP-184
+DRUG_4060	MP-0112
+DRUG_4061	ATI-2042
+DRUG_4062	Seratrodast
+DRUG_4063	1,2-bis(2-fluorophenyl)ethane-1,2-dione
+DRUG_4064	PMID26004420-Compound-U2014S0288042C
+DRUG_4065	(R)-6-(2-(2-methylpyrrolidin-1-yl)ethyl)quinoline
+DRUG_4066	2'-Deoxyuridine
+DRUG_4067	L-Nw-nitroarginine
+DRUG_4068	6-Bromo-2-(3-nitro-phenyl)-chromen-4-one
+DRUG_4069	SCH-442416
+DRUG_4070	MBX-8025
+DRUG_4071	2,4-Diamino-6-Phenyl-5,6,7,8,-Tetrahydropteridine
+DRUG_4072	3-Hydroxy-6-methyl-1H-benzo[b]azepine-2,5-dione
+DRUG_4073	2-Phenyl-6H-pyrazolo[1,5-c]quinazolin-5-one
+DRUG_4074	PITAVASTATIN CALCIUM
+DRUG_4075	RO-25-6981
+DRUG_4076	TEBUFELONE
+DRUG_4077	FPA144
+DRUG_4078	2,6-diphenyl-9H-purine
+DRUG_4079	3-butoxycarbonyl-6-ethyl-4-quinolone
+DRUG_4080	UR-8225
+DRUG_4081	LY3200882
+DRUG_4082	Affinitak + Cisplatin
+DRUG_4083	(1R)-1,2,2-TRIMETHYLPROPYL (R)-METHYLPHOSPHINATE
+DRUG_4084	[125I]PTA-OH
+DRUG_4085	L-Glutamic Acid
+DRUG_4086	D[Arg4]AVP
+DRUG_4087	INS-117548
+DRUG_4088	Benzyl-(9H-beta-carbolin-6-yl)-amine
+DRUG_4089	27-hydroxycholesterol
+DRUG_4090	ISIS 114372
+DRUG_4091	Indoline derivative 17
+DRUG_4092	3-ethoxycarbonyl-6-ethyl-2-methyl-4-quinolone
+DRUG_4093	2-(benzyloxy)naphthalene
+DRUG_4094	Neramexane
+DRUG_4095	Quinazoline derivative 13
+DRUG_4096	N-oleoylethanolamide
+DRUG_4097	ME0328
+DRUG_4098	PMID19456099C13
+DRUG_4099	2,2,2-tris-(3-fluorophenyl)-acetamide
+DRUG_4100	Poly-substituted azoles statin lactone derivative 2
+DRUG_4101	viral macrophage inflammatory protein-II
+DRUG_4102	BMS-986020
+DRUG_4103	2-amino-N-benzyl-6-phenyl-9H-purine-9-carboxamide
+DRUG_4104	Taprenepag
+DRUG_4105	UP-116-77
+DRUG_4106	esuberaprost
+DRUG_4107	N6-methoxy-2-phenylethynyladenosine
+DRUG_4108	BI-836880
+DRUG_4109	5,7-dibromo-9H-pyrido[3,4-b]indol-6-ol
+DRUG_4110	9-(4-nitrobenzyl)-6-(furan-2-yl)-9H-purin-2-amine
+DRUG_4111	1,1,1-trifluorododecan-2-one
+DRUG_4112	CVX 096
+DRUG_4113	LLZ16407
+DRUG_4114	R-68151
+DRUG_4115	ONO-9780307
+DRUG_4116	AR-12
+DRUG_4117	AZD7624
+DRUG_4118	A-348441
+DRUG_4119	3,6-Di-pyridin-4-yl-pyrazolo[1,5-a]pyrimidine
+DRUG_4120	AZD9567
+DRUG_4121	Farletuzumab
+DRUG_4122	Edaglitazone
+DRUG_4123	3-aminobenzamide
+DRUG_4124	3-(2-Amino-ethyl)-5-imino-[1,4]oxazepane
+DRUG_4125	Juvidex
+DRUG_4126	EBIO
+DRUG_4127	PMID25991433-Compound-J6
+DRUG_4128	5-(4-Phenylbutoxy)psoralen
+DRUG_4129	PMID7966163C4e
+DRUG_4130	Flavonoid derivative 8
+DRUG_4131	2,2-bis-(3-fluorophenyl)-2-phenylacetamide
+DRUG_4132	LAROPIPRANT
+DRUG_4133	AC-3174
+DRUG_4134	7-chloro-3-hydroxyquinazoline-2,4-dione
+DRUG_4135	C[Glu22-Lys26][Gly8]GLP-1(7-37)-NH2
+DRUG_4136	carbacyclin
+DRUG_4137	DuP-129
+DRUG_4138	Acecainide
+DRUG_4139	Poly-substituted miazine derivative 1
+DRUG_4140	Phenoxodiol
+DRUG_4141	AMT-050
+DRUG_4142	4-cyclopentyliden(4-hydroxyphenyl)methylphenol
+DRUG_4143	1-[(3-Methoxybenzyl)amino]ethaniminium chloride
+DRUG_4144	Hydrohalisulfate 1
+DRUG_4145	5S-HETE
+DRUG_4146	4-(1H-indol-5-yloxy)-5-styrylnicotinonitrile
+DRUG_4147	Isoquinoline-3-carboxylic acid methyl ester
+DRUG_4148	Taspoglutide
+DRUG_4149	TP-680
+DRUG_4150	2-(2-cyclohexyl-4-fluorophenoxy)acetic acid
+DRUG_4151	CALCEOLARIOSIDE B
+DRUG_4152	8-Bromo-9-(sec-butyl)-9H-adenine
+DRUG_4153	INCB01158
+DRUG_4154	8-methyl-2-morpholino-7-phenoxy-4H-chromen-4-one
+DRUG_4155	PF-5177624
+DRUG_4156	1-(9H-beta-Carbolin-3-yl)-ethanone
+DRUG_4157	PMID8709131C2a (+)
+DRUG_4158	Adenosine-5'-Diphosphate
+DRUG_4159	N,N-dimethyl-2,2,2-triphenylacetamide
+DRUG_4160	NSC-23180
+DRUG_4161	PMID24900749C1a
+DRUG_4162	tagitinin A
+DRUG_4163	BPL-001
+DRUG_4164	GI-248573
+DRUG_4165	LY2109761
+DRUG_4166	Xilonix
+DRUG_4167	2-Amino-4,6-diphenyl-pyrimidine
+DRUG_4168	PMID1656041C4rr
+DRUG_4169	N-Hydroxy-3-naphthalen-2-yl-N-phenyl-acrylamide
+DRUG_4170	2-methoxy-3,4-methylenedioxybenzophenone
+DRUG_4171	SR-47063
+DRUG_4172	Atorvastatin lactole derivative 1
+DRUG_4173	[3H]CPP
+DRUG_4174	AZD6423
+DRUG_4175	2-amino-4,6-dimethylpyridine
+DRUG_4176	4-Phosphonomethyl-piperidine-2-carboxylic acid
+DRUG_4177	EQ-1280
+DRUG_4178	PMID27539678-Compound-11
+DRUG_4179	N6-CYCLOPENTYLADENOSINE
+DRUG_4180	Bevacizumab + Trastuzumab
+DRUG_4181	Dezinamide
+DRUG_4182	Avasimibe
+DRUG_4183	(1H-Imidazo[4,5-c]quinolin-4-yl)-phenyl-amine HCl
+DRUG_4184	PMID12238936C3a
+DRUG_4185	GSK683699
+DRUG_4186	Benzothiazine-carboxamide compound 4
+DRUG_4187	4-amino-2-p-tolylisoindoline-1,3-dione
+DRUG_4188	Thiazolidinedione
+DRUG_4189	Testosterone glucoside
+DRUG_4190	CV-6504
+DRUG_4191	1-Benzyl-2-methyl-1H-imidazole
+DRUG_4192	BMS-753493
+DRUG_4193	N-(2,4-Dichloro-benzoyl)-benzenesulfonamide
+DRUG_4194	5,7-Dichloro-1,4-dihydro-quinoxaline-2,3-dione
+DRUG_4195	Indirubin-3-methoxime
+DRUG_4196	Carboprost Tromethamine
+DRUG_4197	Glipizide
+DRUG_4198	3-(Benzyloxy)Pyridin-2-Amine
+DRUG_4199	Ridine-5-carboxylic acid ethyl ester
+DRUG_4200	Moxidectin 
+DRUG_4201	3-(hexa-1,3-dienyloxy)-9H-pyrido[3,4-b]indole
+DRUG_4202	UCB-1277763
+DRUG_4203	2-phenyl-1,1-di(pyridin-3-yl)ethanol
+DRUG_4204	Olprinone
+DRUG_4205	KC-11404
+DRUG_4206	Bemarituzumab
+DRUG_4207	L-Homoarginine
+DRUG_4208	3-(4-methoxybenzyloxy)-2-phenylthiazolidin-4-one
+DRUG_4209	Acadesine
+DRUG_4210	Quinoline and quinazoline derivative 5
+DRUG_4211	BW B218C
+DRUG_4212	4-Methyl-pyrrolidin-(2Z)-ylideneamine
+DRUG_4213	Benzothiazine-carboxamide compound 6
+DRUG_4214	5-chloro-1H-indole-2,3-dione
+DRUG_4215	1,2-Dihydroxy-10H-anthracen-9-one
+DRUG_4216	Bevacizumab + Erlotinib
+DRUG_4217	Benzoic acid 2,6-diisopropyl-phenyl ester
+DRUG_4218	Y-9680
+DRUG_4219	8-Bromo-9-isopropyl-9H-adenine
+DRUG_4220	PMID25772215-Compound-US02014179750M3
+DRUG_4221	5-Ethyl-4-propyl-pyrrolidin-(2Z)-ylideneamine
+DRUG_4222	PMX-53
+DRUG_4223	Zadaxin/lamivudine
+DRUG_4224	1,1,1-trifluoro-3-(octylthio)propan-2-one
+DRUG_4225	CEP-11981
+DRUG_4226	Pixykine
+DRUG_4227	N-(4-Ethylphenyl)benzo[d]oxazol-2-amine
+DRUG_4228	4-Ethyl-3-methyl-pyrrolidin-(2Z)-ylideneamine
+DRUG_4229	D[D-3-Pal2]AVP
+DRUG_4230	RO-316233
+DRUG_4231	ISIS 105989
+DRUG_4232	BVT.2733
+DRUG_4233	3-Morpholin-4-ylmethyl-5H-phenanthridin-6-one
+DRUG_4234	SRX-251
+DRUG_4235	PTX-200
+DRUG_4236	6-ethyl-3-i-propoxycarbonyl-4-quinolone
+DRUG_4237	Murepavadin
+DRUG_4238	Quinoline derivative 11
+DRUG_4239	7-Iodo-1,5-dihydro-imidazo[2,1-b]quinazolin-2-one
+DRUG_4240	3-Prop-1-ynylquinoline-8-carboxamide
+DRUG_4241	Azepan-(2Z)-ylideneamine
+DRUG_4242	2-(3''-(5''-iodo-indolyl)ethyloxy)adenosine
+DRUG_4243	2-(4-methyl-1H-benzo[d]imidazol-2-yl)quinoxaline
+DRUG_4244	NDT9520492
+DRUG_4245	SC-52012
+DRUG_4246	Polynoma-1
+DRUG_4247	Ro092210
+DRUG_4248	2-methoxy-4-(2-methoxyphenylthio)benzonitrile
+DRUG_4249	L-703014
+DRUG_4250	2,4-bis-docosanoylamino-benzenesulfonate
+DRUG_4251	4-Chloro-3-hydroxy-1H-quinolin-2-one
+DRUG_4252	1-(2-adamantyl)-3-benzylpyrrolidin-2-one
+DRUG_4253	PMID19191557C35
+DRUG_4254	(+)-(5S,8S,10S)-20-methoxypuupehenol
+DRUG_4255	S-9947
+DRUG_4256	PMID25991433-Compound-J1
+DRUG_4257	6-amino-4-trifluoromethylquinolin-2(1H)-one
+DRUG_4258	4-(4-(dec-1-ynyl)phenyl)-4-oxobutanoic acid
+DRUG_4259	Asp-Tyr(SO3H)-Met-Gly-Trp-Met-Asp-Phe-NH2
+DRUG_4260	C[Glu18-Lys22][Gly8]GLP-1(7-37)-NH2
+DRUG_4261	PMID18155906C16f
+DRUG_4262	5-tert-Butyl-2-(4-ethynyl-phenyl)-[1,3]dithiane
+DRUG_4263	SR-27950
+DRUG_4264	(4S,5R)-4,5-Diethyl-oxazolidin-(2Z)-ylideneamine
+DRUG_4265	2-(4-Butoxy-phenyl)-N-hydroxy-N-methyl-acetamide
+DRUG_4266	PMID27841036-Compound-38
+DRUG_4267	(Z)-5-octadecen-7,9-diynoic acid
+DRUG_4268	5-isopropyl-2-(phenylamino)thiazol-4(5H)-one
+DRUG_4269	4-(butylthio)-2-methoxybenzonitrile
+DRUG_4270	3-Methoxy-9H-beta-carboline
+DRUG_4271	KH-902
+DRUG_4272	2-(4-hydroxylphenyl)-3-(3,5-dihydroxylphenyl) propenoic acid (NNU-hdpa)
+DRUG_4273	2-Propanol, Isopropanol
+DRUG_4274	6-(4-Fluoro-phenylsulfanyl)-9H-purine
+DRUG_4275	4,5,7-Trichloro-3-hydroxy-1H-quinolin-2-one
+DRUG_4276	5-propyl-2'-deoxyuridine
+DRUG_4277	2-(4-Chloro-phenyl)-3H-imidazo[4,5-c]quinoline
+DRUG_4278	4-(1H-IMIDAZOL-1-YL)PHENOL
+DRUG_4279	5,7-Dibromo-1,4-dihydro-quinoxaline-2,3-dione
+DRUG_4280	THYMELEATOXIN
+DRUG_4281	PMID26004420-Compound-US20140031349A
+DRUG_4282	1-(2-amino-benzothiazol-5-yl)-2-ethyl-isothiourea
+DRUG_4283	ENDIANDRIN A
+DRUG_4284	BMY-30129
+DRUG_4285	1,2-bis(2-fluorophenyl)-2-hydroxyethanone
+DRUG_4286	dodecyl-thiophosphate
+DRUG_4287	DL-3
+DRUG_4288	Debio-0824
+DRUG_4289	C[Asp22-Lys26][Gly8]GLP-1(7-37)-NH2
+DRUG_4290	2-(3-(naphthalen-2-yl)propanamido)benzoic acid
+DRUG_4291	AMG7703
+DRUG_4292	Quinoline and quinazoline derivative 7
+DRUG_4293	Asp-Tyr(OSO3H)-Met-Gly-Trp-Met-Asp-Phe
+DRUG_4294	N6-methoxy-2-[(3-pyridinyl)ethynyl]-adenosine
+DRUG_4295	1-(2-(2-(DIFLUOROMETHOXY)PHENYL)-1-PHENYLETHYL)PIPERAZINE (ENANTIOMERIC MIX)
+DRUG_4296	mast cell degranulating peptide
+DRUG_4297	Cholic Acid
+DRUG_4298	Clinprost
+DRUG_4299	1-(4-ethylphenylsulfonyl)-4-phenylazepan-4-ol
+DRUG_4300	CER-001
+DRUG_4301	2-(4-Chlorophenyl)-2H-indazole-7-carboxamide
+DRUG_4302	9-Ethyl-9H-adenine
+DRUG_4303	2,6-diphenyl-8-methyl-1-deazapurine
+DRUG_4304	VL-0699
+DRUG_4305	6-ethyl-3-(3-pentoxycarbonyl)-4-quinolone
+DRUG_4306	RG-7351
+DRUG_4307	JNJ-10392980
+DRUG_4308	SKF-104351
+DRUG_4309	5,7-Dichloro-4-hydroxy-3-phenyl-1H-quinolin-2-one
+DRUG_4310	9-Methyl-9H-adenine
+DRUG_4311	H-Tyr-D-Ala-Gly-Phe-NH-NH-D-Trp-Nle-Asp-Phe-H
+DRUG_4312	ABI-011
+DRUG_4313	L-Tryptophan-L-glutamine
+DRUG_4314	4-(m-tolyloxy)-2-(trifluoromethyl)benzonitrile
+DRUG_4315	A-87049
+DRUG_4316	EP-128504
+DRUG_4317	Hexanoic acid 2,5-diphenyl-thiazol-4-yl ester
+DRUG_4318	NSC-73613
+DRUG_4319	D[Arg4,Dab8]VP
+DRUG_4320	Pravastatin
+DRUG_4321	PMID25416646-Compound-Figure5-C
+DRUG_4322	4-[2-(4-Benzyl-piperidin-1-yl)-ethoxy]-phenol
+DRUG_4323	Acid-activated omeprazole
+DRUG_4324	2-(4-Methoxy-phenyl)-8-methyl-3H-quinazolin-4-one
+DRUG_4325	LY2944876
+DRUG_4326	CCX915
+DRUG_4327	2-(o-toluidino)-5-isopropylthiazol-4(5H)-one
+DRUG_4328	3-Carbamoyl-6-chloro-1H-indole-2-carboxylic acid
+DRUG_4329	PMID18412317C13b
+DRUG_4330	2-(2-(biphenyl-4-yl)ethylsulfinyl)acetic acid
+DRUG_4331	YM-57158
+DRUG_4332	NTE-122
+DRUG_4333	GT-16-239
+DRUG_4334	ARRY-502
+DRUG_4335	HONOKIOL
+DRUG_4336	Sodium bicarbonate
+DRUG_4337	ASP-0777
+DRUG_4338	NSC-651016
+DRUG_4339	Multi-epitope peptide melanoma vaccine
+DRUG_4340	FR167653
+DRUG_4341	N,N'-Bis-(4-butoxy-phenyl)-guanidine
+DRUG_4342	Acenanthrene-9,10-dione
+DRUG_4343	SPONGIADIOXIN A
+DRUG_4344	PELITREXOL
+DRUG_4345	Imidazo[1,2-b]pyridazine derivative 1
+DRUG_4346	4-Amino-2,6-diphenyl-pyrimidine-5-carbonitrile
+DRUG_4347	L-698544
+DRUG_4348	N-oxo-2-(phenylsulfonylamino)ethanamide
+DRUG_4349	RP-66471
+DRUG_4350	Sucralfate
+DRUG_4351	Opterone
+DRUG_4352	Ragaglitazar
+DRUG_4353	isoamylamine
+DRUG_4354	Divaplon
+DRUG_4355	MRL20
+DRUG_4356	PMID25772215-Compound-US02014179750M2
+DRUG_4357	BF-389
+DRUG_4358	1,2-Di-naphthalen-2-yl-ethane-1,2-dione
+DRUG_4359	Indapamide
+DRUG_4360	isobutylmethylxanthine
+DRUG_4361	CyPPA
+DRUG_4362	(R)-3-(1'-Adamantanecarbonyl)amino-caprolactam
+DRUG_4363	Benzothiazine-carboxamide compound 2
+DRUG_4364	2-MOE phosphorothioate gapmers (myotonic dystrophy), Genzyme/Isis Pharmaceuticals
+DRUG_4365	6-(Dihydroxy-Isobutyl)-Thymine
+DRUG_4366	deoxycorticosterone
+DRUG_4367	AG2034
+DRUG_4368	INO-1002
+DRUG_4369	447C88
+DRUG_4370	SUN-N8075
+DRUG_4371	FPL-62064
+DRUG_4372	2-Phenyl-5,6-dihydro-pyrazolo[1,5-c]quinazoline
+DRUG_4373	Dicarba-Closo-Dodecaborane analogue
+DRUG_4374	(-)-3,3'-bisdemethylpinoresinol
+DRUG_4375	Sotrastaurin acetate
+DRUG_4376	VU591
+DRUG_4377	2-tolyl-6-phenyl-9H-purine
+DRUG_4378	MPL-S
+DRUG_4379	SQ-30741
+DRUG_4380	Methyl 2-(4-chloro-2-cyclohexylphenoxy)acetate
+DRUG_4381	Monoctanoin component C
+DRUG_4382	SB-281832
+DRUG_4383	PMID7966163C6g
+DRUG_4384	PMID27537201-Compound-Figure13b
+DRUG_4385	ARISTEROMYCIN
+DRUG_4386	N-(5-methylthiazol-2-yl)benzamide
+DRUG_4387	2-Pyridin-3-ylmethyl-1,2-dihydro-indazol-3-one
+DRUG_4388	2-(benzylamino)-5,5-diethyloxazol-4(5H)-one
+DRUG_4389	Sterol derivative 2
+DRUG_4390	ZM-336372
+DRUG_4391	SB-208651
+DRUG_4392	AZD8329
+DRUG_4393	Bicuculline
+DRUG_4394	L023103
+DRUG_4395	KSG-504
+DRUG_4396	4-fluorophenyl-2,2-diphenylacetamide
+DRUG_4397	GR-144053
+DRUG_4398	1,3-Diethyl-3,7-dihydro-purine-2,6-dione
+DRUG_4399	PMID18754614C4
+DRUG_4400	1,2-bis(2,3,4-trifluorophenyl)ethane-1,2-dione
+DRUG_4401	tirotundin
+DRUG_4402	1-[6-(triphenylmethoxy)hexyl]thymine
+DRUG_4403	LYCOGARUBIN B
+DRUG_4404	Antiandrogens
+DRUG_4405	Acetic acid 2-phenyl-5-propyl-thiazol-4-yl ester
+DRUG_4406	TAK-218
+DRUG_4407	Clonazepam
+DRUG_4408	Imidazopyridazine derivative 7
+DRUG_4409	4-(cyclopropylmethylthio)-2-methoxybenzonitrile
+DRUG_4410	CER-522
+DRUG_4411	Bimakalim
+DRUG_4412	9-Methyl-8-[1,2,3]triazol-2-yl-9H-purin-6-ylamine
+DRUG_4413	FR-208419
+DRUG_4414	4-Pentadeca-1,3,6-trienylsulfanyl-butyric acid
+DRUG_4415	T-226296
+DRUG_4416	8-Hydroxy-2-(4-nitro-phenyl)-3H-quinazolin-4-one
+DRUG_4417	2-Amino-4,6-di-thiophen-2-yl-nicotinonitrile
+DRUG_4418	CP-533536
+DRUG_4419	andarine
+DRUG_4420	GR-328713
+DRUG_4421	D[Orn4]AVP
+DRUG_4422	GLPTGG
+DRUG_4423	CMI-392
+DRUG_4424	PMID29130358-Compound-Figure17(12)
+DRUG_4425	Ethylestrenol
+DRUG_4426	ISIS 6435
+DRUG_4427	1-(Benzhydrylamino)ethaniminium bromide
+DRUG_4428	2-(2-acetyl-4-bromophenoxy)acetic acid
+DRUG_4429	Mavrilimumab
+DRUG_4430	BEMORADAN
+DRUG_4431	pristanic acid
+DRUG_4432	Vitamin B3
+DRUG_4433	LUF-5437
+DRUG_4434	AEB07
+DRUG_4435	LUF-5981
+DRUG_4436	VULM-1457
+DRUG_4437	SNS-314 prodrugs
+DRUG_4438	PD-140723
+DRUG_4439	3-Biphenyl-4-yl-N-hydroxy-N-methyl-acrylamide
+DRUG_4440	Ro-15-3505
+DRUG_4441	RBx10558
+DRUG_4442	Heme
+DRUG_4443	CCX-168
+DRUG_4444	2-(2-(4-tert-butylphenoxy)acetamido)benzoic acid
+DRUG_4445	Imidazopyridazine derivative 5
+DRUG_4446	ZYH-7
+DRUG_4447	Gantofiban
+DRUG_4448	Glycyl-H 1152
+DRUG_4449	C[hGlu22-Lys26][Gly8]GLP-1(7-37)-NH2
+DRUG_4450	H-Tyr-D-Ala-Gly-Phe-NH-NH-Phe-Asp-Nle-Trp-Boc
+DRUG_4451	3-methoxy-N-(4-methylthiazol-2-yl)benzamide
+DRUG_4452	3-Hydroxy-1H-benzo[b]azepine-2,5-dione
+DRUG_4453	YM-099
+DRUG_4454	FR-171113
+DRUG_4455	Poly-substituted azoles statin lactone derivative 1
+DRUG_4456	Eflucimibe
+DRUG_4457	CRT-0004592
+DRUG_4458	Lactol derivative 2
+DRUG_4459	PMID2231594C3u
+DRUG_4460	PMID18752940C9n
+DRUG_4461	Niraparib Tosylate
+DRUG_4462	5-Chloro-N-phenylbenzo[d]oxazol-2-amine
+DRUG_4463	UCL-2000 and butabindide
+DRUG_4464	ATORVASTATIN
+DRUG_4465	SULFASALAZINE
+DRUG_4466	ZILEUTON
+DRUG_4467	DIETHYLCARBAMAZINE
+DRUG_4468	MESALAMINE
+DRUG_4469	MECLOFENAMATE SODIUM
+DRUG_4470	PF-4191834
+DRUG_4471	BALSALAZIDE DISODIUM
+DRUG_4472	BALSALAZIDE
+DRUG_4473	OLSALAZINE SODIUM
+DRUG_4474	MONTELUKAST
+DRUG_4475	5-OXO-ETE
+DRUG_4476	METHOTREXATE
+DRUG_4477	MELATONIN
+DRUG_4478	CHEMBL502496
+DRUG_4479	TEPOXALIN
+DRUG_4480	ATRELEUTON
+DRUG_4481	TENIDAP
+DRUG_4482	TIPELUKAST
+DRUG_4483	6BIO
+DRUG_4484	DARBUFELONE
+DRUG_4485	CHEMBL416038
+DRUG_4486	RILOPIROX
+DRUG_4487	LICOFELONE
+DRUG_4488	SILYBIN A
+DRUG_4489	ACACETIN
+DRUG_4490	ATEZOLIZUMAB
+DRUG_4491	DIAZOXIDE
+DRUG_4492	ACETAMINOPHEN
+DRUG_4493	ADRIAMYCIN
+DRUG_4494	GINKGO
+DRUG_4495	LYCOPENE
+DRUG_4496	METHIMAZOLE
+DRUG_4497	FADROZOLE
+DRUG_4498	SPIRONOLACTONE
+DRUG_4499	STREPTOZOCIN
+DRUG_4500	SAQUINAVIR
+DRUG_4501	CARBENOXOLONE
+DRUG_4502	OCTANOL
+DRUG_4503	BERKELEYACETAL A
+DRUG_4504	MARIMASTAT
+DRUG_4505	LISINOPRIL
+DRUG_4506	PRINOMASTAT
+DRUG_4507	CGS-27023A
+DRUG_4508	PRAVASTATIN
+DRUG_4509	BERKELEYACETAL B
+DRUG_4510	CHEMBL117225
+DRUG_4511	BERKELEYAMIDE C
+DRUG_4512	BERKELEYACETAL C
+DRUG_4513	BERKELEYAMIDE B
+DRUG_4514	CHLORTHALIDONE
+DRUG_4515	BERKELEYDIONE
+DRUG_4516	BERKELEYTRIONE
+DRUG_4517	BATIMASTAT
+DRUG_4518	BENSULIDE
+DRUG_4519	TREPROSTINIL
+DRUG_4520	OXEGLITAZAR
+DRUG_4521	SHINPTEROCARPIN
+DRUG_4522	MK-0533
+DRUG_4523	DICHLOROPHEN
+DRUG_4524	BARDOXOLONE METHYL
+DRUG_4525	FLUDIOXONIL
+DRUG_4526	ABIETIC ACID
+DRUG_4527	GENTIAN VIOLET
+DRUG_4528	AMORFRUTIN A
+DRUG_4529	INT131
+DRUG_4530	KANZONOL W
+DRUG_4531	CHEMBL312032
+DRUG_4532	GW7845
+DRUG_4533	ARHALOFENATE
+DRUG_4534	PATULIN
+DRUG_4535	ROTENONE
+DRUG_4536	FARGLITAZAR
+DRUG_4537	ROSIGLITAZONE
+DRUG_4538	TETRADECYLTHIOACETIC ACID
+DRUG_4539	AVE0847
+DRUG_4540	PIOGLITAZONE
+DRUG_4541	CIGLITAZONE
+DRUG_4542	LY-510929
+DRUG_4543	REGLITAZAR
+DRUG_4544	KEPONE
+DRUG_4545	FLUORODIFEN
+DRUG_4546	SEIMATOPOLIDE A
+DRUG_4547	INDEGLITAZAR
+DRUG_4548	FENOFIBRIC ACID
+DRUG_4549	CHEMBL1834951
+DRUG_4550	ELATOSIDE D
+DRUG_4551	RIVOGLITAZONE
+DRUG_4552	ZAFIRLUKAST
+DRUG_4553	TIROTUNDIN
+DRUG_4554	TROGLITAZONE
+DRUG_4555	DIMETHENAMID
+DRUG_4556	FLUOXASTROBIN
+DRUG_4557	RAGAGLITAZAR
+DRUG_4558	EFATUTAZONE HYDROCHLORIDE
+DRUG_4559	INDOMETHACIN
+DRUG_4560	KANZONOL X
+DRUG_4561	3R14S-OCHRATOXIN A
+DRUG_4562	MURAGLITAZAR
+DRUG_4563	METHOXYCHLOR
+DRUG_4564	NAVEGLITAZAR
+DRUG_4565	CLX-0921
+DRUG_4566	PROPYLPYRAZOLETRIOL
+DRUG_4567	ALEGLITAZAR
+DRUG_4568	ETALOCIB
+DRUG_4569	GSK-9578
+DRUG_4570	IPRODIONE
+DRUG_4571	L-796449
+DRUG_4572	CHEMBL2178596
+DRUG_4573	GW501516
+DRUG_4574	IMIGLITAZAR
+DRUG_4575	NETOGLITAZONE
+DRUG_4576	9,10-PHENANTHRENEQUINONE
+DRUG_4577	GLABROL
+DRUG_4578	TRIFLOXYSTROBIN
+DRUG_4579	CHEMBL375270
+DRUG_4580	L-165461
+DRUG_4581	GW7647
+DRUG_4582	DB959
+DRUG_4583	ALDICARB
+DRUG_4584	PHENOLPHTHALEIN
+DRUG_4585	TESAGLITAZAR
+DRUG_4586	BALAGLITAZONE
+DRUG_4587	SODELGLITAZAR
+DRUG_4588	MBX-2044
+DRUG_4589	ATX08-001
+DRUG_4590	PROSTAGLANDIN D2
+DRUG_4591	CELECOXIB
+DRUG_4592	CHEMBL1833984
+DRUG_4593	CHEMBL202243
+DRUG_4594	ENOXOLONE
+DRUG_4595	CHEMBL2208195
+DRUG_4596	TECNAZENE
+DRUG_4597	METAGLIDASEN
+DRUG_4598	PROCHLORAZ
+DRUG_4599	NALED
+DRUG_4600	ISOSILYBIN A
+DRUG_4601	E319
+DRUG_4602	CHEMBL599165
+DRUG_4603	MYCOPHENOLIC ACID
+DRUG_4604	CHEMBL2208196
+DRUG_4605	HESPERETIN
+DRUG_4606	DICLOFENAC
+DRUG_4607	CHLORFENAPYR
+DRUG_4608	ESTRADIOL
+DRUG_4609	RALOXIFENE HYDROCHLORIDE
+DRUG_4610	GANCAONIN L
+DRUG_4611	PIOGLITAZONE HYDROCHLORIDE
+DRUG_4612	EDAGLITAZONE
+DRUG_4613	CHEMBL2057864
+DRUG_4614	MK-0767
+DRUG_4615	BEXAROTENE
+DRUG_4616	GLYBURIDE
+DRUG_4617	OLANZAPINE
+DRUG_4618	PROPYLPARABEN
+DRUG_4619	BARDOXOLONE
+DRUG_4620	GLITAZONE
+DRUG_4621	CHEMBL184450
+DRUG_4622	THIAZOLIDINEDIONE
+DRUG_4623	EFATUTAZONE
+DRUG_4624	ROSIGLITAZONE MALEATE
+DRUG_4625	RESVERATROL
+DRUG_4626	OMS405
+DRUG_4627	ECHINATIN
+DRUG_4628	CHEMBL2178586
+DRUG_4629	PHENOTHIAZINE
+DRUG_4630	2-PHENYLPHENOL
+DRUG_4631	CHEMBL434063
+DRUG_4632	LOBEGLITAZONE
+DRUG_4633	APIGENIN
+DRUG_4634	ZOLEDRONIC ACID
+DRUG_4635	CHEMBL2208197
+DRUG_4636	CHEMBL166112
+DRUG_4637	CHEMBL410478
+DRUG_4638	ASPIRIN
+DRUG_4639	GLABRONE
+DRUG_4640	PSAMMAPLIN A
+DRUG_4641	MITOGLITAZONE
+DRUG_4642	SHINFLAVANONE
+DRUG_4643	BENZBROMARONE
+DRUG_4644	LEVOTHYROXINE
+DRUG_4645	LICOFLAVANONE A
+DRUG_4646	PHENAMIPHOS
+DRUG_4647	METHYLTHIONINIUM CHLORIDE
+DRUG_4648	CHEMBL2178583
+DRUG_4649	ANAKINRA
+DRUG_4650	NAPROXEN
+DRUG_4651	CARLUMAB
+DRUG_4652	BINDARIT
+DRUG_4653	RISPERIDONE
+DRUG_4654	GENISTEIN
+DRUG_4655	SIMVASTATIN
+DRUG_4656	GELDANAMYCIN
+DRUG_4657	ATORVASTATIN CALCIUM
+DRUG_4658	LOVASTATIN
+DRUG_4659	PITAVASTATIN CALCIUM
+DRUG_4660	ROSUVASTATIN CALCIUM
+DRUG_4661	FLUVASTATIN SODIUM
+DRUG_4662	PITAVASTATIN
+DRUG_4663	CERIVASTATIN
+DRUG_4664	ROSUVASTATIN
+DRUG_4665	FLUVASTATIN
+DRUG_4666	CERIVASTATIN SODIUM
+DRUG_4667	PRAVASTATIN SODIUM
+DRUG_4668	MEVASTATIN
+DRUG_4669	TERIFLUNOMIDE
+DRUG_4670	LAROPIPRANT
+DRUG_4671	TOCOTRIENOL
+DRUG_4672	CRILVASTATIN
+DRUG_4673	PHENYLBUTAZONE
+DRUG_4674	LEUCOVORIN
+DRUG_4675	BIMOSIAMOSE
+DRUG_4676	FLUOROURACIL
+DRUG_4677	CAPECITABINE
+DRUG_4678	RIVIPANSEL
+DRUG_4679	UPROLESELAN
+DRUG_4680	SIALYL LEWIS X
+DRUG_4681	OXALIPLATIN
+DRUG_4682	SQUALAMINE
+DRUG_4683	FENOFIBRATE
+DRUG_4684	AFLIBERCEPT
+DRUG_4685	BEVACIZUMAB
+DRUG_4686	ZALTRAP
+DRUG_4687	SORAFENIB
+DRUG_4688	CARBOPLATIN
+DRUG_4689	ELMIRON
+DRUG_4690	SUNITINIB
+DRUG_4691	MUPARFOSTAT
+DRUG_4692	OSI-632
+DRUG_4693	RANIBIZUMAB
+DRUG_4694	BEVACIZUMAB 111IN
+DRUG_4695	IRINOTECAN
+DRUG_4696	REGORAFENIB
+DRUG_4697	ABICIPAR PEGOL
+DRUG_4698	CONBERCEPT
+DRUG_4699	BROLUCIZUMAB
+DRUG_4700	LENALIDOMIDE
+DRUG_4701	NAVICIXIZUMAB
+DRUG_4702	DOMATINOSTAT
+DRUG_4703	PEGAPTANIB SODIUM
+DRUG_4704	DOCETAXEL
+DRUG_4705	PHENYTOIN
+DRUG_4706	SILDENAFIL
+DRUG_4707	GENTAMICIN
+DRUG_4708	BEVASIRANIB
+DRUG_4709	CDC-801
+DRUG_4710	CILOSTAZOL
+DRUG_4711	CISPLATIN
+DRUG_4712	MP-0250
+DRUG_4713	RISUTEGANIB
+DRUG_4714	ENALAPRIL
+DRUG_4715	AZD-1236
+DRUG_4716	ACETAZOLAMIDE
+DRUG_4717	ILOMASTAT
+DRUG_4718	DEFEROXAMINE
+DRUG_4719	CAPTOPRIL
+DRUG_4720	RG-1512
+DRUG_4721	CRIZANLIZUMAB
+DRUG_4722	INCLACUMAB
+DRUG_4723	TORAPSEL
+DRUG_4724	PSI-697
+DRUG_4725	CHEMBL1093266
+DRUG_4726	BMS-779788
+DRUG_4727	CHEMBL493241
+DRUG_4728	CS-8080
+DRUG_4729	DESMOSTEROL
+DRUG_4730	CHEMBL59030
+DRUG_4731	T091317
+DRUG_4732	HYODEOXYCHOLIC_ACID
+DRUG_4733	ROVAZOLAC
+DRUG_4734	LXR-623
+DRUG_4735	BMS-852927
+DRUG_4736	CHEMBL2204435
+DRUG_4737	GEFITINIB
+DRUG_4738	CHEMBL1243244
+DRUG_4739	DALCETRAPIB
+DRUG_4740	EVACETRAPIB
+DRUG_4741	ANACETRAPIB
+DRUG_4742	TORCETRAPIB
+DRUG_4743	CHEMBL1086624
+DRUG_4744	TAMOXIFEN
+DRUG_4745	OBICETRAPIB
+DRUG_4746	BERMEKIMAB
+DRUG_4747	RILONACEPT
+DRUG_4748	AMG-108
+DRUG_4749	HYDROXYCHLOROQUINE
+DRUG_4750	MABP1
+DRUG_4751	VALNIVUDINE HYDROCHLORIDE
+DRUG_4752	RILAPLADIB
+DRUG_4753	PENCICLOVIR
+DRUG_4754	ARGININE BUTYRATE
+DRUG_4755	ZIDOVUDINE
+DRUG_4756	DEOXYCYTIDINE
+DRUG_4757	BUDESONIDE
+DRUG_4758	BETAMETHASONE BENZOATE
+DRUG_4759	METHYLPREDNISOLONE ACETATE
+DRUG_4760	DESOXIMETASONE
+DRUG_4761	HYDROCORTAMATE
+DRUG_4762	CHRYSIN
+DRUG_4763	RIMEXOLONE
+DRUG_4764	FLURANDRENOLIDE
+DRUG_4765	E-GUGGULSTERONE
+DRUG_4766	DIFLORASONE
+DRUG_4767	FOSDAGROCORAT
+DRUG_4768	BECLOMETHASONE DIPROPIONATE
+DRUG_4769	CORTISONE ACETATE
+DRUG_4770	PENTABROMOPHENOL
+DRUG_4771	MOMETASONE
+DRUG_4772	HE3286
+DRUG_4773	TRIAMCINOLONE
+DRUG_4774	FLUNISOLIDE
+DRUG_4775	TESTOSTERONE
+DRUG_4776	PREDNICARBATE
+DRUG_4777	HYDROCORTISONE
+DRUG_4778	METHYLTESTOSTERONE
+DRUG_4779	HYDROCORTISONE BUTYRATE
+DRUG_4780	HYDROCORTISONE CYPIONATE
+DRUG_4781	MEPREDNISONE
+DRUG_4782	CICLESONIDE
+DRUG_4783	BECLOMETHASONE
+DRUG_4784	CHEMBL1915271
+DRUG_4785	TRIAMCINOLONE HEXACETONIDE
+DRUG_4786	BAICALEIN
+DRUG_4787	OUABAIN
+DRUG_4788	PHENYLMERCURIC ACETATE
+DRUG_4789	CLIOQUINOL
+DRUG_4790	CLOBETASOL
+DRUG_4791	HYDROCORTISONE SODIUM PHOSPHATE
+DRUG_4792	METHYLPREDNISOLONE
+DRUG_4793	HYDROCORTISONE SODIUM SUCCINATE
+DRUG_4794	TRIAMCINOLONE DIACETATE
+DRUG_4795	PREDNISOLONE SODIUM PHOSPHATE
+DRUG_4796	PHENACYL CHLORIDE
+DRUG_4797	ORG-34517
+DRUG_4798	DIGOXIN
+DRUG_4799	NIFEDIPINE
+DRUG_4800	FLUOROMETHOLONE
+DRUG_4801	ZEARALENONE
+DRUG_4802	ALCLOMETASONE DIPROPIONATE
+DRUG_4803	PARAMETHASONE ACETATE
+DRUG_4804	FLUOXYMESTERONE
+DRUG_4805	DEXAMETHASONE
+DRUG_4806	MIRICORILANT
+DRUG_4807	CLOBETASOL PROPIONATE
+DRUG_4808	FLUTICASONE PROPIONATE
+DRUG_4809	DAGROCORAT
+DRUG_4810	CYPROTERONE ACETATE
+DRUG_4811	TESTOSTERONE PROPIONATE
+DRUG_4812	PREDNISOLONE
+DRUG_4813	PREDNISOLONE TEBUTATE
+DRUG_4814	HYDROCORTISONE VALERATE
+DRUG_4815	FLUOCINONIDE
+DRUG_4816	PREDNISONE
+DRUG_4817	AMCINONIDE
+DRUG_4818	ANDROSTENEDIONE
+DRUG_4819	BETAMETHASONE SODIUM PHOSPHATE
+DRUG_4820	DIGITOXIN
+DRUG_4821	CLOCORTOLONE
+DRUG_4822	MEDRYSONE
+DRUG_4823	HYDROCORTISONE ACETATE
+DRUG_4824	MIFEPRISTONE
+DRUG_4825	CHEMBL1275761
+DRUG_4826	DEFLAZACORT
+DRUG_4827	DESONIDE
+DRUG_4828	DIFLUPREDNATE
+DRUG_4829	PARAMETHASONE
+DRUG_4830	FLUOROMETHOLONE ACETATE
+DRUG_4831	DEXAMETHASONE ACETATE
+DRUG_4832	BETAMETHASONE VALERATE
+DRUG_4833	ONAPRISTONE
+DRUG_4834	ALCLOMETASONE
+DRUG_4835	BETAMETHASONE
+DRUG_4836	CHEMBL1915270
+DRUG_4837	URSODIOL
+DRUG_4838	DEXAMETHASONE SODIUM PHOSPHATE
+DRUG_4839	BETAMETHASONE DIPROPIONATE
+DRUG_4840	MOMETASONE FUROATE
+DRUG_4841	TRIAMCINOLONE ACETONIDE
+DRUG_4842	VAMOROLONE
+DRUG_4843	CARBAMAZEPINE
+DRUG_4844	FLUTICASONE
+DRUG_4845	HYDROCORTAMATE HYDROCHLORIDE
+DRUG_4846	FLUTICASONE FUROATE
+DRUG_4847	MAPRACORAT
+DRUG_4848	PREDNISOLONE ACETATE
+DRUG_4849	HYDROCORTISONE PROBUTATE
+DRUG_4850	DIBUTYLDICHLOROSTANNANE
+DRUG_4851	CHEMBL259820
+DRUG_4852	STANOLONE
+DRUG_4853	CORT 125134
+DRUG_4854	CHEMBL1915269
+DRUG_4855	CYCLOHEXIMIDE
+DRUG_4856	FLUOCINOLONE ACETONIDE
+DRUG_4857	CORT 108297
+DRUG_4858	HALOBETASOL PROPIONATE
+DRUG_4859	POTASSIUM DICHROMATE 
+DRUG_4860	BENZO(K)FLUORANTHENE
+DRUG_4861	CHEMBL2059711
+DRUG_4862	BETAMETHASONE ACETATE
+DRUG_4863	CATECHOL
+DRUG_4864	CLOCORTOLONE PIVALATE
+DRUG_4865	DIFLORASONE DIACETATE
+DRUG_4866	LOTEPREDNOL ETABONATE
+DRUG_4867	METHYLPREDNISOLONE SODIUM SUCCINATE
+DRUG_4868	FLUPREDNISOLONE
+DRUG_4869	HALCINONIDE
+DRUG_4870	ETHINYL ESTRADIOL
+DRUG_4871	FLUMETHASONE PIVALATE
+DRUG_4872	CHEMBL210411
+DRUG_4873	AZACITIDINE
+DRUG_4874	PROGESTERONE
+DRUG_4875	DACTINOMYCIN
+DRUG_4876	ALDOSTERONE
+DRUG_4877	DEOXY CHOLATE
+DRUG_4878	TOLFENAMIC ACID
+DRUG_4879	CHEMBL528181
+DRUG_4880	RANITIDINE
+DRUG_4881	CETYLPYRIDINIUM BROMIDE
+DRUG_4882	BIFONAZOLE
+DRUG_4883	MANOALIDE
+DRUG_4884	CHEMBL605084
+DRUG_4885	CHENODIOL
+DRUG_4886	ALEXIDINE HYDROCHLORIDE
+DRUG_4887	FENTICLOR
+DRUG_4888	MILTEFOSINE
+DRUG_4889	AMITRIPTYLINE
+DRUG_4890	CHOLIC ACID
+DRUG_4891	CONTEZOLID ACEFOSAMIL
+DRUG_4892	ETOPOSIDE
+DRUG_4893	FP-1039
+DRUG_4894	SUCRALFATE
+DRUG_4895	SIROLIMUS
+DRUG_4896	VINCRISTINE
+DRUG_4897	QUIZARTINIB
+DRUG_4898	THALIDOMIDE
+DRUG_4899	FLUVOXAMINE
+DRUG_4900	ABT-510
+DRUG_4901	REBAMIPIDE
+DRUG_4902	PYRAZOLE
+DRUG_4903	THYROTROPIN
+DRUG_4904	PHENYLEPHRINE
+DRUG_4905	FAMOTIDINE
+DRUG_4906	CAFFEINE
+DRUG_4907	K-134
+DRUG_4908	PENTOXIFYLLINE
+DRUG_4909	THEOPHYLLINE SODIUM GLYCINATE
+DRUG_4910	OLPRINONE
+DRUG_4911	THEOPHYLLINE
+DRUG_4912	ANAGRELIDE
+DRUG_4913	HYDROCHLOROTHIAZIDE
+DRUG_4914	AMINOPHYLLINE
+DRUG_4915	MILRINONE
+DRUG_4916	OXTRIPHYLLINE
+DRUG_4917	DYPHYLLINE
+DRUG_4918	VESNARINONE
+DRUG_4919	BEMORADAN
+DRUG_4920	CILOSTAMIDE
+DRUG_4921	ENOXIMONE
+DRUG_4922	MILRINONE LACTATE
+DRUG_4923	INAMRINONE
+DRUG_4924	INAMRINONE LACTATE
+DRUG_4925	ANAGRELIDE HYDROCHLORIDE
+DRUG_4926	IBUDILAST
+DRUG_4927	DIPYRIDAMOLE
+DRUG_4928	RIGOSERTIB SODIUM
+DRUG_4929	ATOPAXAR
+DRUG_4930	VORAPAXAR SULFATE
+DRUG_4931	VORAPAXAR
+DRUG_4932	ATROPINE
+DRUG_4933	BLEOMYCIN
+DRUG_4934	ALCOHOL
+DRUG_4935	THROMBIN
+DRUG_4936	WORTMANNIN
+DRUG_4937	ARGATROBAN
+DRUG_4938	LEPIRUDIN
+DRUG_4939	MORPHINE
+DRUG_4940	DALTEPARIN
+DRUG_4941	RUSALATIDE
+DRUG_4942	CER-002
+DRUG_4943	TRETINOIN
+DRUG_4944	CHEMBL435278
+DRUG_4945	MBX-8025
+DRUG_4946	CHEMBL592652
+DRUG_4947	CHEMBL153057
+DRUG_4948	BEZAFIBRATE
+DRUG_4949	KD3010
+DRUG_4950	HYMECROMONE
+DRUG_4951	CHEMBL31020
+DRUG_4952	CHEMBL220845
+DRUG_4953	BIFENAZATE
+DRUG_4954	CHEMBL1257022
+DRUG_4955	CLOXYQUIN
+DRUG_4956	CHEMBL2392553
+DRUG_4957	CHEMBL292352
+DRUG_4958	IDEBENONE
+DRUG_4959	FLUOXETINE HYDROCHLORIDE
+DRUG_4960	MOSAPRAMINE
+DRUG_4961	CINACALCET HYDROCHLORIDE
+DRUG_4962	CHEMBL333177
+DRUG_4963	DIFENOCONAZOLE
+DRUG_4964	DINOSEB
+DRUG_4965	SALINAZID
+DRUG_4966	DESLORATADINE
+DRUG_4967	DASATINIB
+DRUG_4968	CLOMIPRAMINE
+DRUG_4969	PAZOPANIB
+DRUG_4970	FOLPET
+DRUG_4971	RETINAL
+DRUG_4972	TROVAFLOXACIN MESYLATE
+DRUG_4973	CHEMBL38508
+DRUG_4974	PHENANTHROLINE
+DRUG_4975	CYCLOHEXANONE OXIME
+DRUG_4976	ENCLOMIPHENE
+DRUG_4977	CHEMBL118417
+DRUG_4978	FTORMETAZINE
+DRUG_4979	MITOXANTRONE HYDROCHLORIDE
+DRUG_4980	BAZEDOXIFENE ACETATE
+DRUG_4981	ORYZALIN
+DRUG_4982	NITROXOLINE
+DRUG_4983	HOMIDIUM BROMIDE
+DRUG_4984	DISULFIRAM
+DRUG_4985	TRIPARANOL
+DRUG_4986	CHEMBL594772
+DRUG_4987	IPCONAZOLE
+DRUG_4988	CHEMBL598608
+DRUG_4989	SANGUINARIUM
+DRUG_4990	CHEMBL610767
+DRUG_4991	PROGLUMETACIN
+DRUG_4992	PIMOZIDE
+DRUG_4993	TRICLOCARBAN
+DRUG_4994	HYDRAMETHYLNON
+DRUG_4995	THIORIDAZINE
+DRUG_4996	CHLORANIL
+DRUG_4997	BIS(DIMETHYLAMINETHIOCARBONYL)MONOSULFIDE
+DRUG_4998	CLOFLUCARBAN
+DRUG_4999	ELAFIBRANOR
+DRUG_5000	CHLORPHRIFOS OXON
+DRUG_5001	DOXORUBICIN HYDROCHLORIDE
+DRUG_5002	HYDRALAZINE HYDROCHLORIDE
+DRUG_5003	HYCANTHONE
+DRUG_5004	VITAMIN K3H2
+DRUG_5005	ISOCONAZOLE
+DRUG_5006	ASCORBYL PALMITATE
+DRUG_5007	CHEMBL1606
+DRUG_5008	CHEMBL592305
+DRUG_5009	BITHIONOL
+DRUG_5010	ISOXABEN
+DRUG_5011	ZIRAM
+DRUG_5012	ALPHA-TERTHIENYL
+DRUG_5013	PROPACHLOR
+DRUG_5014	SERATRODAST
+DRUG_5015	TRIBROMSALAN
+DRUG_5016	GOSSYPOL
+DRUG_5017	CLOCAPRAMINE
+DRUG_5018	CLOTRIMAZOLE
+DRUG_5019	ETOXAZOLE
+DRUG_5020	TRIBUTYLTIN-OXIDE
+DRUG_5021	PROMETHAZINE HYDROCHLORIDE
+DRUG_5022	TRIAMTERENE
+DRUG_5023	BISPHENOL A
+DRUG_5024	IDAZOXAN
+DRUG_5025	CHLORHEXIDINE
+DRUG_5026	FLUSPIRILENE
+DRUG_5027	EMETINE HYDROCHLORIDE
+DRUG_5028	THIOSEMICARBAZIDE
+DRUG_5029	MENADIONE
+DRUG_5030	ASTEMIZOLE
+DRUG_5031	CHLORPROMAZINE HYDROCHLORIDE
+DRUG_5032	TAMOXIFEN CITRATE
+DRUG_5033	DIPHENYLSULFANE
+DRUG_5034	CHEMBL172988
+DRUG_5035	ABAMECTIN
+DRUG_5036	BIOALLETHRIN S-CYCLOPENTENYL ISOMER
+DRUG_5037	IDARUBICIN HYDROCHLORIDE
+DRUG_5038	PENFLURIDOL
+DRUG_5039	VANOXERINE
+DRUG_5040	OCTYL_GALLATE
+DRUG_5041	PROPRANOLOL HYDROCHLORIDE
+DRUG_5042	HEXACHLOROPHENE
+DRUG_5043	OMIDENEPAG
+DRUG_5044	TAPRENEPAG
+DRUG_5045	ALPROSTADIL
+DRUG_5046	DINOPROSTONE
+DRUG_5047	RIVENPROST
+DRUG_5048	PF-04418948
+DRUG_5049	CARBACYCLIN
+DRUG_5050	ILOPROST
+DRUG_5051	OMIDENEPAG ISOPROPYL
+DRUG_5052	BUTAPROST
+DRUG_5053	EVATANEPAG
+DRUG_5054	TESTOSTERONE UNDECANOATE
+DRUG_5055	PRASTERONE
+DRUG_5056	GSK2881078
+DRUG_5057	GALETERONE
+DRUG_5058	BICALUTAMIDE
+DRUG_5059	GSK2849466
+DRUG_5060	ENZALUTAMIDE
+DRUG_5061	ENOBOSARM
+DRUG_5062	DAROLUTAMIDE
+DRUG_5063	VK5211
+DRUG_5064	TESTOSTERONE ENANTHATE
+DRUG_5065	DANAZOL
+DRUG_5066	CLASCOTERONE
+DRUG_5067	OXYMETHOLONE
+DRUG_5068	ESCULIN
+DRUG_5069	FLUTAMIDE
+DRUG_5070	NILUTAMIDE
+DRUG_5071	NANDROLONE DECANOATE
+DRUG_5072	APALUTAMIDE
+DRUG_5073	NORGESTREL
+DRUG_5074	DROMOSTANOLONE PROPIONATE
+DRUG_5075	OXANDROLONE
+DRUG_5076	LY2452473
+DRUG_5077	DROSPIRENONE
+DRUG_5078	AZD3514
+DRUG_5079	MIBOLERONE
+DRUG_5080	ANDROSTANOLONE
+DRUG_5081	APC-100
+DRUG_5082	ETHYLESTRENOL
+DRUG_5083	MK-0773
+DRUG_5084	NANDROLONE
+DRUG_5085	PF-03882845
+DRUG_5086	HYDROXYFLUTAMIDE
+DRUG_5087	HE3235
+DRUG_5088	NANDROLONE PHENPROPIONATE
+DRUG_5089	CR 1447
+DRUG_5090	STANOZOLOL
+DRUG_5091	TESTOSTERONE CYPIONATE
+DRUG_5092	LGD-2941
+DRUG_5093	METRIBOLONE
+DRUG_5094	FLUDROCORTISONE
+DRUG_5095	GLPG0492
+DRUG_5096	NORELGESTROMIN
+DRUG_5097	GESTRINONE
+DRUG_5098	DIETHYLSTILBESTROL
+DRUG_5099	NORETHINDRONE
+DRUG_5100	NORGESTIMATE
+DRUG_5101	AZARIBINE
+DRUG_5102	NISOLDIPINE
+DRUG_5103	TRELANSERIN
+DRUG_5104	BENAZEPRIL HYDROCHLORIDE
+DRUG_5105	ACIVICIN
+DRUG_5106	TRICLOSAN
+DRUG_5107	TOREMIFENE CITRATE
+DRUG_5108	DICOFOL
+DRUG_5109	TRITON X
+DRUG_5110	CHEMBL1784521
+DRUG_5111	TACROLIMUS
+DRUG_5112	SULISOBENZONE
+DRUG_5113	LACTIC ACID
+DRUG_5114	PAPAVERINE HYDROCHLORIDE
+DRUG_5115	CHEMBL595912
+DRUG_5116	BUTAMBEN
+DRUG_5117	PHENYLETHYL ALCOHOL
+DRUG_5118	CHEMBL1923999
+DRUG_5119	CHEMBL375971
+DRUG_5120	PODOFILOX
+DRUG_5121	BROMUCONAZOLE
+DRUG_5122	COLCHICINE
+DRUG_5123	OXYQUINOLINE
+DRUG_5124	TAMSULOSIN HYDROCHLORIDE
+DRUG_5125	FENTANYL
+DRUG_5126	OXENDOLONE
+DRUG_5127	SERTINDOLE
+DRUG_5128	CHEMBL528316
+DRUG_5129	TILNOPROFEN ARBAMEL
+DRUG_5130	AZASERINE
+DRUG_5131	LIMONIN
+DRUG_5132	GIPARMEN
+DRUG_5133	ALACHLOR
+DRUG_5134	BUTACLAMOL HYDROCHLORIDE
+DRUG_5135	BENZODODECINIUM CHLORIDE
+DRUG_5136	MEZLOCILLIN
+DRUG_5137	DYDROGESTERONE
+DRUG_5138	DIBEKACIN
+DRUG_5139	AMPEROZIDE HYDROCHLORIDE
+DRUG_5140	CHEMBL2164761
+DRUG_5141	NARASIN
+DRUG_5142	CHLORBROMURON
+DRUG_5143	EPITIOSTANOL
+DRUG_5144	THONZONIUM BROMIDE
+DRUG_5145	LAUROCAPRAM
+DRUG_5146	STIROFOS
+DRUG_5147	N,N'-DIPHENYL-P-PHENYLENEDIAMINE
+DRUG_5148	SOTALOL
+DRUG_5149	CHLORDANE
+DRUG_5150	CHEMBL259327
+DRUG_5151	GRAMICIDIN S
+DRUG_5152	TETRACONAZOLE
+DRUG_5153	DIFLOXACIN HYDROCHLORIDE
+DRUG_5154	ESTRAMUSTINE
+DRUG_5155	PERBROMOBENZENE
+DRUG_5156	PILSICAINIDE
+DRUG_5157	CAPTAN
+DRUG_5158	DARBUFELONE MESYLATE
+DRUG_5159	MENADIONE SODIUM BISULPHITE
+DRUG_5160	MONENSIN SODIUM
+DRUG_5161	BUPRENORPHINE HYDROCHLORIDE
+DRUG_5162	CLOFARABINE
+DRUG_5163	ALCLOFENAC
+DRUG_5164	ESTRADIOL PROPIONATE
+DRUG_5165	MIRISTALKONIUM CHLORIDE
+DRUG_5166	CHEMBL1474
+DRUG_5167	FORMESTANE
+DRUG_5168	DESOXYCORTICOSTERONE PIVALATE
+DRUG_5169	BORTEZOMIB
+DRUG_5170	FENDILINE HYDROCHLORIDE
+DRUG_5171	PYRITHIONE SODIUM
+DRUG_5172	CHEMBL423081
+DRUG_5173	CHEMBL1946449
+DRUG_5174	ESTRADIOL ENANTHATE
+DRUG_5175	TOMATINE
+DRUG_5176	FENAMIDONE
+DRUG_5177	DIFLUCORTOLONE 21-VALERATE
+DRUG_5178	BERBERINE CHLORIDE
+DRUG_5179	LERCANIDIPINE HYDROCHLORIDE
+DRUG_5180	NORETHINDRONE ACETATE
+DRUG_5181	DIDANOSINE
+DRUG_5182	ARTEMISIN
+DRUG_5183	NIMETAZEPAM
+DRUG_5184	FURAZABOL
+DRUG_5185	ERLOTINIB
+DRUG_5186	NITROBLUE TETRAZOLIUM CHLORIDE
+DRUG_5187	LESTAURTINIB
+DRUG_5188	RESERPINE
+DRUG_5189	NORDIHYDROGUAIARETIC ACID
+DRUG_5190	AFLOQUALONE
+DRUG_5191	TOLUIC ACID
+DRUG_5192	DIELDRIN
+DRUG_5193	ALTRENOGEST
+DRUG_5194	4-AMINOPHENOL
+DRUG_5195	MILBEMYCIN A4
+DRUG_5196	BRUCINE
+DRUG_5197	ROCURONIUM BROMIDE
+DRUG_5198	CANDESARTAN CILEXETIL
+DRUG_5199	ETHYNODIOL DIACETATE
+DRUG_5200	3,3',4',5-TETRACHLOROSALICYLANILIDE
+DRUG_5201	FIDUXOSIN HYDROCHLORIDE
+DRUG_5202	DEXAMETHASONE DIPROPIONATE
+DRUG_5203	LOPERAMIDE
+DRUG_5204	TECTOQUINONE
+DRUG_5205	MESTANOLONE
+DRUG_5206	PYRAZOPHOS
+DRUG_5207	LANATOSIDE C
+DRUG_5208	DOMIPHEN BROMIDE
+DRUG_5209	MERCURIC CHLORIDE
+DRUG_5210	PYRROLNITRIN
+DRUG_5211	CHEMBL69367
+DRUG_5212	MITOMYCIN
+DRUG_5213	2-ACETYLAMINOFLUORENE
+DRUG_5214	DITHIODIMORPHOLINE
+DRUG_5215	PIPERILATE ETHOBROMIDE
+DRUG_5216	ANECORTAVE ACETATE
+DRUG_5217	FLUFENACET
+DRUG_5218	TRIS(2,3-DIBROMOPROPYL)PHOSPHATE
+DRUG_5219	VINBLASTINE SULFATE
+DRUG_5220	BIFENOX
+DRUG_5221	VATALANIB
+DRUG_5222	DESOGESTREL
+DRUG_5223	ESTRADIOL BENZOATE
+DRUG_5224	TRILOSTANE
+DRUG_5225	ESTRADIOL VALERATE
+DRUG_5226	METILDIGOXIN
+DRUG_5227	METHYLTHIOURACIL
+DRUG_5228	CHLOROPHACINONE
+DRUG_5229	CHEMBL329673
+DRUG_5230	KRESOXIM-METHYL
+DRUG_5231	TEBUCONAZOLE
+DRUG_5232	ALEXIDINE DIHYDROCHLORIDE
+DRUG_5233	PYRIPROXYFEN
+DRUG_5234	CHEMBL1436543
+DRUG_5235	EXEMESTANE
+DRUG_5236	FENBUCONAZOLE
+DRUG_5237	CHEMBL555242
+DRUG_5238	CHEMBL595682
+DRUG_5239	CETRIMONIUM BROMIDE
+DRUG_5240	AMPIROXICAM
+DRUG_5241	PROCYMIDONE
+DRUG_5242	THIOGUANINE
+DRUG_5243	NICARDIPINE HYDROCHLORIDE
+DRUG_5244	CYPROTERONE
+DRUG_5245	BENFLUOREX HYDROCHLORIDE
+DRUG_5246	DINOTERB
+DRUG_5247	PREDNISOLONE HEMISUCCINATE
+DRUG_5248	INDOXACARB
+DRUG_5249	FENARIMOL
+DRUG_5250	DEFERASIROX
+DRUG_5251	AMSACRINE HYDROCHLORIDE
+DRUG_5252	DRONEDARONE
+DRUG_5253	PROROXAN
+DRUG_5254	CYAZOFAMID
+DRUG_5255	CHEMBL194881
+DRUG_5256	PHENFORMIN HYDROCHLORIDE
+DRUG_5257	TIOCONAZOLE
+DRUG_5258	THIRAM
+DRUG_5259	CHEMBL577673
+DRUG_5260	CHEMBL1738936
+DRUG_5261	TELITHROMYCIN
+DRUG_5262	FLUROGESTONE ACETATE
+DRUG_5263	RETINYL ACETATE
+DRUG_5264	MK-2206
+DRUG_5265	OXABOLONE CIPIONATE
+DRUG_5266	CHLOROXINE
+DRUG_5267	CHEMBL1738937
+DRUG_5268	ANETHOLTRITHION
+DRUG_5269	MEPANIPYRIM
+DRUG_5270	MINOPAFANT
+DRUG_5271	MORICIZINE HYDROCHLORIDE
+DRUG_5272	HALOPROGIN
+DRUG_5273	APLAVIROC HYDROCHLORIDE
+DRUG_5274	ESTRADIOL PHOSPHATE
+DRUG_5275	FERBAM
+DRUG_5276	DODECYL GALLATE
+DRUG_5277	ZOXAMIDE
+DRUG_5278	NITROSCANATE
+DRUG_5279	ALLISAN
+DRUG_5280	1-NAPHTHYLISOTHIOCYANATE
+DRUG_5281	MICHLER'S KETONE
+DRUG_5282	CALCIUM PANTOTHENATE
+DRUG_5283	CHEMBL480626
+DRUG_5284	TOFISOPAM
+DRUG_5285	NELIVAPTAN
+DRUG_5286	RUBITECAN
+DRUG_5287	CAMBENDAZOLE
+DRUG_5288	DAUNORUBICIN HYDROCHLORIDE
+DRUG_5289	PROMAZINE HYDROCHLORIDE
+DRUG_5290	PENTACHLORONITROBENZENE
+DRUG_5291	LACTOFEN
+DRUG_5292	TANNIC ACID
+DRUG_5293	HYDROXYPROGESTERONE
+DRUG_5294	SORBIC ACID
+DRUG_5295	BISACODYL
+DRUG_5296	ZOMEPIRAC SODIUM
+DRUG_5297	MECHLORETHAMINE HYDROCHLORIDE
+DRUG_5298	VINORELBINE TARTRATE
+DRUG_5299	RIMONABANT
+DRUG_5300	CROMOLYN SODIUM
+DRUG_5301	ISOTRETINOIN
+DRUG_5302	BROMOXYNIL
+DRUG_5303	OXYPHENISATIN ACETATE
+DRUG_5304	NICARDIPINE
+DRUG_5305	CHEMBL1946014
+DRUG_5306	CHOLECALCIFEROL
+DRUG_5307	PERHEXILINE MALEATE
+DRUG_5308	METITEPINE
+DRUG_5309	DITHIAZANINE IODIDE
+DRUG_5310	BENZOFURAN
+DRUG_5311	HEXACONAZOLE
+DRUG_5312	PROADIFEN HYDROCHLORIDE
+DRUG_5313	FLUAZINAM
+DRUG_5314	THIOTEPA
+DRUG_5315	TEBUFENOZIDE
+DRUG_5316	CHEMBL458602
+DRUG_5317	PROPARGITE
+DRUG_5318	SODIUM DIMETHYLCARBAMODITHIOATE
+DRUG_5319	METHIDATHION
+DRUG_5320	COUMAPHOS
+DRUG_5321	DUTASTERIDE
+DRUG_5322	LORACARBEF
+DRUG_5323	PHENYL SALICYLATE
+DRUG_5324	FLUFENAMIC ACID
+DRUG_5325	NITROFURAZONE
+DRUG_5326	SYROSINGOPINE
+DRUG_5327	ETHACRYNIC ACID
+DRUG_5328	ETONITAZENE
+DRUG_5329	MOCLOBEMIDE
+DRUG_5330	MONATEPIL
+DRUG_5331	FIPEXIDE HYDROCHLORIDE
+DRUG_5332	(R)-BICALUTAMIDE
+DRUG_5333	ENDOSULFAN SULFATE
+DRUG_5334	DULOXETINE HYDROCHLORIDE
+DRUG_5335	CHEMBL306147
+DRUG_5336	MYCOPHENOLATE MOFETIL
+DRUG_5337	(2-NITROVINYL)BENZENE
+DRUG_5338	PYRIMETHAMINE
+DRUG_5339	FLUMETHASONE
+DRUG_5340	NONIVAMIDE
+DRUG_5341	DIDECYLDIMETHYLAMMONIUM CHLORIDE
+DRUG_5342	TOCOPHEROL ACETATE
+DRUG_5343	APRINDINE HYDROCHLORIDE
+DRUG_5344	IRINOTECAN HYDROCHLORIDE
+DRUG_5345	LEMILDIPINE
+DRUG_5346	TEROXIRONE
+DRUG_5347	IODOCARB
+DRUG_5348	MEDROXYPROGESTERONE ACETATE
+DRUG_5349	EFAROXAN
+DRUG_5350	OXAPIUM IODIDE
+DRUG_5351	PYRIDOSTIGMINE BROMIDE
+DRUG_5352	2,4-DINITROPHENOL
+DRUG_5353	ECONAZOLE NITRATE
+DRUG_5354	DOCEBENONE
+DRUG_5355	QUESTIOMYCIN B
+DRUG_5356	CETALKONIUM CHLORIDE
+DRUG_5357	APOMORPHINE
+DRUG_5358	EVEROLIMUS
+DRUG_5359	PAROXETINE
+DRUG_5360	BENZETHONIUM CHLORIDE
+DRUG_5361	ESTRONE
+DRUG_5362	OCTOCRYLENE
+DRUG_5363	FEPRAZONE
+DRUG_5364	AZD-5312
+DRUG_5365	PENCYCURON
+DRUG_5366	NEFAZODONE HYDROCHLORIDE
+DRUG_5367	CALCITRIOL
+DRUG_5368	BETAMETHASONE BUTYRATE PROPIONATE
+DRUG_5369	DIBENZOYLMETHANE
+DRUG_5370	CHEMBL1099140
+DRUG_5371	NIHYDRAZONE
+DRUG_5372	ETHOFUMESATE
+DRUG_5373	AMITHIOZONE
+DRUG_5374	SORAFENIB TOSYLATE
+DRUG_5375	CHEMBL593110
+DRUG_5376	ETHISTERONE
+DRUG_5377	TOPOTECAN HYDROCHLORIDE
+DRUG_5378	SAQUINAVIR MESYLATE
+DRUG_5379	CHEMBL196585
+DRUG_5380	ACETOPHENAZINE
+DRUG_5381	NONYL 4-HYDROXYBENZOATE
+DRUG_5382	PRAZEPAM
+DRUG_5383	AMOROLFINE
+DRUG_5384	RHODAMINE
+DRUG_5385	AMIODARONE HYDROCHLORIDE
+DRUG_5386	SCLAREOL
+DRUG_5387	TEMEFOS
+DRUG_5388	ACETALDEHYDE
+DRUG_5389	DICHLOFLUANID
+DRUG_5390	LINURON
+DRUG_5391	PIPERONAL
+DRUG_5392	CETRIMIDE
+DRUG_5393	ETOCRYLENE
+DRUG_5394	DICHLOROXYLENOL
+DRUG_5395	SPIRAMIDE
+DRUG_5396	PARAOXON
+DRUG_5397	SULFISOXAZOLE
+DRUG_5398	CYPRODINIL
+DRUG_5399	CHLOROTRIANISENE
+DRUG_5400	CHEMBL109873
+DRUG_5401	TRIPHENYLBISMUTHINE
+DRUG_5402	DICHLORVOS
+DRUG_5403	TRIFORINE
+DRUG_5404	DITHIANON
+DRUG_5405	EPIGALOCATECHIN GALLATE
+DRUG_5406	FENHEXAMID
+DRUG_5407	CARFILZOMIB
+DRUG_5408	DIPYRITHIONE
+DRUG_5409	QUININE ETHYLCARBONATE
+DRUG_5410	WARFARIN POTASSIUM
+DRUG_5411	CHEMBL609570
+DRUG_5412	AZAMETHIPHOS
+DRUG_5413	TROPOLONE
+DRUG_5414	PENTAMIDINE ISETHIONATE
+DRUG_5415	CHLOROXURON
+DRUG_5416	CRIDANIMOD
+DRUG_5417	FLUCYTOSINE
+DRUG_5418	INGLIFORIB
+DRUG_5419	CHEMBL593366
+DRUG_5420	ANDROSTENEDIOL
+DRUG_5421	SPIPERONE
+DRUG_5422	CHEMBL561679
+DRUG_5423	BENZOPHENONE
+DRUG_5424	PYRACLOSTROBIN
+DRUG_5425	CHEMBL44011
+DRUG_5426	ESTRADIOL DIPROPIONATE
+DRUG_5427	CARBOSULFAN
+DRUG_5428	ESTRAMUSTINE PHOSPHATE SODIUM
+DRUG_5429	AMBAZONE
+DRUG_5430	MESO-HEXESTROL
+DRUG_5431	FENRETINIDE
+DRUG_5432	MINOCYCLINE HYDROCHLORIDE
+DRUG_5433	TOLYLFLUANID
+DRUG_5434	EFONIDIPINE
+DRUG_5435	QUININE SULFATE
+DRUG_5436	DICYCLOHEXYLCARBODIIMIDE
+DRUG_5437	BROMCRESOL GREEN
+DRUG_5438	MERADIMATE
+DRUG_5439	BUTACHLOR
+DRUG_5440	NORETHYNODREL
+DRUG_5441	TRIMETHYL-TETRADECYL-AMMONIUM CHLORIDE
+DRUG_5442	BUTONATE
+DRUG_5443	NOCODAZOLE
+DRUG_5444	ACLARUBICIN HYDROCHLORIDE
+DRUG_5445	CARBARIL
+DRUG_5446	CHEMBL135115
+DRUG_5447	CARBONYL CYANIDE M-CHLOROPHENYLHYDRAZONE
+DRUG_5448	MEGESTROL ACETATE
+DRUG_5449	AMDINOCILLIN
+DRUG_5450	CORTICOSTERONE
+DRUG_5451	FEBUXOSTAT
+DRUG_5452	METFORMIN HYDROCHLORIDE
+DRUG_5453	FLUOXETINE
+DRUG_5454	RIFAPENTINE
+DRUG_5455	DIMETHISOQUIN HYDROCHLORIDE
+DRUG_5456	DODINE
+DRUG_5457	DEVAZEPIDE
+DRUG_5458	LASALOCID A SODIUM
+DRUG_5459	TETRADIFON
+DRUG_5460	CHEMBL297304
+DRUG_5461	TOLVAPTAN
+DRUG_5462	TILIQUINOL
+DRUG_5463	MERCURIC IODIDE
+DRUG_5464	DOFETILIDE
+DRUG_5465	TIZANIDINE
+DRUG_5466	FLUACIZINE
+DRUG_5467	CEFPODOXIME PROXETIL
+DRUG_5468	MAPROTILINE HYDROCHLORIDE
+DRUG_5469	MALTOTRIOSE
+DRUG_5470	DINITRAMINE
+DRUG_5471	PIRETANIDE
+DRUG_5472	PACLITAXEL
+DRUG_5473	FANDOSENTAN POTASSIUM
+DRUG_5474	ZERANOL
+DRUG_5475	UNOPROSTONE ISOPROPYL
+DRUG_5476	HALAZONE
+DRUG_5477	ALLETHRIN
+DRUG_5478	HEXADECYLTRIMETHYLAMMONIUM CHLORIDE
+DRUG_5479	TRIPHENYLSTANNANOL
+DRUG_5480	OXYFLUORFEN
+DRUG_5481	EXIFONE
+DRUG_5482	MIRIPIRIUM CHLORIDE
+DRUG_5483	METHYL YELLOW
+DRUG_5484	ORTHO-PHTHALALDEHYDE
+DRUG_5485	NITAZOXANIDE
+DRUG_5486	4-NITROANILINE
+DRUG_5487	BENOXACOR
+DRUG_5488	BENORILATE
+DRUG_5489	PHENYLARSINE OXIDE
+DRUG_5490	PYRITHIONE ZINC
+DRUG_5491	CHEMBL83159
+DRUG_5492	AMLEXANOX
+DRUG_5493	ZOLPIDEM
+DRUG_5494	HOMATROPINE HYDROBROMIDE
+DRUG_5495	OXIGLUTATIONE
+DRUG_5496	CHLORALIN
+DRUG_5497	CHEMBL332670
+DRUG_5498	DINALINE
+DRUG_5499	FENPYROXYMATE
+DRUG_5500	NAPROPAMIDE
+DRUG_5501	EXALAMIDE
+DRUG_5502	CHLORQUINALDOL
+DRUG_5503	DEQUALINIUM CHLORIDE
+DRUG_5504	WHILE OLIVETOL
+DRUG_5505	CHEMBL73380
+DRUG_5506	LOFEPRAMINE HYDROCHLORIDE
+DRUG_5507	GRISEOFULVIN
+DRUG_5508	AZOXYSTROBIN
+DRUG_5509	PENCONAZOLE
+DRUG_5510	CALCIPOTRIENE
+DRUG_5511	TRIFLUMIZOLE
+DRUG_5512	ATRACURIUM BESYLATE
+DRUG_5513	CHLORHEXIDINE HYDROCHLORIDE
+DRUG_5514	CETYLPYRIDINIUM CHLORIDE
+DRUG_5515	OXYPHENBUTAZONE
+DRUG_5516	ENCLOMIPHENE CITRATE
+DRUG_5517	CITICOLINE SODIUM
+DRUG_5518	DIHYDROERGOCRISTINE
+DRUG_5519	METIPRANOLOL
+DRUG_5520	ISRAPAFANT
+DRUG_5521	FEBANTEL
+DRUG_5522	MIDAZOLAM HYDROCHLORIDE
+DRUG_5523	BROMOCRIPTINE MESYLATE
+DRUG_5524	HEXYLRESORCINOL
+DRUG_5525	CHEMBL1946013
+DRUG_5526	INDINAVIR SULFATE
+DRUG_5527	TRIMETHYL-OCTADECYL-AMMONIUM CHLORIDE
+DRUG_5528	CHLORMADINONE ACETATE
+DRUG_5529	LIRANAFTATE
+DRUG_5530	DINITRO CRESOL
+DRUG_5531	DEMECOLCINE
+DRUG_5532	PHENELZINE SULFATE
+DRUG_5533	AZELNIDIPINE
+DRUG_5534	NITRALIN
+DRUG_5535	LORATADINE
+DRUG_5536	DESOXYCORTICOSTERONE
+DRUG_5537	TANSHINONE IIA
+DRUG_5538	TOLONIUM CHLORIDE
+DRUG_5539	CHEMBL598270
+DRUG_5540	METCONAZOLE
+DRUG_5541	CLOMIPRAMINE HYDROCHLORIDE
+DRUG_5542	BUFOGENIN
+DRUG_5543	ALFAXALONE
+DRUG_5544	PK-11195
+DRUG_5545	ISOFLUPREDONE ACETATE
+DRUG_5546	MESTRANOL
+DRUG_5547	BUNAMIDINE HYDROCHLORIDE
+DRUG_5548	OXYCARBOXIN
+DRUG_5549	REPAGLINIDE
+DRUG_5550	NORTRIPTYLINE HYDROCHLORIDE
+DRUG_5551	DEXBUDESONIDE
+DRUG_5552	ESTRAMUSTINE PHOSPHATE
+DRUG_5553	CARBOQUONE
+DRUG_5554	CHEMBL81782
+DRUG_5555	TRENBOLONE ACETATE
+DRUG_5556	ESTRIOL
+DRUG_5557	MEPHOBARBITAL
+DRUG_5558	CHEMBL1873684
+DRUG_5559	ISOFENPHOS
+DRUG_5560	DEXAMETHASONE VALARATE
+DRUG_5561	HALOPERIDOL
+DRUG_5562	ERGOCALCIFEROL
+DRUG_5563	FANETIZOLE
+DRUG_5564	RAD-140
+DRUG_5565	GESTODENE
+DRUG_5566	METHANDROSTENOLONE
+DRUG_5567	CHLORMIDAZOLE
+DRUG_5568	PYRVINIUM PAMOATE
+DRUG_5569	PROPICONAZOLE
+DRUG_5570	RETINOL
+DRUG_5571	DIMETHOMORPH
+DRUG_5572	CHLORAMPHENICOL PALMITATE
+DRUG_5573	THIMEROSAL
+DRUG_5574	BIAPENEM
+DRUG_5575	HEPTANE
+DRUG_5576	NELFINAVIR MESYLATE
+DRUG_5577	CHEMBL77675
+DRUG_5578	CYCLANDELATE
+DRUG_5579	QUIFENADINE
+DRUG_5580	CANRENONE
+DRUG_5581	CADMIUM DICHLORIDE
+DRUG_5582	CALCIFEDIOL
+DRUG_5583	FRENTIZOLE
+DRUG_5584	ZIPRASIDONE
+DRUG_5585	DIPHENOXYLATE HYDROCHLORIDE
+DRUG_5586	CHEMBL595911
+DRUG_5587	FLUOROSALAN
+DRUG_5588	MIBEFRADIL DIHYDROCHLORIDE
+DRUG_5589	ENILCONAZOLE
+DRUG_5590	FIPRONIL
+DRUG_5591	CHEMBL229264
+DRUG_5592	PROBENECID
+DRUG_5593	VINCLOZOLIN
+DRUG_5594	CINNAMALDEHYDE
+DRUG_5595	FLUSILAZOLE
+DRUG_5596	VALNEMULIN
+DRUG_5597	ALLANTOIN
+DRUG_5598	TIOXOLONE
+DRUG_5599	CLOROPHENE
+DRUG_5600	MELOXICAM
+DRUG_5601	CEFONICID SODIUM
+DRUG_5602	DYCLONINE HYDROCHLORIDE
+DRUG_5603	VINBURNINE
+DRUG_5604	DESERPIDINE
+DRUG_5605	FENOVERINE
+DRUG_5606	ABIRATERONE
+DRUG_5607	AZINPHOS-ETHYL
+DRUG_5608	PHANQUONE
+DRUG_5609	PYRIDABEN
+DRUG_5610	CHEMBL225563
+DRUG_5611	RITANSERIN
+DRUG_5612	TETRABUTYLAMMONIUM BROMIDE
+DRUG_5613	DAUNORUBICIN
+DRUG_5614	CANRENOATE POTASSIUM
+DRUG_5615	BITHIONOLATE SODIUM
+DRUG_5616	BENFURACARB
+DRUG_5617	ENDOSULFAN
+DRUG_5618	ESTRADIOL CYPIONATE
+DRUG_5619	FINASTERIDE
+DRUG_5620	BATILOL
+DRUG_5621	ARANIDIPINE
+DRUG_5622	CRUFOMATE
+DRUG_5623	ACETOCHLOR
+DRUG_5624	TETRAMETHRIN
+DRUG_5625	SPARFLOXACIN
+DRUG_5626	EFAVIRENZ
+DRUG_5627	TIBOLONE
+DRUG_5628	DIAZEPAM
+DRUG_5629	OCTAVERINE
+DRUG_5630	AMLODIPINE BESYLATE
+DRUG_5631	NITROFEN
+DRUG_5632	CHEMBL221047
+DRUG_5633	DESOXYCORTICOSTERONE ACETATE
+DRUG_5634	DIETHYLCARBAMAZINE CITRATE
+DRUG_5635	2-MERCAPTOBENZIMIDAZOLE
+DRUG_5636	CILNIDIPINE
+DRUG_5637	INDOCATE
+DRUG_5638	TRIBUTYLCHLOROSTANNANE
+DRUG_5639	CANNABINOL
+DRUG_5640	EMETINE
+DRUG_5641	STILONIUM IODIDE
+DRUG_5642	CHLORMADINONE
+DRUG_5643	RABEPRAZOLE SODIUM
+DRUG_5644	DACTOLISIB
+DRUG_5645	MELENGESTROL ACETATE
+DRUG_5646	TANESPIMYCIN
+DRUG_5647	CHEMBL539954
+DRUG_5648	CHEMBL1521156
+DRUG_5649	DICHLON
+DRUG_5650	DITIOCARB SODIUM
+DRUG_5651	THIOPHENE
+DRUG_5652	BUPIRIMATE
+DRUG_5653	PIMETHIXENE MALEATE
+DRUG_5654	CARUBICIN
+DRUG_5655	CHEMBL1235854
+DRUG_5656	PHENOXYCARB
+DRUG_5657	DIMETHYLAMINOETHANOL
+DRUG_5658	CHEMBL168075
+DRUG_5659	EPITESTOSTERONE
+DRUG_5660	OXYPHENISATINE
+DRUG_5661	EMODIN
+DRUG_5662	METHYLENE BLUE
+DRUG_5663	BROQUINALDOL
+DRUG_5664	TREQUINSIN HYDROCHLORIDE
+DRUG_5665	ALFATRADIOL
+DRUG_5666	VINDESINE SULFATE
+DRUG_5667	ALVOCIDIB HYDROCHLORIDE
+DRUG_5668	OXAZEPAM
+DRUG_5669	PARBENDAZOLE
+DRUG_5670	DICHLORODIMETHYLSTANNANE
+DRUG_5671	FLUFENOXURON
+DRUG_5672	VALRUBICIN
+DRUG_5673	CHLOROTHALONIL
+DRUG_5674	MITOBRONITOL
+DRUG_5675	SULFAQUINOXALINE
+DRUG_5676	OXYQUINOLINE SULFATE
+DRUG_5677	FUDOSTEINE
+DRUG_5678	SULFACARBAMIDE
+DRUG_5679	PRAZOSIN
+DRUG_5680	TRIPHENYLSTANNYL ACETATE
+DRUG_5681	PHOSALONE
+DRUG_5682	4'-DEMETHYLEPIPODOPHYLLOTOXIN
+DRUG_5683	CLOSTEBOL
+DRUG_5684	POLIDOCANOL
+DRUG_5685	RIFAMYCIN SODIUM
+DRUG_5686	PRULIFLOXACIN
+DRUG_5687	DICHLOROTRIPHENYLBISMUTHANE
+DRUG_5688	SALMETEROL
+DRUG_5689	PUROMYCIN HYDROCHLORIDE
+DRUG_5690	PALMATINE CHLORIDE HYDRATE
+DRUG_5691	FLUROCHLORIDONE
+DRUG_5692	TEBUFENPYRAD
+DRUG_5693	SERTRALINE HYDROCHLORIDE
+DRUG_5694	MELPHALAN
+DRUG_5695	EQUILIN
+DRUG_5696	ERGONOVINE
+DRUG_5697	FURFURAL
+DRUG_5698	FENCHLORAZOL-ETHYL
+DRUG_5699	IOPAMIDOL
+DRUG_5700	SECURININE
+DRUG_5701	BROTIZOLAM
+DRUG_5702	CHEMBL224318
+DRUG_5703	4-CHLOROMERCURIBENZOIC ACID
+DRUG_5704	TRIPHENYL PHOSPHATE
+DRUG_5705	CHLORDIAZEPOXIDE
+DRUG_5706	DOCUSATE SODIUM
+DRUG_5707	LULICONAZOLE
+DRUG_5708	DROMOSTANOLONE
+DRUG_5709	TRICHLOROMONOFLUOROMETHANE
+DRUG_5710	ZANOTERONE
+DRUG_5711	OXADIAZON
+DRUG_5712	NAFOXIDINE
+DRUG_5713	THIDIAZURON
+DRUG_5714	DESLANOSIDE
+DRUG_5715	GEMCITABINE HYDROCHLORIDE
+DRUG_5716	CICLOPIROX OLAMINE
+DRUG_5717	BENZOXIQUINE
+DRUG_5718	ORBIFLOXACIN
+DRUG_5719	CHLOROBENZILATE
+DRUG_5720	CORTODOXONE
+DRUG_5721	BROMEBRIC ACID
+DRUG_5722	RIFAMPIN
+DRUG_5723	PRIMIDONE
+DRUG_5724	TAZOBACTAM SODIUM
+DRUG_5725	PROPANIL
+DRUG_5726	ETONOGESTREL
+DRUG_5727	LEUPROLIDE
+DRUG_5728	PERICIAZINE
+DRUG_5729	CODEINE
+DRUG_5730	TESTOLACTONE
+DRUG_5731	BROMOCRIPTINE
+DRUG_5732	FLUTOLANIL
+DRUG_5733	DAZOMET
+DRUG_5734	SPIRADOLINE
+DRUG_5735	ATALUREN
+DRUG_5736	NILVADIPINE
+DRUG_5737	METHENOLONE ENANTHATE
+DRUG_5738	GLYCYRRHIZIN
+DRUG_5739	CHEMBL118280
+DRUG_5740	COLFORSIN
+DRUG_5741	CHEMBL76012
+DRUG_5742	BIS(PIPERIDINYLTHIOCARBONYL)DISULFIDE
+DRUG_5743	GUGGULSTERONE
+DRUG_5744	ATROPINE METHYLBROMIDE
+DRUG_5745	CHEMBL84472
+DRUG_5746	LOMITAPIDE
+DRUG_5747	LOMITAPIDE MESYLATE
+DRUG_5748	SLX-4090
+DRUG_5749	USISTAPIDE
+DRUG_5750	IMPLITAPIDE
+DRUG_5751	GRANOTAPIDE
+DRUG_5752	VEROSUDIL
+DRUG_5753	SAR-407899
+DRUG_5754	DE-104
+DRUG_5755	AT-13148
+DRUG_5756	Y-39983
+DRUG_5757	FASUDIL
+DRUG_5758	AMA0076
+DRUG_5759	NETARSUDIL
+DRUG_5760	LAUROGUADINE
+DRUG_5761	PF-00562271
+DRUG_5762	CENISERTIB
+DRUG_5763	CHEMBL225519
+DRUG_5764	LINIFANIB
+DRUG_5765	KENPAULLONE
+DRUG_5766	JNJ-7706621
+DRUG_5767	CHEMBL546797
+DRUG_5768	GO-6976
+DRUG_5769	CYC-116
+DRUG_5770	TAE-684
+DRUG_5771	CI-1040
+DRUG_5772	CHEMBL2005186
+DRUG_5773	ILORASERTIB
+DRUG_5774	GW441756X
+DRUG_5775	NETARSUDIL DIMESYLATE
+DRUG_5776	VX-702
+DRUG_5777	SP-600125
+DRUG_5778	CHEMBL541400
+DRUG_5779	ALSTERPAULLONE
+DRUG_5780	CHEMBL365617
+DRUG_5781	CHEMBL1997335
+DRUG_5782	PAXILLINE
+DRUG_5783	SR9011
+DRUG_5784	ATENOLOL
+DRUG_5785	GSK-4112
+DRUG_5786	VERAPAMIL
+DRUG_5787	RICCARDI C
+DRUG_5788	VACTOSERTIB
+DRUG_5789	HESPERADIN
+DRUG_5790	SB-431542
+DRUG_5791	CHEMBL261454
+DRUG_5792	GALUNISERTIB
+DRUG_5793	LY-2382770
+DRUG_5794	METELIMUMAB
+DRUG_5795	APABETALONE
+DRUG_5796	FUROSEMIDE
+DRUG_5797	CHEMBL247920
+DRUG_5798	LAMIVUDINE
+DRUG_5799	GLUCAGON
+DRUG_5800	OC000459
+DRUG_5801	FEVIPIPRANT
+DRUG_5802	QAV680
+DRUG_5803	ARRY-502
+DRUG_5804	MK-7246
+DRUG_5805	DONITRIPTAN
+DRUG_5806	VIDUPIPRANT
+DRUG_5807	AM-211
+DRUG_5808	RAMATROBAN
+DRUG_5809	AM-461
+DRUG_5810	AZD1981
+DRUG_5811	MK-1029
+DRUG_5812	RG7185
+DRUG_5813	SETIPIPRANT
+DRUG_5814	ADC3680
+DRUG_5815	DOVITINIB
+DRUG_5816	VANDETANIB
+DRUG_5817	NINTEDANIB
+DRUG_5818	AXITINIB
+DRUG_5819	L-21649
+DRUG_5820	TESEVATINIB
+DRUG_5821	CEDIRANIB
+DRUG_5822	TELATINIB
+DRUG_5823	SUNITINIB MALATE
+DRUG_5824	SEMAXANIB
+DRUG_5825	TIVOZANIB
+DRUG_5826	MOTESANIB
+DRUG_5827	AG-13958
+DRUG_5828	PEGPLERANIB SODIUM
+DRUG_5829	TG100-801
+DRUG_5830	ENMD-2076
+DRUG_5831	FAMITINIB
+DRUG_5832	LUCITANIB
+DRUG_5833	FRUQUINTINIB
+DRUG_5834	SURUFATINIB
+DRUG_5835	RG-1530
+DRUG_5836	PEXIDARTINIB
+DRUG_5837	AZD-1152-HQPA
+DRUG_5838	ICRUCUMAB
+DRUG_5839	CEP-5214
+DRUG_5840	BRIVANIB
+DRUG_5841	GLESATINIB
+DRUG_5842	CHIAURANIB
+DRUG_5843	BMS-690514
+DRUG_5844	CEP-11981
+DRUG_5845	XL-999
+DRUG_5846	R-406
+DRUG_5847	XL-820
+DRUG_5848	DORSOMORPHIN
+DRUG_5849	X-82
+DRUG_5850	ENTRECTINIB
+DRUG_5851	TAK-593
+DRUG_5852	SITRAVATINIB
+DRUG_5853	TOZASERTIB
+DRUG_5854	MK-2461
+DRUG_5855	PEXMETINIB
+DRUG_5856	OSI-930
+DRUG_5857	SU-014813
+DRUG_5858	LENVATINIB
+DRUG_5859	TELBERMIN
+DRUG_5860	DORAMAPIMOD
+DRUG_5861	MGCD-265
+DRUG_5862	PAZOPANIB HYDROCHLORIDE
+DRUG_5863	FORETINIB
+DRUG_5864	CP-459632
+DRUG_5865	GW843682X
+DRUG_5866	VEGFRECINE
+DRUG_5867	KRN-633
+DRUG_5868	LENVATINIB MESYLATE
+DRUG_5869	BRIVANIB ALANINATE
+DRUG_5870	ORANTINIB
+DRUG_5871	4SC-203
+DRUG_5872	AEE-788
+DRUG_5873	ALISERTIB
+DRUG_5874	AST-487
+DRUG_5875	CEP-7055
+DRUG_5876	NINTEDANIB ESYLATE
+DRUG_5877	PD-0166285
+DRUG_5878	BMS-823778
+DRUG_5879	AZD-4017
+DRUG_5880	ABT-384
+DRUG_5881	TORMENTIC ACID METHYL ESTER
+DRUG_5882	FLAVANONE
+DRUG_5883	CHEMBL604538
+DRUG_5884	URSOLIC ACID
+DRUG_5885	UPROSERTIB
+DRUG_5886	GSK-690693
+DRUG_5887	XL-418
+DRUG_5888	AZD-5363
+DRUG_5889	IPATASERTIB
+DRUG_5890	CAPIVASERTIB
+DRUG_5891	BAY-1125976
+DRUG_5892	AFURESERTIB
+DRUG_5893	OMIPALISIB
+DRUG_5894	PERIFOSINE
+DRUG_5895	CHEMBL379218
+DRUG_5896	MIRANSERTIB
+DRUG_5897	A-443654
+DRUG_5898	MSC-2363318A
+DRUG_5899	LY-2780301
+DRUG_5900	MK-2201
+DRUG_5901	SR-13668
+DRUG_5902	NELFINAVIR
+DRUG_5903	TRICIRIBINE PHOSPHATE
+DRUG_5904	GEDATOLISIB
+DRUG_5905	GIGANTOL
+DRUG_5906	TRIFLUOPERAZINE
+DRUG_5907	GSK-269962A
+DRUG_5908	SOTRASTAURIN
+DRUG_5909	ONC-201
+DRUG_5910	GAMBOGIC AMIDE
+DRUG_5911	CETUXIMAB
+DRUG_5912	CHEMBL480356
+DRUG_5913	CANERTINIB
+DRUG_5914	EUPALININ A
+DRUG_5915	CMX-2043
+DRUG_5916	CHEMBL257158
+DRUG_5917	CHEMBL258844
+DRUG_5918	ARCHEXIN
+DRUG_5919	TRICIRIBINE
+DRUG_5920	CANTHIN-6-ONE
+DRUG_5921	DABRAFENIB
+DRUG_5922	WITHAFERIN A
+DRUG_5923	APITOLISIB
+DRUG_5924	ENZASTAURIN
+DRUG_5925	LY-294002
+DRUG_5926	BMS-754807
+DRUG_5927	ALPELISIB
+DRUG_5928	PICTILISIB
+DRUG_5929	5-METHOXYCANTHINONE
+DRUG_5930	DOXORUBICIN
+DRUG_5931	VEMURAFENIB
+DRUG_5932	GEMCITABINE
+DRUG_5933	TEMSIROLIMUS
+DRUG_5934	TOPOTECAN
+DRUG_5935	ANDROGRAPHOLIDE
+DRUG_5936	CHEMBL1086397
+DRUG_5937	MINOXIDIL
+DRUG_5938	DALFAMPRIDINE
+DRUG_5939	PINACIDIL
+DRUG_5940	AZD7009
+DRUG_5941	CHEMBL1563246
+DRUG_5942	BIMAKALIM
+DRUG_5943	IBUTILIDE
+DRUG_5944	NATEGLINIDE
+DRUG_5945	EPTINEZUMAB
+DRUG_5946	AMIODARONE
+DRUG_5947	BUDIODARONE
+DRUG_5948	CHEMBL42661
+DRUG_5949	ANDOLAST
+DRUG_5950	AMIFAMPRIDINE
+DRUG_5951	AZIMILIDE
+DRUG_5952	CIZOLIRTINE
+DRUG_5953	CLOPROSTENOL
+DRUG_5954	ASAPIPRANT
+DRUG_5955	DARAPLADIB
+DRUG_5956	EPOETIN BETA
+DRUG_5957	TRAVOPROST
+DRUG_5958	FLUPROSTENOL
+DRUG_5959	CARBOPROST TROMETHAMINE
+DRUG_5960	SULPROSTONE
+DRUG_5961	LATANOPROSTENE BUNOD
+DRUG_5962	LATANOPROST
+DRUG_5963	TAFLUPROST
+DRUG_5964	BIMATOPROST
+DRUG_5965	SEPETAPROST
+DRUG_5966	ENPROSTIL
+DRUG_5967	DINOPROST TROMETHAMINE
+DRUG_5968	CHEMBL2448578
+DRUG_5969	DOMITROBAN
+DRUG_5970	IFETROBAN
+DRUG_5971	VAPIPROST
+DRUG_5972	TERUTROBAN
+DRUG_5973	DALTROBAN
+DRUG_5974	ONO-3708
+DRUG_5975	RIDOGREL
+DRUG_5976	CYCLOSPORINE
+DRUG_5977	VINBLASTINE
+DRUG_5978	PACTIMIBE
+DRUG_5979	CLOPIDOGREL
+DRUG_5980	DABIGATRAN
+DRUG_5981	ELDACIMIBE
+DRUG_5982	METHYLPHENIDATE
+DRUG_5983	TRANDOLAPRIL
+DRUG_5984	7-ETHYL-10-HYDROXYCAMPTOTHECIN
+DRUG_5985	DIACETYLMORPHINE
+DRUG_5986	METRIFUDIL
+DRUG_5987	ROLOFYLLINE
+DRUG_5988	NAMODENOSON
+DRUG_5989	GS 6201
+DRUG_5990	BVT.115959
+DRUG_5991	CIFORADENANT
+DRUG_5992	PBF-509
+DRUG_5993	ISTRADEFYLLINE
+DRUG_5994	GALANGIN
+DRUG_5995	APADENOSON
+DRUG_5996	TOZADENANT
+DRUG_5997	VISNAGIN
+DRUG_5998	CHEMBL375293
+DRUG_5999	ST1535
+DRUG_6000	REGADENOSON
+DRUG_6001	MORIN
+DRUG_6002	MEFLOQUINE
+DRUG_6003	VIPADENANT
+DRUG_6004	TONAPOFYLLINE
+DRUG_6005	BINODENOSON
+DRUG_6006	CAFFEINE, CITRATED
+DRUG_6007	FK453
+DRUG_6008	ZM-241385
+DRUG_6009	SONEDENOSON
+DRUG_6010	PICLIDENOSON
+DRUG_6011	ADENOSINE
+DRUG_6012	PRELADENANT
+DRUG_6013	EVODENOSON
+DRUG_6014	UK432097
+DRUG_6015	DERENOFYLLINE
+DRUG_6016	SAKURANETIN
+DRUG_6017	PBF-999
+DRUG_6018	N6-CYCLOPENTYLADENOSINE
+DRUG_6019	AMP579
+DRUG_6020	CHEMBL609245
+DRUG_6021	NECA
+DRUG_6022	CHEMBL1256672
+DRUG_6023	FLAVONE
+DRUG_6024	CHEMBL285819
+DRUG_6025	CHEMBL136689
+DRUG_6026	GW-328267
+DRUG_6027	AB-928
+DRUG_6028	DEXEFAROXAN
+DRUG_6029	CHEMBL27508
+DRUG_6030	CGS-21680
+DRUG_6031	LAPAQUISTAT ACETATE
+DRUG_6032	SQ109
+DRUG_6033	CHEMBL1208085
+DRUG_6034	HYPERFORIN
+DRUG_6035	RIFAXIMIN
+DRUG_6036	PHENOBARBITAL
+DRUG_6037	RITONAVIR
+DRUG_6038	SULFINPYRAZONE
+DRUG_6039	TROLEANDOMYCIN
+DRUG_6040	ECONAZOLE
+DRUG_6041	MICONAZOLE
+DRUG_6042	OXICONAZOLE
+DRUG_6043	CHLORPROMAZINE
+DRUG_6044	CEFADROXIL
+DRUG_6045	ARTEMISININ
+DRUG_6046	TERBINAFINE
+DRUG_6047	AMG-232
+DRUG_6048	MENATETRENONE
+DRUG_6049	AMOXICILLIN
+DRUG_6050	TOPIRAMATE
+DRUG_6051	ATAZANAVIR
+DRUG_6052	THEONELLASTEROL H
+DRUG_6053	SUVANINE'S SODIUM SALT
+DRUG_6054	DOXYCYCLINE
+DRUG_6055	METFORMIN
+DRUG_6056	ISRADIPINE
+DRUG_6057	THEONELLASTEROL E
+DRUG_6058	SOLOMONSTEROL A
+DRUG_6059	CHEMBL398412
+DRUG_6060	METHADONE
+DRUG_6061	SULFAMETHAZINE
+DRUG_6062	THEONELLASTEROL F
+DRUG_6063	LITHOCHOLIC ACID
+DRUG_6064	CEPHALEXIN
+DRUG_6065	CEFUROXIME
+DRUG_6066	CONICASTEROL D
+DRUG_6067	CEFACLOR
+DRUG_6068	DOLUTEGRAVIR
+DRUG_6069	MODAFINIL
+DRUG_6070	BOSENTAN
+DRUG_6071	OMEPRAZOLE
+DRUG_6072	CLINDAMYCIN
+DRUG_6073	IFOSFAMIDE
+DRUG_6074	DEMECLOCYCLINE
+DRUG_6075	CONICASTEROL B
+DRUG_6076	THEONELLASTEROL B
+DRUG_6077	CYCLOPHOSPHAMIDE
+DRUG_6078	FLOXACILLIN
+DRUG_6079	PERMETHRIN
+DRUG_6080	THEONELLASTEROL D
+DRUG_6081	THEONELLASTEROL G
+DRUG_6082	CEPHRADINE
+DRUG_6083	CONICASTEROL E
+DRUG_6084	TETRACYCLINE
+DRUG_6085	NEVIRAPINE
+DRUG_6086	ERYTHROMYCIN
+DRUG_6087	MINOCYCLINE
+DRUG_6088	CHEMBL535714
+DRUG_6089	ISONIAZID
+DRUG_6090	SOLOMONSTEROL B
+DRUG_6091	LANSOPRAZOLE
+DRUG_6092	RIFABUTIN
+DRUG_6093	THEONELLASTEROL C
+DRUG_6094	NAFCILLIN
+DRUG_6095	METYRAPONE
+DRUG_6096	AMPICILLIN
+DRUG_6097	DICLOXACILLIN
+DRUG_6098	MEMANTINE
+DRUG_6099	CHEMBL554130
+DRUG_6100	DIMETHYLSPINGOSINE
+DRUG_6101	K-877
+DRUG_6102	AVE8134
+DRUG_6103	CP-778875
+DRUG_6104	GEMFIBROZIL
+DRUG_6105	CLOFIBRATE
+DRUG_6106	CHEMBL500272
+DRUG_6107	ZYH7
+DRUG_6108	CHEMBL270960
+DRUG_6109	LY-518674
+DRUG_6110	CHOLINE FENOFIBRATE
+DRUG_6111	CIPROFIBRATE
+DRUG_6112	GW590735
+DRUG_6113	DRF-10945
+DRUG_6114	PIRINIXIC ACID
+DRUG_6115	LINOLEIC ACID
+DRUG_6116	CHEMBL220087
+DRUG_6117	MYRISTIC ACID
+DRUG_6118	PHENPROCOUMON
+DRUG_6119	IOXYNIL
+DRUG_6120	ROMAZARIT
+DRUG_6121	OLEIC ACID
+DRUG_6122	CHEMBL1089501
+DRUG_6123	CHEMBL107518
+DRUG_6124	OLEOYLETHANOLAMIDE
+DRUG_6125	ACIPIMOX
+DRUG_6126	NIACIN
+DRUG_6127	ACIFRAN
+DRUG_6128	SCH-900271
+DRUG_6129	CHEMBL456145
+DRUG_6130	MEPENZOLATE
+DRUG_6131	AZD2423
+DRUG_6132	PF-04634817
+DRUG_6133	CCX140
+DRUG_6134	PLOZALIZUMAB
+DRUG_6135	CHEMBL41275
+DRUG_6136	CENICRIVIROC
+DRUG_6137	PLERIXAFOR
+DRUG_6138	MK-0812
+DRUG_6139	PIMAGEDINE
+DRUG_6140	FRESOLIMUMAB
+DRUG_6141	NICOTINE
+DRUG_6142	VITAMIN E
+DRUG_6143	DISITERTIDE
+DRUG_6144	CLADRIBINE
+DRUG_6145	RITUXIMAB
+DRUG_6146	INOSITOL
+DRUG_6147	RAMIPRIL
+DRUG_6148	PIRFENIDONE
+DRUG_6149	M-7824
+DRUG_6150	NIS-793
+DRUG_6151	SOTATERCEPT
+DRUG_6152	AMIFOSTINE
+DRUG_6153	SANDOSTATIN
+DRUG_6154	TOREMIFENE
+DRUG_6155	EPOPROSTENOL
+DRUG_6156	EPOPROSTENOL SODIUM
+DRUG_6157	BERAPROST
+DRUG_6158	RALINEPAG
+DRUG_6159	CHEMBL196779
+DRUG_6160	TREPROSTINIL DIOLAMINE
+DRUG_6161	ESUBERAPROST
+DRUG_6162	CICAPROST
+DRUG_6163	SELEXIPAG
+DRUG_6164	TAPROSTENE
+DRUG_6165	MISOPROSTOL
+DRUG_6166	EPOETIN ALFA
+DRUG_6167	CLODRONIC ACID
+DRUG_6168	UROKINASE
+DRUG_6169	DEFIBROTIDE
+DRUG_6170	CITALOPRAM
+DRUG_6171	CETRORELIX
+DRUG_6172	ALEPLASININ
+DRUG_6173	REGRAMOSTIM
+DRUG_6174	VASOPRESSIN
+DRUG_6175	TIPLASININ
+DRUG_6176	NIMODIPINE
+DRUG_6177	PREMARIN
+DRUG_6178	ORLISTAT
+DRUG_6179	URIDINE
+DRUG_6180	DIAPLASININ
+DRUG_6181	EPIRUBICIN
+DRUG_6182	CHEMBL493076
+DRUG_6183	ROXITHROMYCIN
+DRUG_6184	CHEMBL494303
+DRUG_6185	CLARITHROMYCIN
+DRUG_6186	CHEMBL494502
+DRUG_6187	PALIFERMIN

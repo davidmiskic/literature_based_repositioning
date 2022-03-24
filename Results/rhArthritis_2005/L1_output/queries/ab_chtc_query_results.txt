@@ -1,0 +1,8 @@
+target	target_with_keyphrase_count	target_count	keyphrase_count	db_article_count
+Phe003:joint swelling	0	848	32	16993643
+Phe004:muscle cramps	0	307	32	16993643
+Phe005:autoimmune	1	40350	32	16993643
+Phe006:rheumatoid	1	50908	32	16993643
+Phe007:arthritis	2	66032	32	16993643
+Phe008:cartillage	0	4	32	16993643
+Phe009:synovial	1	15377	32	16993643

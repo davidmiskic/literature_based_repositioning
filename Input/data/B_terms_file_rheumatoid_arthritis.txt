@@ -1,0 +1,7 @@
+Phe003	joint swelling|inflamed joints|painful joints
+Phe004	muscle cramps
+Phe005	autoimmune
+Phe006	rheumatoid|reumatoid|Rheumatoid
+Phe007	arthritis
+Phe008	cartillage
+Phe009	synovial

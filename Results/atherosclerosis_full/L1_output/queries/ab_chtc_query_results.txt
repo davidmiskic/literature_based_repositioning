@@ -1,0 +1,7 @@
+target	target_with_keyphrase_count	target_count	keyphrase_count	db_article_count
+Phe001:plaque	1	70775	410	31847923
+Phe002:restricted blood flow	0	63	410	31847923
+Phe003:atherosclerosis	50	90432	410	31847923
+Phe004:arteriosclerosis	1	9247	410	31847923
+Phe005:cholesterol	319	182002	410	31847923
+Phe006:angina pectoris	0	14652	410	31847923

@@ -1,0 +1,2 @@
+target	targ_and_kp	targ_tot	kp_tot	db_tot	fet_p_value	targ_and_kp_ratio	prediction_score
+DRUG_860:IBUPROFEN	2	5802	190	20749320	0.0013554230935952758	0.0003447087211306446	-0.5946226096459619

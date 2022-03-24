@@ -1,0 +1,6 @@
+Phe001	plaque|clots
+Phe002	restricted blood flow
+Phe003	atherosclerosis
+Phe004	arteriosclerosis
+Phe005	cholesterol
+Phe006	angina pectoris

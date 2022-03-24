@@ -1,0 +1,5 @@
+target	target_with_keyphrase_count	target_count	keyphrase_count	db_article_count
+Phe001:Prostate cancer	11075	103287	28310	31847923
+Phe002:prostatic hyperplasia	1113	12492	28310	31847923
+Phe003:hereditary prostate cancer	11	250	28310	31847923
+Phe004:enlarged prostate	67	664	28310	31847923

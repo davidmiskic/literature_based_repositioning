@@ -1,0 +1,4 @@
+Phe001   Prostate cancer|prostate cancer
+Phe002   prostatic hyperplasia
+Phe003   hereditary prostate cancer
+Phe004   enlarged prostate|prostate enlargement
