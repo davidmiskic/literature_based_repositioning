@@ -1,4 +1,4 @@
-# literature_based_repositioning
+# literature based drug repositioning
 Drug repositioning strategy based on literature discovery from PubMed articles, based on:
 
 SKiM - A generalized literature-based discovery system for uncovering novel biomedical knowledge from PubMed
